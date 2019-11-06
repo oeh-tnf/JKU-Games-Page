@@ -1,2 +1,2 @@
-# JKU-Games-Page
-Homepage for JKU Games
+# Homepage for JKU Games - Lan & Spieletage
+
