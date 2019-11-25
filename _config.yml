@@ -1,0 +1,36 @@
+# site settings
+title: "JKU GAMES 2019"
+subtitle: "JKU Linz, Open Innovation Center, 13. bis 14. Dezember"
+email: "games@oeh.jku.at"
+description: "JKU Linz, Open Innovation Center, 13. bis 14. Dezember"
+baseurl: "/" 
+url: "https://games.oeh.jku.at"
+author: JKU Games Team
+street_address: JKU Linz, Open Innovation Center
+city: Linz
+state: AT
+zip_code: 4020
+country: Österreich
+phone: 
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url: 
+facebook_url: "https://facebook.com/jkugames"
+github_url: 
+gitlab_url: 
+googleplus_url: 
+instagram_url: "https://instagram.com/jkugames"
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
