@@ -4,12 +4,12 @@ subtitle: "JKU Linz, Open Innovation Center, 13. bis 14. Dezember"
 email: "games@oeh.jku.at"
 description: "JKU Linz, Open Innovation Center, 13. bis 14. Dezember"
 baseurl: "/" 
-url: "https://games.oeh.jku.at"
+url: "https://games.oeh.jku.at/"
 author: JKU Games Team
-street_address: JKU Linz, Open Innovation Center
+street_address: JKU Linz, Open Innovation Center, Altenbergerstraße 69
 city: Linz
 state: AT
-zip_code: 4020
+zip_code: 4040
 country: Österreich
 phone: 
 
