@@ -49,6 +49,20 @@ zu schützen und die Diebe zu fassen?
 
 für bis zu 5 Teilnehmer
 
+### 21:00 bis 24:00 (Vorbesprechung um 20 Uhr)
+
+*Spieleleiter:* Lucas Payr
+
+*Regelwerk:* Kingdom (No-GM RPG)
+
+*Beschreibung:*
+
+Wir sind die Bewohner eines Königreichs: Adel, Berater, Klerus, Bedienstete, Obdachlose, alles ist möglich. Unser Königreich wird eines Tages vor eine Entscheidung gestellt, die alle im Königreich beeinflusst. Natürlich hat nur der Adel zu bestimmen, wie sich das Königreich entscheidet. Allerdings sollte der Adel immer zum Wohle aller entscheiden oder es endet in einem Blutbad.
+
+Kingdom ist ein Regelwerk, das Konflikte und Intrigen zwischen Spielern nicht nur zulässt, sondern auch ermutigt. Einigen wir uns auf eine Entscheidung, gewinnen wir. Schaffen wir es nicht, so wird unser Königreich im Bürgerkrieg untergehen.
+
+für bis zu 9 Teilnehmer
+
 ## Samstag 14. Dez. 2019
 
 ### 8:00 bis 12:00
