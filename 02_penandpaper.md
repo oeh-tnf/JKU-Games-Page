@@ -65,6 +65,18 @@ für bis zu 9 Teilnehmer
 
 ## Samstag 14. Dez. 2019
 
+### 0:00 bis 4:00
+
+*Spieleleiter:* Hannes Schausberger
+
+*Regelwerk:* Dungeons & Dragons
+
+*Beschreibung:*
+
+wird noch veröffentlicht
+
+für bis zu 6 Teilnehmer
+
 ### 8:00 bis 12:00
 
 *Spieleleiter:* Tobias Innerhofer
@@ -132,5 +144,17 @@ nächste Dorf von den Orks befreien, die Flüchtlinge sicher in die
 Hauptbasis bringen, diese Hafenstadt gegen weitere Ork Angriffe sichern
 oder eurer Pflicht nachgehen und euch zur Front durchzukämpfen? Ihr
 entscheidet.
+
+für bis zu 6 Teilnehmer
+
+### 21:00 bis 1:00
+
+*Spieleleiter:* Nikolaus Trixner
+
+*Regelwerk:* Dungeons & Dragons
+
+*Beschreibung:*
+
+Fulgar Hartkäs, der Besitzer der "Lustigen Kuh" im beschaulichen Bauernstädtchen Daggerford, wurde bestohlen. Der Halbling schreckt eigentlich nicht davor zurück, seine Abscheu gegenüber Abenteurern zur Schau zu tragen. Und doch hat er euch mit dem Auftrag betragen, die Diebe ausfindig zu machen und ihm sein Hab und Gut zurück zu bringen. Diskretion ist von äußerster Wichtigkeit.
 
 für bis zu 6 Teilnehmer
