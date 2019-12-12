@@ -7,5 +7,6 @@ nav-menu: true
 ---
 ## Veranstaltungsregeln
 
-## U18-Erklärung
+## U18-Einverständniserklärung
 
+[U18-Einverständniserklärung.pdf](https://games.oeh.jku.at/U18-Einverständniserklärung.pdf)
