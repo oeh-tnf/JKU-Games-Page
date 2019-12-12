@@ -65,18 +65,6 @@ für bis zu 9 Teilnehmer
 
 ## Samstag 14. Dez. 2019
 
-### 0:00 bis 4:00
-
-*Spieleleiter:* Hannes Schausberger
-
-*Regelwerk:* Dungeons & Dragons
-
-*Beschreibung:*
-
-wird noch veröffentlicht
-
-für bis zu 6 Teilnehmer
-
 ### 8:00 bis 12:00
 
 *Spieleleiter:* Tobias Innerhofer
