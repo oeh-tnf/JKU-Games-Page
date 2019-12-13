@@ -11,4 +11,7 @@ nav-menu: true
 * Platz für ca. 150 mitgebrachte PCs (**!! Dreierverteiler wenn möglich mitnehmen !!**)
 * Turniere (Counter Strike: Global Offensive, Arcade Games, Rocket League)
 
+## Discord
+
+Hier unser brandheißer Discord Server: https://discord.gg/JF8Gb6
 
