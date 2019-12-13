@@ -14,7 +14,7 @@ Runden statt.
 Bist du eine Anfängerin bzw. ein Anfänger und hast schon seit längeren
 den Wunsch dieses einzigartige Spielerlebnis auszuprobieren oder ein
 erfahrener Veteran, der abermals in neue Welten aufbrechen möchte. Egal
-welche Art von Abenteurer du bist, dies ist die richtige Anlaufstelle
+welche Art von AbenteurerIn du bist, dies ist die richtige Anlaufstelle
 für dich.
 
 Du möchtest ein Mitglied einer unserer mutigen Abenteurergruppen werden?
