@@ -13,6 +13,6 @@ Auf unserer Veranstaltung gelten folgende AGBs:
 
 ## U18-Einverständniserklärung
 
-Die folgende Einverständniserklärung ausdrucken und von einem Erziehungsberechtigten unterschrieben bei der Spieleausgabe abgeben.
+Die folgende Einverständniserklärung ausdrucken und von einem Erziehungsberechtigten unterschrieben beim Infopoint abgeben.
 
 [U18-Einverständniserklärung.pdf](https://games.oeh.jku.at/U18-Einverständniserklärung.pdf)
