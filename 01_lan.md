@@ -13,5 +13,5 @@ nav-menu: true
 
 ## Discord
 
-Hier unser brandheißer Discord Server: https://discord.gg/JF8Gb6
+Hier unser brandheißer Discord Server: [https://discord.gg/JF8Gb6](Join Us!)
 
