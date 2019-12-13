@@ -7,7 +7,7 @@ nav-menu: true
 
 ## Highlights des LAN-Bereichs
 
-* In der neu errichtete Werkshalle, gesamt rund 400m²
+* In der neu errichteten Werkshalle, gesamt rund 400m²
 * Platz für ca. 150 mitgebrachte PCs 
 * Turniere (Counter Strike: Global Offensive, Arcade Games)
 
