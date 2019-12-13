@@ -7,6 +7,10 @@ nav-menu: true
 ---
 ## Veranstaltungsregeln
 
+Auf unserer Veranstaltung gelten folgende AGBs:
+
+[games19w AGBs.pdf](https://games.oeh.jku.at/games19w AGBs.pdf)
+
 ## U18-Einverständniserklärung
 
 Die folgende Einverständniserklärung ausdrucken und von einem Erziehungsberechtigten unterschrieben bei der Spieleausgabe abgeben.
