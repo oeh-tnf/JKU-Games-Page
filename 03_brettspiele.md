@@ -10,7 +10,7 @@ nav-menu: true
 
 * Spieleverleih mit 750 Brett-, Karten- und Gesellschaftsspielen
 * 5 Räume von 25 bis 65m²
-* Vorraum (rund 100m²) mit Personenlift und angeschlossenen sanitären Einrichtungen
+* Vorraum (rund 100m²) mit angeschlossenen sanitären Einrichtungen
 * Flexible Bestuhlung & Sitzsäcke
 * Konsolen-Area
 * Raumschiff-Brückensimulator
