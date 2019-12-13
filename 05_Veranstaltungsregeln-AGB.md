@@ -9,7 +9,7 @@ nav-menu: true
 
 Auf unserer Veranstaltung gelten folgende AGBs:
 
-[games19w AGBs.pdf](https://games.oeh.jku.at/games19w AGBs.pdf)
+[games19w%AGBs.pdf](https://games.oeh.jku.at//games19w%20AGBs.pdf)
 
 ## U18-Einverständniserklärung
 
