@@ -17,30 +17,21 @@ These are the adventures we have planned for you. Please note that they are subj
 ## Friday: 29.04.
 ### 17:00 – 21:00
 
-| **Adventure**  |  Winter is coming! (PLACEHOLDER) |
+| Adventure |  Winter is coming! (PLACEHOLDER) |
 |---|---|
 | Language |  German |
-| Game-Master  |  Lucas Payr |
-|  Rulebook | Kingdom (No-GM RPG)  |
-|  Level | Noob-Veteran (Explanation at 17:00, Start at 18:00)  |
-|  Description | John ist Mitglied der Wache, die das Königreich vor Eindringlingen schützt… […] <br>
-Für bis zu 9 Teilnehmende.  |
-
-**Adventure:** Winter is coming! (PLACEHOLDER) <br>
-**Language:** German <br>
-**Game-Master:** Lucas Payr <br>
-**Rulebook:** Kingdom (No-GM RPG) <br>
-**Level:** Noob-Veteran (Explanation at 17:00, Start at 18:00) <br>
-**Description:**<br>
-John ist Mitglied der Wache, die das Königreich vor Eindringlingen schützt… […] <br>
-Für bis zu 9 Teilnehmende.
+| Game-Master |  Lucas Payr |
+| Rulebook | Kingdom (No-GM RPG)  |
+| Level | Noob-Veteran (Explanation at 17:00, Start at 18:00)  |
+| Description | John ist Mitglied der Wache, die das Königreich vor Eindringlingen schützt… […] |
+| Players | 4-9 players |
 
 ### 21:00 – 24:00
-**Adventure:** Winter is not coming! (PLACEHOLDER) <br>
-**Language:** German <br>
-**Game-Master:** Lucas Payr <br>
-**Rulebook:** Kingdom (No-GM RPG) <br>
-**Level:** Noob-Veteran (Explanation at 17:00, Start at 18:00) <br>
-**Description:** <br>
-John ist doch kein Mitglied der Wache, die das Königreich vor Eindringlingen schützt… […] <br>
-Für bis zu 9 Teilnehmende.
+| Adventure |  Winter is not coming! (PLACEHOLDER) |
+|---|---|
+| Language |  German |
+| Game-Master |  Lucas Payr |
+| Rulebook | Kingdom (No-GM RPG)  |
+| Level | Noob-Veteran (Explanation at 17:00, Start at 18:00)  |
+| Description | John ist doch kein Mitglied der Wache, die das Königreich vor Eindringlingen schützt… […] |
+| Players | 4-9 players |
