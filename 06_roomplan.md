@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Brettspiele
-description: Gepflegtes Brettspiel
+title: Room Plan
+description: Navigate our event in style
 image: 
 nav-menu: true
-permalink: /dice/
+permalink: /rooms/
 ---
 
 ## Roomplan for our Event
 
-will come soon
+coming soon (TM)
