@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pen and Paper
-description: Analoges Rollenspiel
+description: Analog Rolegames such as DnD and Kingdom
 image: 
 nav-menu: true
 permalink: /penandpaper/
