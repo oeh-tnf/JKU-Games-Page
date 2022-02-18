@@ -3,13 +3,19 @@ layout: post
 title: LAN
 description: Bis der Router brennt
 nav-menu: true
+permalink: /lan/
 ---
 
 ## Highlights des LAN-Bereichs
 
-* In der neu errichteten Werkshalle, gesamt rund 400m²
-* Platz für ca. 150 mitgebrachte PCs (**!! Dreierverteiler wenn möglich mitnehmen !!**)
-* Turniere (Counter Strike: Global Offensive, Arcade Games, Rocket League)
+* Platz für ca. 80 mitgebrachte PCs 
+* VR- und Konsolen-Area
+* Turniere
+
+## Mitzunehmen
+* Wir stellen die Infrastruktur bereit, also LAN-Kabel, Tische und Co.
+* Bring deinen eigenen PC mit, sowie alles, das du zum Betrieb brauchst
+* Bitte nimm wenn möglich einen Verteiler mit. 
 
 ## Discord
 
