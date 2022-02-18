@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pen and Paper
-description: Analog Rolegames such as DnD and Kingdom
+description: Fantasy rolegames that are played using pen and paper, such as DnD and Kingdom
 image: 
 nav-menu: true
 permalink: /penandpaper/
