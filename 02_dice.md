@@ -2,7 +2,7 @@
 layout: post
 title: DICE
 description: All the Board and Cardgames your heart desires
-image: assets/images/dice.png
+image: <!--assets/images/dice.png-->
 nav-menu: true
 permalink: /dice/
 ---
