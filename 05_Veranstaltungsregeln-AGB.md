@@ -4,12 +4,13 @@ title: Veranstaltungsregeln
 description: AGBs und U18-Einverständniserklärung
 image: 
 nav-menu: true
+permalink: rules
 ---
-## Veranstaltungsregeln
+## Code of Behaviour
 
-Auf unserer Veranstaltung gelten folgende AGBs:
+On our Event you have to follow our AGBs:
 
-[AGBs_JKU_GAMES.pdf](https://games.oeh.jku.at//AGBs_JKU_GAMES.pdf)
+[AGBs_JKU_Games_SoSe22.pdf](https://games.oeh.jku.at//AGBs_JKU_Games_SoSe22.pdf)
 
 ## U18-Einverständniserklärung
 
