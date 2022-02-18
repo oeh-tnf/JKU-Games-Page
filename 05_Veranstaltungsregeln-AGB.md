@@ -9,7 +9,7 @@ permalink: rules
 ## Code of Behaviour
 In joining our event, you agree to following our AGBs:
 
-[AGBs.pdf](https://games.oeh.jku.at//AGBs_JKU_Games_SoSe22.pdf)
+<a href="https://games.oeh.jku.at/AGBs_JKU_Games_SoSe22.pdf" target="_blank" rel="noopener noreferrer" class="button">AGBs.pdf</a>
 
 ## U18-Form
 If you are under 18, please print the following form, have it signed by your legal guardian and hand it in at the entrance. 
