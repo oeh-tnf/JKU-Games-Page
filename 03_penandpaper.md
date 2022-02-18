@@ -34,5 +34,5 @@ These are the adventures we have planned for you. Please note that they are subj
 | Game-Master |  Lucas Payr |
 | Rulebook | DnD 5  |
 | Level | Veteran  |
-| Description | Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist John, und das ist seine Geschichte: Lorem ipsum sit dolores umbridge wäre eigentlich ein lustiges Thema für ein DnD im Prinzip könnte man es so aufziehen dass man eine Zentauren-Herde spielt die sie im Wald trifft und dann... |
+| Description | Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist John, und das ist seine Geschichte: Lorem ipsum sit dolores umbridge wäre eigentlich ein lustiges Thema für ein DnD im Prinzip könnte man es so aufziehen dass man eine Zentauren-Herde spielt die sie im Wald trifft und dann ist sie plötzlich ein Drache und... |
 | Players | 4-9 players |
