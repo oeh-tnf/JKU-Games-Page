@@ -10,7 +10,7 @@ permalink: /penandpaper/
 Welcome, Traveller!
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! <br>
-If you want to join an adventure, simply enter your name to the list at the blackboard (check out the [Room Plan]({% link /rooms %})) and be here on time!
+If you want to join an adventure, simply enter your name to the list at the blackboard (check out the [Room Plan]) and be here on time!
 
 These are the adventures we have planned for you. Please note that they are subject to change, check out the blackboard!
 
