@@ -15,6 +15,8 @@ permalink: /dice/
 * Play intense Group-games like "Werewolf" or "Two Rooms and a Boom" etc.
 * Build one of the greatest Disney Puzzle with 40.320 pieces 
 
-
+## To Bring
+* Bring your own games and play them with friends.
+* Fun, Fairness and Friends 
 
 
