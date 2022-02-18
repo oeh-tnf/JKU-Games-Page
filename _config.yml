@@ -1,12 +1,12 @@
 # site settings
-title: "JKU GAMES 2019"
-subtitle: "JKU Linz, Open Innovation Center, 13. bis 14. Dezember"
+title: "JKU GAMES 2022"
+subtitle: "JKU Linz, Bankengebäude, 29.04. - 01.05."
 email: "games@oeh.jku.at"
-description: "JKU Linz, Open Innovation Center, 13. bis 14. Dezember"
+description: "JKU Linz, Bankengebäude, 29.04. - 01.05."
 baseurl: "/" 
 url: "https://games.oeh.jku.at/"
 author: JKU Games Team
-street_address: JKU Linz, Open Innovation Center, Altenbergerstraße 69
+street_address: JKU Linz, Bankengebäude, Altenbergerstraße 69
 city: Linz
 state: AT
 zip_code: 4040
@@ -23,7 +23,7 @@ facebook_url: "https://facebook.com/jkugames"
 github_url: 
 gitlab_url: 
 googleplus_url: 
-instagram_url: "https://instagram.com/jkugames"
+instagram_url: "https://instagram.com/oehtnf"
 linkedin_url: 
 pinterest_url:
 slack_url:
