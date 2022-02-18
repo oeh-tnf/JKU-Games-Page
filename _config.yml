@@ -6,7 +6,8 @@ description: "JKU Linz, Bankengebäude, 29.04. - 01.05."
 baseurl: "/" 
 url: "https://games.oeh.jku.at/"
 author: JKU Games Team
-street_address: JKU Linz, Bankengebäude, \nAltenbergerstraße 69
+street_address: JKU Linz, Bankengebäude,
+Altenbergerstraße 69
 city: Linz
 state: AT
 zip_code: 4040
