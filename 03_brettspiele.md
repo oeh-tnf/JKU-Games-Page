@@ -4,6 +4,7 @@ title: Brettspiele
 description: Gepflegtes Brettspiel
 image: 
 nav-menu: true
+permalink: /dice/
 ---
 
 ## Highlights for DICE-Area
