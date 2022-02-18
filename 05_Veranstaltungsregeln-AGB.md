@@ -15,5 +15,6 @@ On our Event you have to follow our AGBs:
 ## U18-Einverständniserklärung
 
 Die folgende Einverständniserklärung ausdrucken und von einem Erziehungsberechtigten unterschrieben beim Infopoint abgeben.
+Print the following Form, have it signed by your legal guardian and hand it to us at the entrence. 
 
 [U18-Einverständniserklärung.pdf](https://games.oeh.jku.at/U18-Einverständniserklärung.pdf)
