@@ -24,4 +24,4 @@ Please provide a valid 2G certificate and your ID at the entry point.
 To help with contact tracing, registration is mandatory! <br>
 Your registration will be checked at the entry.
 
-[Register here!](https://forms.gle/yqQJ5RTazCu2jSiC6)
+<a href="https://forms.gle/yqQJ5RTazCu2jSiC6" target="_blank" rel="noopener noreferrer" class="button special fit">Register here</a>
