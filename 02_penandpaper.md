@@ -14,7 +14,7 @@ Runden statt.
 Bist du eine Anfängerin bzw. ein Anfänger und hast schon seit längeren
 den Wunsch dieses einzigartige Spielerlebnis auszuprobieren oder ein
 erfahrener Veteran, der abermals in neue Welten aufbrechen möchte. Egal
-welche Art von Abenteurer du bist, dies ist die richtige Anlaufstelle
+welche Art von AbenteurerIn du bist, dies ist die richtige Anlaufstelle
 für dich.
 
 Du möchtest ein Mitglied einer unserer mutigen Abenteurergruppen werden?
@@ -48,6 +48,20 @@ Könnt ihr den Dorfbewohnern helfen ihre hart erarbeiteten Wintervorräte
 zu schützen und die Diebe zu fassen?
 
 für bis zu 5 Teilnehmer
+
+### 21:00 bis 24:00 (Vorbesprechung um 20 Uhr)
+
+*Spieleleiter:* Lucas Payr
+
+*Regelwerk:* Kingdom (No-GM RPG)
+
+*Beschreibung:*
+
+Wir sind die Bewohner eines Königreichs: Adel, Berater, Klerus, Bedienstete, Obdachlose, alles ist möglich. Unser Königreich wird eines Tages vor eine Entscheidung gestellt, die alle im Königreich beeinflusst. Natürlich hat nur der Adel zu bestimmen, wie sich das Königreich entscheidet. Allerdings sollte der Adel immer zum Wohle aller entscheiden oder es endet in einem Blutbad.
+
+Kingdom ist ein Regelwerk, das Konflikte und Intrigen zwischen Spielern nicht nur zulässt, sondern auch ermutigt. Einigen wir uns auf eine Entscheidung, gewinnen wir. Schaffen wir es nicht, so wird unser Königreich im Bürgerkrieg untergehen.
+
+für bis zu 9 Teilnehmer
 
 ## Samstag 14. Dez. 2019
 
@@ -118,5 +132,17 @@ nächste Dorf von den Orks befreien, die Flüchtlinge sicher in die
 Hauptbasis bringen, diese Hafenstadt gegen weitere Ork Angriffe sichern
 oder eurer Pflicht nachgehen und euch zur Front durchzukämpfen? Ihr
 entscheidet.
+
+für bis zu 6 Teilnehmer
+
+### 21:00 bis 1:00
+
+*Spieleleiter:* Nikolaus Trixner
+
+*Regelwerk:* Dungeons & Dragons
+
+*Beschreibung:*
+
+Fulgar Hartkäs, der Besitzer der "Lustigen Kuh" im beschaulichen Bauernstädtchen Daggerford, wurde bestohlen. Der Halbling schreckt eigentlich nicht davor zurück, seine Abscheu gegenüber Abenteurern zur Schau zu tragen. Und doch hat er euch mit dem Auftrag betragen, die Diebe ausfindig zu machen und ihm sein Hab und Gut zurück zu bringen. Diskretion ist von äußerster Wichtigkeit.
 
 für bis zu 6 Teilnehmer
