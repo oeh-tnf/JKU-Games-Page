@@ -4,19 +4,17 @@ title: Brettspiele
 description: Gepflegtes Brettspiel
 image: 
 nav-menu: true
+permalink: /dice/
 ---
 
-## Highlights des DICE-Bereichs
+## Highlights for DICE-Area
 
-* Spieleverleih mit 750 Brett-, Karten- und Gesellschaftsspielen
-* 5 Räume von 25 bis 65m² (Flexible Bestuhlung & Sitzsäcke)
-* Vorraum (rund 100m²) mit angeschlossenen sanitären Einrichtungen
-* Konsolen-Area
-* Raumschiff-Brückensimulator
-* spandende Pen & Paper Abenteuer
-* Raumfüllende Werwolf Runden
-* 40.000 Teile Puzzle
-* Virtual Reality Hands-On 
+* We provide you over hundrets of Board- and Card-Games for free
+* You can play in 3 Rooms with 50 to 124m². Arrange Chairs and tables as you like or use our beanbags to play on the floor.
+* Enjoy thrilling Pen & Paper adventures 
+* Play intense Group-games like "Werewolf" or "Two Rooms and a Boom" etc.
+* Build one of the greastes Disney Puzzle with 40.320 pieces 
+
 
 
 
