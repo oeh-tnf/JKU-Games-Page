@@ -27,11 +27,12 @@ These are the adventures we have planned for you. Please note that they are subj
 | Players | 4-9 players |
 
 ### 21:00 – 24:00
+
 | Adventure |  Winter is not coming! (PLACEHOLDER) |
 |---|---|
 | Language |  German |
 | Game-Master |  Lucas Payr |
-| Rulebook | Kingdom (No-GM RPG)  |
-| Level | Noob-Veteran (Explanation at 17:00, Start at 18:00)  |
-| Description | John ist doch kein Mitglied der Wache, die das Königreich vor Eindringlingen schützt… […] |
+| Rulebook | DnD 5  |
+| Level | Veteran  |
+| Description | Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist John, und das ist seine Geschichte: Lorem ipsum sit dolores umbridge wäre eigentlich ein lustiges Thema für ein DnD im Prinzip könnte man es so aufziehen dass man eine Zentauren-Herde spielt die sie im Wald trifft und dann... |
 | Players | 4-9 players |
