@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Brettspiele
-description: Gepflegtes Brettspiel
+title: DICE
+description: Board and Cardgames
 image: 
 nav-menu: true
 permalink: /dice/
