@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pen and Paper
-description: Rolegames such as DnD and Kingdom
+description: Conquer the worlds of DnD, Kingdom, ...
 image: 
 nav-menu: true
 permalink: /penandpaper/
