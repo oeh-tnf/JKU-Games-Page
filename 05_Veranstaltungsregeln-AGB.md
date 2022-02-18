@@ -1,20 +1,27 @@
 ---
 layout: post
-title: Veranstaltungsregeln
-description: AGBs und U18-Einverständniserklärung
+title: Code of Behaviour
+description: AGBs, Covid-Rules and U18-Form
 image: 
 nav-menu: true
 permalink: rules
 ---
 ## Code of Behaviour
+In joining our event, you agree to following our AGBs:
 
-On our Event you have to follow our AGBs:
+[AGBs.pdf](https://games.oeh.jku.at//AGBs_JKU_Games_SoSe22.pdf)
 
-[AGBs_JKU_Games_SoSe22.pdf](https://games.oeh.jku.at//AGBs_JKU_Games_SoSe22.pdf)
-
-## U18-Einverständniserklärung
-
-Die folgende Einverständniserklärung ausdrucken und von einem Erziehungsberechtigten unterschrieben beim Infopoint abgeben.
-Print the following Form, have it signed by your legal guardian and hand it to us at the entrence. 
+## U18-Form
+Print the following form, have it signed by your legal guardian and hand it in at the entrance. 
 
 [U18-Einverständniserklärung.pdf](https://games.oeh.jku.at/U18-Einverständniserklärung.pdf)
+
+## Covid-Guidelines
+The JKU GAMES follow the 2G-rule (vaccinated or recovered).<br>
+Please provide a valid 2G certificate and your ID at the entry point.
+
+## Registration
+To help with contact tracing, registration is mandatory! <br>
+Your registration will be checked at the entry.
+
+[Register here!](https://forms.gle/yqQJ5RTazCu2jSiC6)
