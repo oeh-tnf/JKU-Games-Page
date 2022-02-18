@@ -16,7 +16,7 @@ permalink: /dice/
 * Build one of the greatest Disney Puzzle with 40.320 pieces 
 
 ## To Bring
-* Bring your own games and play them with friends.
-* Fun, Fairness and Friends 
+* Own games when needed.
+* Fun, Fairness and Friends.
 
 
