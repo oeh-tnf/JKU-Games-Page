@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Code of Behaviour
+title: Guidelines
 description: AGBs, Covid-Rules and U18-Form
 image: 
 nav-menu: true
