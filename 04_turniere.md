@@ -1,10 +1,14 @@
 ---
 layout: post
-title: Turniere
-description: Unsere Turnierliste
+title: Tournaments
+description: Fame and Glory await you
 image: 
 nav-menu: true
+permalink: /tournaments/
 ---
+
+We have planned several cool tournaments that happen throughout the Games, check them out!<br>
+Please note that all events are subject to change, the current plan can be found on the blackboard (see the [Room Plan](games.oeh.jku.at/rooms))!
 
 ## Super Smash Bros.
 **Start**: Freitag, 19:00
