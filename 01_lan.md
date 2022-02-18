@@ -1,23 +1,23 @@
 ---
 layout: post
 title: LAN
-description: Bis der Router brennt
+description: Make the router burn
 nav-menu: true
 permalink: /lan/
 ---
 
-## Highlights des LAN-Bereichs
+## Highlights of the LAN-Area
 
-* Platz für ca. 80 mitgebrachte PCs 
-* VR- und Konsolen-Area
-* Turniere
+* Room for up to 60 PCs
+* VR- and Console-Area
+* Tournaments
 
-## Mitzunehmen
-* Wir stellen die Infrastruktur bereit, also LAN-Kabel, Tische und Co.
-* Bring deinen eigenen PC mit, sowie alles, das du zum Betrieb brauchst
-* Bitte nimm wenn möglich einen Verteiler mit. 
+## To Bring
+* We provide you with all the infrastructure, e.g. LAN cable, tables etc.
+* You have to bring your own PC and gaming equipment!
+* An own powerstrip (Verteiler) might come in handy as well. 
 
 ## Discord
 
-Hier unser brandheißer Discord Server: [Join Us!](https://discord.gg/JF8Gb6)
+During the Games, talk to your mates using our Discord Server: [Join Us!](https://discord.gg/JF8Gb6)
 
