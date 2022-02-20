@@ -11,7 +11,7 @@ permalink: /rooms/
 
 <figure>
    <a href="/assets/images/Bankengebäude Einteilung.png">
-   <img src="/assets/images/Bankengebäude Einteilung.png" style="max-width: 200px;"
+   <img src="/assets/images/Bankengebäude Einteilung.png" style="max-width: 800px;"
       alt="Roomplan" />
    </a>
    <figcaption></figcaption>
