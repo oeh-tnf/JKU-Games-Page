@@ -2,7 +2,7 @@
 layout: post
 title: Survival Guide
 description: Navigate our event in style
-image: /assets/images/Bankengebäude Einteilung weiß.png style="max-width: 500px;"
+image: /assets/images/Bankengebäude Einteilung weiß.png 
 nav-menu: true
 permalink: /rooms/
 ---
