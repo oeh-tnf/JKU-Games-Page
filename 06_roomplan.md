@@ -2,7 +2,7 @@
 layout: post
 title: Survival Guide
 description: Navigate our event in style
-image: 
+image: /assets/images/Bankengebäude Einteilung.png
 nav-menu: true
 permalink: /rooms/
 ---
@@ -11,7 +11,7 @@ permalink: /rooms/
 
 <figure>
    <a href="/assets/images/Bankengebäude Einteilung.png">
-   <img src="Bankengebäude Einteilung.png" style="max-width: 200px;"
+   <img src="/assets/images/Bankengebäude Einteilung.png" style="max-width: 200px;"
       alt="Roomplan" />
    </a>
    <figcaption>This is the Roomplan</figcaption>
