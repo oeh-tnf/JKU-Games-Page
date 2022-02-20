@@ -10,8 +10,8 @@ permalink: /rooms/
 ## Roomplan
 
 <figure>
-   <a href="/assets/images/Bankengebäude Einteilung.png">
-   <img src="/assets/images/Bankengebäude Einteilung.png" style="max-width: 800px;"
+   <a href="/assets/images/Bankengebäude Einteilung weiß.png">
+   <img src="/assets/images/Bankengebäude Einteilung weiß.png" style="max-width: 1000px;"
       alt="Roomplan" />
    </a>
    <figcaption></figcaption>
