@@ -14,7 +14,7 @@ In joining our event, you agree to following our AGBs:
 ## U18-Form
 If you are under 18, please print the following form, have it signed by your legal guardian and hand it in at the entrance. 
 
-<a href="https://games.oeh.jku.at/U18-Einverständniserklärung.pdf" target="_blank" rel="noopener noreferrer" class="button">U18-Einverständniserklärung</a>
+<a href="assets/images/Bankengebäude Einteilung.png">Roomplan</a>
 
 ## Covid-Guidelines
 The JKU GAMES follow the 2G-rule (vaccinated or recovered).<br>
