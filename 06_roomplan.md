@@ -14,7 +14,7 @@ permalink: /rooms/
    <img src="/assets/images/Bankengebäude Einteilung.png" style="max-width: 200px;"
       alt="Roomplan" />
    </a>
-   <figcaption>This is the Roomplan</figcaption>
+   <figcaption></figcaption>
 </figure>
 
 ## Eat and Drink
