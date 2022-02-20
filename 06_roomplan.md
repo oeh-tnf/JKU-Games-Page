@@ -2,14 +2,20 @@
 layout: post
 title: Survival Guide
 description: Navigate our event in style
-image: /assets/images/Bankengebäude Einteilung.png
+image: 
 nav-menu: true
 permalink: /rooms/
 ---
 
 ## Roomplan
 
-(/assets/images/Bankengebäude Einteilung.png)
+<figure>
+   <a href="/assets/images/Bankengebäude Einteilung.png">
+   <img src="Bankengebäude Einteilung.png" style="max-width: 200px;"
+      alt="Roomplan" />
+   </a>
+   <figcaption>This is the Roomplan</figcaption>
+</figure>
 
 ## Eat and Drink
 
