@@ -2,7 +2,7 @@
 layout: post
 title: Survival Guide
 description: Navigate our event in style
-image: /assets/images/dice.png 
+image: /assets/images/Bankengebäude Einteilung.png
 nav-menu: true
 permalink: /rooms/
 ---
