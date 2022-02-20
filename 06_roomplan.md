@@ -9,7 +9,7 @@ permalink: /rooms/
 
 ## Roomplan
 
-[/assets/images/Bankengebäude Einteilung.png)
+(/assets/images/Bankengebäude Einteilung.png)
 
 ## Eat and Drink
 
