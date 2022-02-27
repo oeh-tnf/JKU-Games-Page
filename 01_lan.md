@@ -8,7 +8,7 @@ permalink: /lan/
 
 ## Highlights of the LAN-Area
 
-* Room for up to 60 PCs
+* Room for up to 45 PCs
 * VR- and Console-Area
 * Tournaments
 
