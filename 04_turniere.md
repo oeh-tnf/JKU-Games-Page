@@ -11,8 +11,8 @@ We have planned several cool tournaments that happen throughout the Games, check
 Please note that all events are subject to change, the current plan can be found at the Service-Point (see the [Room Plan](/./rooms))!
 
 * Blobby Volley
-* Smash Tournament
-* Mario-Kart Tournament
+* Super Smash Bros
+* Mario Kart
 * Egg-Painting Contest
 * Egg-Tapping (Eierpecken) Competition
 * ... and many more coming soon!
