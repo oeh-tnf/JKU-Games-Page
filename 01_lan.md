@@ -19,5 +19,4 @@ permalink: /lan/
 
 ## Discord
 
-During the Games, talk to your mates using our Discord Server: [Join Us!](https://discord.gg/JF8Gb6)
-
+During the Games, talk to your mates using our Discord Server: [Join Us!](https://discord.gg/46Hg8v57s9)
