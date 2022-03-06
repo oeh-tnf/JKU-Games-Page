@@ -13,8 +13,8 @@ permalink: /lan/
 * Tournaments
 
 <figure>
-   <a href="/assets/images/lan/lan_panorma.png">
-   <img src="/assets/images/lan/lan_panorma.png" style="max-width: 1000px;"
+   <a href="/assets/images/lan/lan_panorma.jpg">
+   <img src="/assets/images/lan/lan_panorma.jpg" style="max-width: 1000px;"
       alt="Panorama of the lan area 2018" />
    </a>
    <figcaption></figcaption>
@@ -26,8 +26,8 @@ permalink: /lan/
 * An own powerstrip (Verteiler) might come in handy as well. 
 
 <figure>
-   <a href="/assets/images/lan/hitman.png">
-   <img src="/assets/images/lan/hitman.png" style="max-width: 1000px;"
+   <a href="/assets/images/lan/hitman.jpg">
+   <img src="/assets/images/lan/hitman.jpg" style="max-width: 1000px;"
       alt="Hitman figure with blurred lan in background" />
    </a>
    <figcaption></figcaption>
