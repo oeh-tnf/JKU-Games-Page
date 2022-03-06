@@ -31,4 +31,4 @@ permalink: /lan/
 
 ## Discord
 
-During the Games, talk to your mates using our Discord Server: [Join Us!](https://discord.gg/46Hg8v57s9)
+During the Games, talk to your mates using our Discord Server: <a href="{{ site.discord_url }}"> Join us! </a> 
