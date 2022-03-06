@@ -12,10 +12,26 @@ permalink: /lan/
 * VR- and Console-Area
 * Tournaments
 
+<figure>
+   <a href="/assets/images/lan/lan_panorma.png">
+   <img src="/assets/images/lan/lan_panorma.png" style="max-width: 1000px;"
+      alt="Panorama of the lan area 2018" />
+   </a>
+   <figcaption></figcaption>
+</figure>
+
 ## To Bring
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
 * You have to bring your own PC and gaming equipment!
 * An own powerstrip (Verteiler) might come in handy as well. 
+
+<figure>
+   <a href="/assets/images/lan/hitman.png">
+   <img src="/assets/images/lan/hitman.png" style="max-width: 1000px;"
+      alt="Hitman figure with blurred lan in background" />
+   </a>
+   <figcaption></figcaption>
+</figure>
 
 ## Discord
 
