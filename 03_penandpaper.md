@@ -13,10 +13,8 @@ In this year’s JKU Games you will get a chance to try out several Pen & Paper 
 If you want to join an adventure, simply enter your name to the list at the Servicepoint (check out the [Room Plan](/./rooms)) and be here on time!
 
 <figure>
-   <a href="/assets/images/dice/pen_and_paper.jpg">
    <img src="/assets/images/dice/pen_and_paper.jpg" style="max-width: 1000px;"
       alt="Some of our games" />
-   </a>
    <figcaption></figcaption>
 </figure>
 
