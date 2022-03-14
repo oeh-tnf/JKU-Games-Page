@@ -8,7 +8,6 @@ permalink: /rooms/
 ---
 
 ## Roomplan
-
 <figure>
    <img src="/assets/images/Bankengebäude Einteilung weiß.png" style="max-width: 1000px;"
       alt="Roomplan for Games 2022S" />
