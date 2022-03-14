@@ -11,8 +11,7 @@ permalink: /rooms/
 
 <figure>
    <img src="/assets/images/Bankengebäude Einteilung weiß.png" style="max-width: 1000px;"
-      alt="Roomplan" />
-   </a>
+      alt="Roomplan for Games 2022S" />
    <figcaption></figcaption>
 </figure>
 
