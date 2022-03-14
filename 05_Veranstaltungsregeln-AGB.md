@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guidelines
-description: AGBs, Covid-Rules and U18-Form
+description: AGBs and Covid-Rules
 image: 
 nav-menu: true
 permalink: rules
