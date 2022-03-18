@@ -27,7 +27,7 @@
 		}
 	}
 
-	a {
+	a:not(.img) {
 		@include vendor('transition', (
 			'color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
@@ -44,10 +44,6 @@
 		&:active {
 			color: desaturate(darken(_palette(highlight), 15), 5) !important;
 		}
-	}
-	
-	.nounderline {
-		border-bottom: dotted 10px;
 	}
 
 	strong, b {
