@@ -27,7 +27,7 @@
 		}
 	}
 
-	a {
+	a:not(.img) not(.link){
 		@include vendor('transition', (
 			'color #{_duration(transition)} ease-in-out',
 			'border-bottom-color #{_duration(transition)} ease-in-out'
