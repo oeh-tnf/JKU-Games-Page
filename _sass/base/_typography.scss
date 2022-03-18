@@ -35,10 +35,6 @@
 		border-bottom: dotted 1px;
 		color: inherit;
 		text-decoration: none;
-
-		.nounderline {
-			border-bottom: dotted 10px;
-		}
 		
 		&:hover {
 			border-bottom-color: transparent;
@@ -48,6 +44,10 @@
 		&:active {
 			color: desaturate(darken(_palette(highlight), 15), 5) !important;
 		}
+	}
+	
+	nounderline {
+		border-bottom: dotted 10px;
 	}
 
 	strong, b {
