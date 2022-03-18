@@ -2,8 +2,8 @@
 title: "JKU GAMES 2022"
 subtitle: "JKU Linz, Bankengebäude, 29.04. - 01.05."
 email: "games@oeh.jku.at"
-description: "29.04. 16:00 - 36h non-stop<br> > Powered by <br><img src='/assets/images/slidelizard_logo_white.svg' style='max-width: 200px; padding: 0px;' alt='SlideLizard' />!"
-baseurl: "/" 
+description: "29.04. 16:00 - 36h non-stop<br> > Powered by <br><img src='/assets/images/slidelizard_logo_white.svg' style='max-width: 200px; padding: 0px;' alt='SlideLizard' />"
+baseurl: "" 
 url: "https://games.oeh.jku.at/"
 author: JKU Games Team
 street_address: "JKU Linz, Bankengebäude<br>Altenbergerstraße 69"
