@@ -14,12 +14,25 @@ If you want to join an adventure, simply enter your name to the list at the Serv
 
 <figure>
    <img src="/assets/images/dice/pen_and_paper.jpg" style="max-width: 1000px;"
-      alt="Some of our games" />
+      alt="Some of our games offered in the past" />
    <figcaption></figcaption>
 </figure>
 
 We are still planning your adventures, check back here later. <br>
-These are the adventures we have already planned. Please note that they are subject to change!
+Please note that all of the following is therefore subject to change!
+
+## Friday
+### 23:00 (?)
+
+| Adventure |  To bee or not to bee |
+|---|---|
+| Language |  German / English (depending on players) |
+| Game-Master |  Felix |
+| Rulebook | Kingdom |
+| Level | Noob |
+| Description | We play a bee colony in the wake of the bee-copolypse: A storm is coming, the wasps are attacking and our beloved queen is sick. We are hanging onto our last drop of honey. Can our kingdom be saved? <br>Kingdom is "Pen and Paper <i>light</i>": We don't have classes, dice etc., but a lot of roleplay. We will prepare our characters together. |
+| Duration | 3-4 hours |
+| Players | 3-6 players |
 
 ## Saturday
 ### 10:00 (?)
