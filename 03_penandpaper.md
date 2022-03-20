@@ -23,6 +23,7 @@ These are the adventures we have already planned. Please note that they are subj
 
 ## Saturday
 ### 10:00 (?)
+
 | Adventure |  TBD |
 |---|---|
 | Language |  German |
@@ -34,6 +35,7 @@ These are the adventures we have already planned. Please note that they are subj
 | Players | 3-5 players |
 
 ### 16:00 (?)
+
 | Adventure |  TBD |
 |---|---|
 | Language |  German |
