@@ -18,7 +18,34 @@ If you want to join an adventure, simply enter your name to the list at the Serv
    <figcaption></figcaption>
 </figure>
 
-<!--These are the adventures we have planned for you. Please note that they are subject to change, check out the blackboard! -->
+We are still planning your adventures, check back here later. <br>
+These are the adventures we have already planned. Please note that they are subject to change!
+
+## Saturday
+### 10:00 (?)
+| Adventure |  TBD |
+|---|---|
+| Language |  German |
+| Game-Master |  Nina |
+| Rulebook | DnD homebrew |
+| Level | Noob-Veteran  |
+| Description | Medieval Horror, Psychoterror - eigene Charaktere möglich aber auch vorbereitete vorhanden |
+| Duration | 3-5 hours |
+| Players | 3-5 players |
+
+### 16:00 (?)
+| Adventure |  TBD |
+|---|---|
+| Language |  German |
+| Game-Master |  Tobias |
+| Rulebook | Pathfinder 2 (mit Kobolden) |
+| Level | Keine Vorkenntnisse notwendig  |
+| Description | Kurzes bis mittellanges Abenteuer mit vorgefertigten Charakteren |
+| Duration | 3-5 hours |
+| Players | 4 players |
+
+
+<!-- 
 We are still planning your adventures, check back here later. Until then, this is what the descriptions will look like:
 
 | Adventure |  Winter is coming! (PLACEHOLDER) |
@@ -39,3 +66,6 @@ We are still planning your adventures, check back here later. Until then, this i
 | Level | Veteran  |
 | Description | Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist Dolores, und sie ist richtig sauer: Lorem ipsum sit dolores umbridge wäre eigentlich echt ein lustiges Thema für ein DnD im Prinzip könnte man es so aufziehen dass man eine Zentauren-Herde spielt die sie im Wald trifft und dann ist sie plötzlich ein Drache und... |
 | Players | 4-9 players |
+
+-->
+
