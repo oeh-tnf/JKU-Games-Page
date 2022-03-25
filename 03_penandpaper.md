@@ -37,19 +37,19 @@ Please note that all of the following is therefore subject to change!
 ## Saturday
 ### 10:00 (?)
 
-| Adventure |  TBD |
+| Adventure |  The Sound of Silence |
 |---|---|
-| Language |  German |
+| Language |  German / English (depending on players) |
 | Game-Master |  Nina |
-| Rulebook | DnD homebrew |
+| Rulebook | Dungeons & Dragons 5e + homebrew content |
 | Level | Noob-Veteran  |
-| Description | Medieval Horror, Psychoterror - eigene Charaktere möglich aber auch vorbereitete vorhanden |
+| Description | Medieval Horror, Psychoterror - Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft besucht. Doch niemand ist je aus ihr zurückgekehrt. <br>Eigene Charaktere möglich, aber auch vorbereitete vorhanden. |
 | Duration | 3-5 hours |
 | Players | 3-5 players |
 
 ### 16:00 (?)
 
-| Adventure |  TBD |
+| Adventure |  tba |
 |---|---|
 | Language |  German |
 | Game-Master |  Tobias |
@@ -59,6 +59,17 @@ Please note that all of the following is therefore subject to change!
 | Duration | 3-5 hours |
 | Players | 4 players |
 
+### 20:00 (?)
+
+| Adventure |  tba |
+|---|---|
+| Language |  German / English (depending on players) |
+| Game-Master |  Dylan |
+| Rulebook | Dungeons & Dragons 5e |
+| Level | Noob |
+| Description | tba |
+| Duration | 3-5 hours |
+| Players | 3-6 players |
 
 <!-- 
 We are still planning your adventures, check back here later. Until then, this is what the descriptions will look like:
