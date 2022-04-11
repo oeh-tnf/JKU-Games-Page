@@ -18,11 +18,34 @@ If you want to join an adventure, simply enter your name to the list at the Serv
    <figcaption></figcaption>
 </figure>
 
-We are still planning your adventures, check back here later. <br>
+We are still planning your adventures. <br>
 Please note that all of the following is therefore subject to change!
 
 ## Friday
-### 23:00 (?)
+
+### 17:00
+| Adventure | Hogwarts Cup |
+|---|---|
+| Language |  English |
+| Game-Master |  Johnny|
+| Rulebook | Dungeons & Dragons 5e + homebrew content  |
+| Level | All - only wizard characters allowed!  |
+| Description | We will play an only wizard Oneshot in the setting of Hogwarts. |
+| Duration | 3-5 hours |
+| Players | 3-5 players |
+
+### 17:00
+| Adventure | no name yet |
+|---|---|
+| Language |  German |
+| Game-Master |  Tobias |
+| Rulebook | Pathfinder 2 (mit Kobolden) |
+| Level | Keine Vorkenntnisse notwendig  |
+| Description | Kurzes bis mittellanges Abenteuer mit vorgefertigten Charakteren |
+| Duration | 3-5 hours |
+| Players | 4 players |
+
+### 23:00
 
 | Adventure |  To bee or not to bee |
 |---|---|
@@ -35,39 +58,39 @@ Please note that all of the following is therefore subject to change!
 | Players | 3-6 players |
 
 ## Saturday
-### 10:00 (?)
+### 09:00
 
 | Adventure |  The Sound of Silence |
 |---|---|
 | Language |  German / English (depending on players) |
 | Game-Master |  Nina |
 | Rulebook | Dungeons & Dragons 5e + homebrew content |
-| Level | Noob-Veteran  |
-| Description | Medieval Horror, Psychoterror - Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft besucht. Doch niemand ist je aus ihr zurückgekehrt. <br>Eigene Charaktere möglich, aber auch vorbereitete vorhanden. |
+| Level | for Noobs and Veterans  |
+| Description | Medieval Horror, Psychoterror - Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft besucht. Doch niemand ist je aus ihr zurückgekehrt. <br>Own Characters allowed (Lvl 7, no magic items, multiclassing allowed), but there will also be prepared ones. |
 | Duration | 3-5 hours |
 | Players | 3-5 players |
 
-### 16:00 (?)
+### 14:00 
 
-| Adventure |  tba |
+| Adventure |  to be announced |
 |---|---|
-| Language |  German |
-| Game-Master |  Tobias |
-| Rulebook | Pathfinder 2 (mit Kobolden) |
-| Level | Keine Vorkenntnisse notwendig  |
-| Description | Kurzes bis mittellanges Abenteuer mit vorgefertigten Charakteren |
-| Duration | 3-5 hours |
-| Players | 4 players |
-
-### 20:00 (?)
-
-| Adventure |  tba |
-|---|---|
-| Language |  German / English (depending on players) |
+| Language |  German/English (depending on players) |
 | Game-Master |  Dylan |
 | Rulebook | Dungeons & Dragons 5e |
 | Level | Noob |
-| Description | tba |
+| Description |to be announced |
+| Duration | 3-5 hours |
+| Players | 3-6 players |
+
+### 19:00 
+
+| Adventure | to be announced |
+|---|---|
+| Language |  German / English (depending on players) |
+| Game-Master |  Nikolaus |
+| Rulebook | Dungeons & Dragons 5e |
+| Level | Noobfriendly |
+| Description | to be announced |
 | Duration | 3-5 hours |
 | Players | 3-6 players |
 
