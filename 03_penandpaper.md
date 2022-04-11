@@ -24,6 +24,7 @@ Please note that all of the following is therefore subject to change!
 ## Friday
 
 ### 17:00
+
 | Adventure | Hogwarts Cup |
 |---|---|
 | Language |  English |
@@ -35,6 +36,7 @@ Please note that all of the following is therefore subject to change!
 | Players | 3-5 players |
 
 ### 17:00
+
 | Adventure | no name yet |
 |---|---|
 | Language |  German |
