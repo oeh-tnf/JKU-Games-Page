@@ -25,7 +25,7 @@ Please note that all of the following is therefore subject to change!
 
 ### 17:00
 
-| Adventure | Hogwarts Cup |
+| Adventure | An Extraodrinary Hogwarts Cup |
 |---|---|
 | Language |  English |
 | Game-Master |  Johnny|
