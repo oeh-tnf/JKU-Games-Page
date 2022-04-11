@@ -65,7 +65,7 @@ Please note that all of the following is therefore subject to change!
 | Adventure |  The Sound of Silence |
 |---|---|
 | Language |  German / English (depending on players) |
-| Game-Master |  Nina |
+| Game-Master | Nina |
 | Rulebook | Dungeons & Dragons 5e + homebrew content |
 | Level | for Noobs and Veterans  |
 | Description | Medieval Horror, Psychoterror - Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft besucht. Doch niemand ist je aus ihr zurückgekehrt. <br>Own Characters allowed (Lvl 7, no magic items, multiclassing allowed), but there will also be prepared ones. |
@@ -77,10 +77,10 @@ Please note that all of the following is therefore subject to change!
 | Adventure |  to be announced |
 |---|---|
 | Language |  German/English (depending on players) |
-| Game-Master |  Dylan |
+| Game-Master | Dylan |
 | Rulebook | Dungeons & Dragons 5e |
 | Level | Noob |
-| Description |to be announced |
+| Description | to be announced |
 | Duration | 3-5 hours |
 | Players | 3-6 players |
 
@@ -89,7 +89,7 @@ Please note that all of the following is therefore subject to change!
 | Adventure | to be announced |
 |---|---|
 | Language |  German / English (depending on players) |
-| Game-Master |  Nikolaus |
+| Game-Master | Nikolaus |
 | Rulebook | Dungeons & Dragons 5e |
 | Level | Noobfriendly |
 | Description | to be announced |
