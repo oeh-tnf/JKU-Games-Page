@@ -16,9 +16,10 @@ permalink: /rooms/
 
 ## Eat and Drink
 
-Throughout the event, we will provide free snacks, coffee and tea in the Kitchen.
+Throughout the event, we will provide free snacks, coffee and tea in the Kitchen.<br>
 We will provide you with a Microwave there as well.
 
+### Pizza
 Periodically, we will also organize a Pizza delivery call to <a class="dotted" href="https://www.pleschinger-stube.at/">Pleschinger Stube</a> with special conditions.
 You will be informed about when the next order takes place at the event, we currently plan on taking orders at around these times: <br>
 * FR, 18:00
@@ -30,6 +31,7 @@ You will be informed about when the next order takes place at the event, we curr
 Note that this is just an approximate schedule subject to change.<br>
 There is an ATM nearby.
 
+### More Food
 Some selected other food opportunities nearby:
 * Spar JKU Campus: Friday 07:30-18:30
 * Grüne Papaya (Thai): Friday 18:00-22:00
