@@ -20,7 +20,13 @@ Throughout the event, we will provide free snacks, coffee and tea in the Kitchen
 We will provide you with a Microwave there as well.
 
 Periodically, we will also organize a Pizza delivery call to <a class="dotted" href="https://www.pleschinger-stube.at/">Pleschinger Stube</a> with special conditions.
-You will be informed about when the next order takes place at the event.
+You will be informed about when the next order takes place at the event, we currently plan on taking orders at around these times:
+* FR, 18:00
+* FR, 20:00
+* SA, 12:00
+* SA, 18:00
+* SA, 20:00
+Note that this is just an approximate schedule and might change.
 There is an ATM nearby.
 
 Some selected other food opportunities nearby:
