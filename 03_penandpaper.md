@@ -25,13 +25,13 @@ Please note that all of the following is therefore subject to change!
 
 ### 17:00
 
-| Adventure | Hogwarts Cup |
+| Adventure | An Extraordinary Hogwarts Cup |
 |---|---|
 | Language |  English |
 | Game-Master |  Johnny|
 | Rulebook | Dungeons & Dragons 5e + homebrew content  |
 | Level | All - only wizard characters allowed!  |
-| Description | We will play an only wizard Oneshot in the setting of Hogwarts. |
+| Description | Just 2 years past since he who must not be named vanished. The wizarding community is still divided about which Families supported which cause. Wild accusations get thrown around. So to  form a strengthened bond between the houses and to stop the fighting in the next generation of the wizarding community  the headmaster of Hogwarts, Albus Dumbledore, decides to make a very special Hogwartscup this year. |
 | Duration | 3-5 hours |
 | Players | 3-5 players |
 
