@@ -25,13 +25,14 @@ Please note that all of the following is therefore subject to change!
 
 ### 17:00
 
-| Adventure | Hogwarts Cup |
+| Adventure | An Extraordinary Hogwarts Cup |
 |---|---|
 | Language |  English |
-| Game-Master |  Johnny|
+| Game-Master |  Johnny |
 | Rulebook | Dungeons & Dragons 5e + homebrew content  |
 | Level | All - only wizard characters allowed!  |
-| Description | We will play an only wizard Oneshot in the setting of Hogwarts. |
+| Description | Just 2 years past since he who must not be named vanished. The wizarding community is still divided about which Families  supported which cause.
+And wild accusations get thrown around. So to  form a strengthened bond between the houses and to stop the infighting in the next generation of the wizarding community  the headmaster of Hogwarts, Albus Dumbledore, decided to make a very special Hogwartscup this year.|
 | Duration | 3-5 hours |
 | Players | 3-5 players |
 
@@ -93,8 +94,21 @@ Please note that all of the following is therefore subject to change!
 | Rulebook | Dungeons & Dragons 5e |
 | Level | Noobfriendly |
 | Description | to be announced |
-| Duration | 3-5 hours |
-| Players | 3-6 players |
+| Duration | 3-6 hours |
+| Players | 3-5 players |
+
+
+### 23:00 
+
+| Adventure | Dam of the Kings |
+|---|---|
+| Language |  German / English (depending on players) |
+| Game-Master | Wolfgang |
+| Rulebook | Dungeons & Dragons 5e |
+| Level | Any (Beginnerfriendly) |
+| Description | A friend asks the adventurers to take him o the Dam of the Kings, an ancient dwarven structure that has long been abandoned, and to unveil the mysteries that lie within. I will bring some generated characters, we can create characters together beforehand, or you can bring your own characters (of 2nd level).|
+| Duration | 2-5 hours |
+| Players | 2-5 players |
 
 <!-- 
 We are still planning your adventures, check back here later. Until then, this is what the descriptions will look like:
