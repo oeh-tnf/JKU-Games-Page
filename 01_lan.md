@@ -11,6 +11,7 @@ permalink: /lan/
 * Room for up to 45 PCs
 * VR- and Console-Area
 * Tournaments
+* Try out <a class="dotted" href="https://github.com/7Magic7Mike7/Qrogue">Qrogue</a> - a game about quantum computing developed at the JKU (IIC)
 
 <figure>
    <img src="/assets/images/lan/lan_panorama.jpg" style="max-width: 1000px;"
