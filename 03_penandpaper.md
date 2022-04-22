@@ -10,7 +10,8 @@ permalink: /penandpaper/
 Welcome, Traveller!
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! <br>
-If you want to join an adventure, simply enter your name to the list at the Servicepoint (check out the [Room Plan](/./rooms)) and be here on time!
+If you want to join an adventure, simply enter your name to the list at the Servicepoint (check out the [Room Plan](/./rooms)) and be here on time!<br>
+You can also contact some of the DMs beforehand via <a class="dotted" href="{{ site.discord_url }}">{{ site.discord_url }}</a>!
 
 <figure>
    <img src="/assets/images/dice/pen_and_paper.jpg" style="max-width: 1000px;"
