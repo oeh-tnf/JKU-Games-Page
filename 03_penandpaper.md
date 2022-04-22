@@ -31,8 +31,7 @@ Please note that all of the following is therefore subject to change!
 | Game-Master |  Johnny |
 | Rulebook | Dungeons & Dragons 5e + homebrew content  |
 | Level | All - only wizard characters allowed!  |
-| Description | Just 2 years past since he who must not be named vanished. The wizarding community is still divided about which Families  supported which cause.
-And wild accusations get thrown around. So to  form a strengthened bond between the houses and to stop the infighting in the next generation of the wizarding community  the headmaster of Hogwarts, Albus Dumbledore, decided to make a very special Hogwartscup this year.|
+| Description | Just 2 years past since he who must not be named vanished. The wizarding community is still divided about which Families supported which cause, and wild accusations get thrown around. So to form a strengthened bond between the houses and to stop the infighting in the next generation of the wizarding community the headmaster of Hogwarts, Albus Dumbledore, decided to make a very special Hogwartscup this year.|
 | Duration | 3-5 hours |
 | Players | 3-5 players |
 
