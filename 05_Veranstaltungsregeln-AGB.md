@@ -21,11 +21,15 @@ If you are under 18, please print the following form, have it signed by your leg
 ## Covid-Guidelines
 The JKU GAMES follow the 2G-rule (vaccinated or recovered).<br>
 Please provide a valid 2G certificate and your ID at the entry point.<br>
-Please monitor your health status before and after the event! Only join us if you feel healthy, follow our contact tracing guidelines.
+Please monitor your health status before and after the event! Only join us if you feel healthy, follow our contact tracing guidelines.<br>
+Refer to our covid prevention concept for more information!
+
+<a href="https://games.oeh.jku.at/Covid_Präventionskonzept.pdf" target="_blank" rel="noopener noreferrer" class="button">AGBs</a>
 
 We use the JKU's definition for what proof of vaccination/recovery is valid for how long (see link below), but as a rule of thumb: If the GreenCheck-App accepts it as 2G, so do we.
 
 <a href="https://www.jku.at/corona-massnahmen-an-der-jku/" target="_blank" rel="noopener noreferrer" class="button">JKU Covid Guidelines</a>
+
 
 ## Registration
 To help with contact tracing, registration is mandatory! <br>
