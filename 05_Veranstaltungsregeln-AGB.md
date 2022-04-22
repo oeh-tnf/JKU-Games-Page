@@ -32,7 +32,6 @@ We use the JKU's definition for what proof of vaccination/recovery is valid for 
 
 
 ## Registration
-To help with contact tracing, registration is mandatory! <br>
-Your registration will be checked at the entry.
+To help us prepare for the event, registration is mandatory!
 
 <a href="https://forms.gle/yqQJ5RTazCu2jSiC6" target="_blank" rel="noopener noreferrer" class="button">Register here</a>
