@@ -8,11 +8,17 @@ permalink: /tournaments/
 ---
 
 We have planned several cool tournaments that happen throughout the Games, check them out!<br>
-Please note that all events are subject to change, the current plan can be found at the Service-Point (see the [Room Plan](/./rooms))!
+Every participant gets a cool sticker and the chance to win a prize from our goodie box he chooses.<br>
+Please note that all events are subject to change. You will be able to find the current plan at the Service-Point (see the [Room Plan](/./rooms))!
 
-* Blobby Volley
-* Super Smash Bros
-* Mario Kart
-* Egg-Painting Contest
-* Egg-Tapping (Eierpecken) Competition
-* ... and many more coming soon!
+Friday:
+* 19:30 - Mario Kart
+* 21:00 - Blobby Volley
+* 22:30 - Lethal League
+
+Saturday:
+* until 12:00 - Egg-Painting Contest
+* 13:30 - Egg-Tapping (Eierpecken) Competition
+* 15:00 - Floppy Disk Weitwurf, if the weather is nice
+* 18:00 - Duck Game
+* 20:00 - Nidhogg
