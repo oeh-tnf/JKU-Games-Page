@@ -13,7 +13,7 @@ Please note that all events are subject to change. You will be able to find the 
 
 
 ## Friday:
-| **Time** | **Event**            | **Room(s)**                     |
+| Time | Event | Room(s) |
 |----------|----------------------|---------------------------------|
 | 17:30    | Two Rooms and A Boom | Group Games & Multipurpose-Room |
 | 20:00    | Mario Kart           | Console Room                    |
