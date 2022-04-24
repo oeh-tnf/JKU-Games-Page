@@ -14,14 +14,14 @@ Please note that all events are subject to change. You will be able to find the 
 
 ## Friday:
 | Time | Event | Room(s) |
-|----------|----------------------|---------------------------------|
+|---|---|---|
 | 17:30    | Two Rooms and A Boom | Group Games & Multipurpose-Room |
 | 20:00    | Mario Kart           | Console Room                    |
 
 
 ## Saturday:
-| **Time** | **Event**                | **Room(s)**                      |
-|----------|--------------------------|----------------------------------|
+| Time | Event | Room(s) |
+|---|---|---|
 | 02:00    | Blobby Volley            | LAN                              |
 | 08:00    | Egg-Painting             | Kitchen                          |
 | 13:00    | Competitive Eierpecken   | Multipurpose-Room                |
