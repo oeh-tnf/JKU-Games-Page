@@ -48,7 +48,7 @@ Please note that all of the following is therefore subject to change!
 | Duration | 3-5 hours |
 | Players | 4 players |
 
-### 23:00
+### 22:00
 
 | Adventure |  To bee or not to bee |
 |---|---|
