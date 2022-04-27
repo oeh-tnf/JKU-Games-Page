@@ -19,9 +19,6 @@ You can also contact some of the DMs beforehand via <a class="dotted" href="{{ s
    <figcaption></figcaption>
 </figure>
 
-We are still planning your adventures. <br>
-Please note that all of the following is therefore subject to change!
-
 ## Friday
 
 ### 17:00
@@ -36,9 +33,9 @@ Please note that all of the following is therefore subject to change!
 | Duration | 3-5 hours |
 | Players | 3-5 players |
 
-### 17:00
+### 19:00
 
-| Adventure | no name yet |
+| Adventure | Kurzes Abenteuer für Einsteiger |
 |---|---|
 | Language |  German |
 | Game-Master |  Tobias |
@@ -75,25 +72,25 @@ Please note that all of the following is therefore subject to change!
 
 ### 14:00 
 
-| Adventure |  to be announced |
+| Adventure |  Spirits at Sea |
 |---|---|
-| Language |  German/English (depending on players) |
-| Game-Master | Dylan |
-| Rulebook | Dungeons & Dragons 5e |
-| Level | Noob |
-| Description | to be announced |
-| Duration | 3-5 hours |
-| Players | 3-6 players |
+| Language |  German + English |
+| Game-Master | Nick |
+| Rulebook | Dungeons & Dragons 5e + homebrew content |
+| Level | Character Level 8; premade characters; players of all experience levels are welcome |
+| Description | Swashbuckling; Commander Artimesia Faulistus has summoned you – a group of skilled adventurers – to her ship, the “Grand Shanty” to help her with a problem: One of the crew members was found dead … can you eliminate the threat? |
+| Duration | 3-6 hours |
+| Players | 4-6 players |
 
 ### 19:00 
 
-| Adventure | to be announced |
+| Adventure | Sinister Secret of Saltmarsh |
 |---|---|
 | Language |  German / English (depending on players) |
 | Game-Master | Nikolaus |
 | Rulebook | Dungeons & Dragons 5e |
 | Level | Noobfriendly |
-| Description | to be announced |
+| Description | Desolate and abandoned, the evil alchemist's mansion stands alone on the cliff, looking out towards the sea. Mysterious lights and ghostly hauntings have kept away the people of Saltmarsh, despite rumors of fabulous forgotten treasure. What is its sinister secret? |
 | Duration | 3-6 hours |
 | Players | 3-5 players |
 
