@@ -16,7 +16,7 @@ permalink: /dice/
 ## Highlights for DICE-Area
 
 * We provide you hundreds of Board- and Card-Games
-* You can play in 3 Rooms with 50 to 124m². Arrange Chairs and tables as you like or use our beanbags to play on the floor.
+* You can play in 4 Rooms with 63 to 250m². Arrange Chairs and tables as you like or use our beanbags to play on the floor.
 * Enjoy thrilling [Pen & Paper adventures](/./penandpaper) 
 * Play intense Group-games like "Werewolf" or "Two Rooms and a Boom".
 * Build one of the greatest Disney Puzzle with 40.320 pieces 
