@@ -17,7 +17,7 @@ permalink: /rooms/
 ## Eat and Drink
 
 Throughout the event, we will provide free snacks, coffee and tea in the Kitchen.<br>
-We will provide you with a Microwave there as well.
+For your free use a Microwave and a Fridge can be found there. All things you place in the fridge sign with your name and don't use the whole place for yourself.
 
 ### Pizza
 Periodically, we will also organize a Pizza delivery call to <a class="dotted" href="https://www.pleschinger-stube.at/">Pleschinger Stube</a> with special conditions.
