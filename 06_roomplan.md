@@ -38,3 +38,6 @@ Some selected other food opportunities nearby:
 * Winkler Markt: Friday 07:30-18:30, Saturday 07:30-17:00
 
 For more inspiration, check out <a class="dotted" href="https://www.jku.at/en/campus/recreation/food-drink/">JKU's food guide</a>!
+
+## Restroom
+If you need a short break or recover from a intense Pen&Paper Adventure you should visit our Restroom in the first floor. Please be aware, that you have to bring your own sleeping bags or mattresses. 
