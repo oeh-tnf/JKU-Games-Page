@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Guidelines
-description: AGBs and Covid-Rules
+description: AGBs
 image: 
 nav-menu: true
 permalink: rules
