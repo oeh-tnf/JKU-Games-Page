@@ -19,95 +19,6 @@ You can also contact some of the DMs beforehand via <a class="dotted" href="{{ s
    <figcaption></figcaption>
 </figure>
 
-## Friday
-
-### 17:00
-
-| Adventure | An Extraordinary Hogwarts Cup |
-|---|---|
-| Language |  English |
-| Game-Master |  Johnny |
-| Rulebook | Dungeons & Dragons 5e + homebrew content  |
-| Level | All - only wizard characters allowed!  |
-| Description | Just 2 years past since he who must not be named vanished. The wizarding community is still divided about which Families supported which cause, and wild accusations get thrown around. So to form a strengthened bond between the houses and to stop the infighting in the next generation of the wizarding community the headmaster of Hogwarts, Albus Dumbledore, decided to make a very special Hogwartscup this year.|
-| Duration | 3-5 hours |
-| Players | 3-5 players |
-
-### 19:00
-
-| Adventure | Kurzes Abenteuer für Einsteiger |
-|---|---|
-| Language |  German |
-| Game-Master |  Tobias |
-| Rulebook | Pathfinder 2 (mit Kobolden) |
-| Level | Keine Vorkenntnisse notwendig  |
-| Description | Kurzes bis mittellanges Abenteuer mit vorgefertigten Charakteren |
-| Duration | 3-5 hours |
-| Players | 4 players |
-
-### 22:00
-
-| Adventure |  To bee or not to bee |
-|---|---|
-| Language |  German / English (depending on players) |
-| Game-Master |  Felix |
-| Rulebook | Kingdom |
-| Level | Noob |
-| Description | We play a bee colony in the wake of the bee-copolypse: A storm is coming, the wasps are attacking and our beloved queen is sick. We are hanging onto our last drop of honey. Can our kingdom be saved? <br>Kingdom is "Pen and Paper <i>light</i>": We don't have classes, dice etc., but a lot of roleplay. We will prepare our characters together. |
-| Duration | 3-4 hours |
-| Players | 3-6 players |
-
-## Saturday
-### 09:00
-
-| Adventure |  The Sound of Silence |
-|---|---|
-| Language |  German / English (depending on players) |
-| Game-Master | Nina |
-| Rulebook | Dungeons & Dragons 5e + homebrew content |
-| Level | for Noobs and Veterans  |
-| Description | Medieval Horror, Psychoterror - Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft besucht. Doch niemand ist je aus ihr zurückgekehrt. <br>Own Characters allowed (Lvl 7, no magic items, multiclassing allowed), but there will also be prepared ones. |
-| Duration | 3-5 hours |
-| Players | 3-5 players |
-
-### 14:00 
-
-| Adventure |  Spirits at Sea |
-|---|---|
-| Language |  German + English |
-| Game-Master | Nick |
-| Rulebook | Dungeons & Dragons 5e + homebrew content |
-| Level | Character Level 8; premade characters; players of all experience levels are welcome |
-| Description | Swashbuckling; Commander Artimesia Faulistus has summoned you – a group of skilled adventurers – to her ship, the “Grand Shanty” to help her with a problem: One of the crew members was found dead … can you eliminate the threat? |
-| Duration | 3-6 hours |
-| Players | 4-6 players |
-
-### 19:00 
-
-| Adventure | Sinister Secret of Saltmarsh |
-|---|---|
-| Language |  German / English (depending on players) |
-| Game-Master | Nikolaus |
-| Rulebook | Dungeons & Dragons 5e |
-| Level | Noobfriendly |
-| Description | Desolate and abandoned, the evil alchemist's mansion stands alone on the cliff, looking out towards the sea. Mysterious lights and ghostly hauntings have kept away the people of Saltmarsh, despite rumors of fabulous forgotten treasure. What is its sinister secret? |
-| Duration | 3-6 hours |
-| Players | 3-5 players |
-
-
-### 23:00 
-
-| Adventure | Dam of the Kings |
-|---|---|
-| Language |  German / English (depending on players) |
-| Game-Master | Wolfgang |
-| Rulebook | Dungeons & Dragons 5e |
-| Level | Any (Beginnerfriendly) |
-| Description | A friend asks the adventurers to take him o the Dam of the Kings, an ancient dwarven structure that has long been abandoned, and to unveil the mysteries that lie within. I will bring some generated characters, we can create characters together beforehand, or you can bring your own characters (of 2nd level).|
-| Duration | 2-5 hours |
-| Players | 2-5 players |
-
-<!-- 
 We are still planning your adventures, check back here later. Until then, this is what the descriptions will look like:
 
 | Adventure |  Winter is coming! (PLACEHOLDER) |
@@ -129,5 +40,4 @@ We are still planning your adventures, check back here later. Until then, this i
 | Description | Ist es ein Vogel? Ist es ein Flugzeug? Nein, es ist Dolores, und sie ist richtig sauer: Lorem ipsum sit dolores umbridge wäre eigentlich echt ein lustiges Thema für ein DnD im Prinzip könnte man es so aufziehen dass man eine Zentauren-Herde spielt die sie im Wald trifft und dann ist sie plötzlich ein Drache und... |
 | Players | 4-9 players |
 
--->
 
