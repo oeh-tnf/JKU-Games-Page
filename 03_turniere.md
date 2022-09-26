@@ -13,15 +13,5 @@ Every participant gets a special sticker and the chance to win a prize from our 
 Please note that all times listed are subject to change. You will be able to find the current plan at the Service-Point.<br>
 For room information, see the <a class="dotted" href="https://games.oeh.jku.at/rooms/">Room Plan</a>)!
 
-
-## Friday:
-
-| Time | Event | Room(s) |
-|---|---|---|
-
-
-## Saturday:
-
-| Time | Event | Room(s) |
-|---|---|---|
+We are still planning the tournaments, check back here later.
 
