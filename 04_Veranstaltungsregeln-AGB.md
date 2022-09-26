@@ -9,7 +9,7 @@ permalink: rules
 ## Code of Behaviour
 In joining our event, you agree to following our AGBs:
 
-<a href="https://games.oeh.jku.at/AGBs_JKU_Games_SoSe22.pdf" target="_blank" rel="noopener noreferrer" class="button">AGBs</a>
+<a href="https://games.oeh.jku.at/AGBs_JKU_Games_WiSe22.pdf" target="_blank" rel="noopener noreferrer" class="button">AGBs</a>
 
 <!--
 ## U18-Form
@@ -18,6 +18,7 @@ If you are under 18, please print the following form, have it signed by your leg
 <a href="https://games.oeh.jku.at/U18-Einverständniserklärung.pdf" target="_blank" rel="noopener noreferrer" class="button">U18-Einverständniserklärung</a>
 -->
 
+<!--
 ## Covid-Guidelines
 The JKU GAMES follow the 2G-rule (vaccinated or recovered).<br>
 Please provide a valid 2G certificate and your ID at the entry point.<br>
@@ -35,3 +36,4 @@ We use the JKU's definition for what proof of vaccination/recovery is valid for 
 To help us prepare for the event, registration is mandatory!
 
 <a href="https://forms.gle/yqQJ5RTazCu2jSiC6" target="_blank" rel="noopener noreferrer" class="button">Register here</a>
+-->

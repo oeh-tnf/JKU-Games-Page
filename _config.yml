@@ -2,7 +2,8 @@
 title: "JKU GAMES 2022W"
 subtitle: "JKU Linz, Uni-Center, 04. bis 06. November"
 email: "games@oeh.jku.at"
-description: "04.11. 16:00 - 38h<br> > Powered by <br><a class='img' href='https://slidelizard.com'><img src='/assets/images/slidelizard_logo_white.svg' style='max-width: 200px; padding: 0px;' alt='SlideLizard' /></a>"
+description: "04.11. 16:00 - 38h"
+#description: "04.11. 16:00 - 38h<br> > Powered by <br><a class='img' href='https://slidelizard.com'><img src='/assets/images/slidelizard_logo_white.svg' style='max-width: 200px; padding: 0px;' alt='SlideLizard' /></a>"
 baseurl: "" 
 url: "https://games.oeh.jku.at/"
 author: JKU Games Team
@@ -15,7 +16,8 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 7
+#tiles-count: 7
+tiles-count: 6
 
 # social settings
 500px_url: 

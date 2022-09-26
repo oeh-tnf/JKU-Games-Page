@@ -18,18 +18,10 @@ For room information, see the <a class="dotted" href="https://games.oeh.jku.at/r
 
 | Time | Event | Room(s) |
 |---|---|---|
-| 17:30  | Two Rooms and A Boom     | Group Games & Multipurpose-Room |
-| 20:00  | Mario Kart               | Console Room                    |
 
 
 ## Saturday:
 
 | Time | Event | Room(s) |
 |---|---|---|
-| 02:00  | Blobby Volley            | LAN                              |
-| 08:00  | Egg-Painting             | Kitchen                          |
-| 13:00  | Competitive Eierpecken   | Multipurpose-Room                |
-| 15:00  | Floppy Disk Throwing     | Outside (if the weather is nice) |
-| 18:00  | Duck Game                | Console Room                     |
-| 21:00  | Nidhogg                  | Console Room                     |
 
