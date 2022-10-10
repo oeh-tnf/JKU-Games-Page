@@ -11,6 +11,10 @@ In joining our event, you agree to following our AGBs:
 
 <a href="https://games.oeh.jku.at/AGBs_JKU_Games_WiSe22.pdf" target="_blank" rel="noopener noreferrer" class="button">AGBs</a>
 
+## Covid-Guidelines
+Currently no covid restrictions apply for our event. This means however that we rely on you to be responsible: Please don't join our event if you fell sick and test yourself before coming if you are unsure.
+
+
 <!--
 ## U18-Form
 If you are under 18, please print the following form, have it signed by your legal guardian and hand it in at the entrance. 
