@@ -7,14 +7,14 @@ nav-menu: true
 permalink: /rooms/
 ---
 
-<!--
+
 ## Roomplan
 <figure>
-   <img src="/assets/images/Bankengebäude Einteilung weiß.png" style="max-width: 1000px;"
-      alt="Roomplan for Games 2022S" />
+   <img src="/assets/images/Roomplan JKU Games 2022W.png" style="max-width: 1000px;"
+      alt="Roomplan JKU Games 2022W" />
    <figcaption></figcaption>
 </figure>
--->
+
 ## Eat and Drink
 
 Throughout the event, we will provide free snacks, coffee and tea in the Kitchen.<br>
