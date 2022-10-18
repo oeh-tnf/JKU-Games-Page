@@ -19,8 +19,9 @@ You can also contact some of the DMs beforehand via <a class="dotted" href="{{ s
    <figcaption></figcaption>
 </figure>
 
-We are still planning your adventures, check back here later. Until then, this is what the descriptions will look like:
+We are still planning your adventures, check back for more updates in the next couple of days.
 
+This is what we have come up with so far:
 
 ## Friday
 ### 17:00
