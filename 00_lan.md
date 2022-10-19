@@ -11,7 +11,7 @@ permalink: /lan/
 * Room for up to 100 PCs
 * VR- and Console-Area
 * Tournaments
-* Try out our <a class="dotted" href="https://daid.github.io/EmptyEpsilon/">Spaceship Bridge Simulator EmptyEpsilon</a> and fight epic battles and quest! 
+* Try out our <a class="dotted" href="https://daid.github.io/EmptyEpsilon/">Spaceship Bridge Simulator EmptyEpsilon</a> and fight epic battles and quests! 
 
 <figure>
    <img src="/assets/images/lan/lan_panorama.jpg" style="max-width: 1000px;"
@@ -22,7 +22,7 @@ permalink: /lan/
 ## To Bring
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
 * You have to bring your own PC and gaming equipment!
-* An own powerstrip (Verteiler) might come in handy as well. 
+* Your own powerstrip (Verteiler) might come in handy as well. 
 
 <figure>
    <img src="/assets/images/lan/hitman.jpg" style="max-width: 1000px;"
