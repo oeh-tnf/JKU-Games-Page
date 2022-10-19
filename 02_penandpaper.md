@@ -26,16 +26,16 @@ This is what we have come up with so far:
 ## Friday
 ### 17:00
 
-| Adventure | This Adventure has no Name yet  |
+| Adventure | Caught in the act (a murder mystery)  |
 |---|---|
 | Language |  German/English |
 | Game-Master |  Wolfgang |
-| Rulebook | tba |
+| Rulebook | simplified verson of D&D (or D&D 5e if every player is familiar) |
 | Level | Any (Beginner friendly)  |
-| Description | tba |
-| Players | 2-4 players |
+| Description | The city of Silverymoon celebrates the 5th anniversary of putting down the rebellion uprising. However, not everything is as peaceful as it seems, as there is a murder mystery to solve amidst the celebrations! Murder Mystery, so don't expect too much combat.  |
+| Players | 2-5 players |
 | Duration | 2-5 hours |
-| Characters | Characters are created on site |
+| Characters | Characters are created on site. The rules should be simple enough that characters can be created quickly before the game. (You can bring a pregenerated d&d 5e character of 1st level if you want just in case we use that) |
 
 
 ### 18:00
@@ -84,7 +84,7 @@ This is what we have come up with so far:
 |---|---|
 | Language |  German/English |
 | Game-Master |  Max (@MinerMax555#0422) |
-| Rulebook | D&D 5e |
+| Rulebook | a very lightweight homade system inspired by skill checks in D&D 5e |
 | Level | Any (Beginner friendly)  |
 | Description | 1854. Cholera, a truly terrible curse, is haunting London. As the death toll and suffering increases, the strange outbreak defying well-established medical knowledge gets even more mysterious as the prime investigator of the Royal Hospital suddenly disappears. The players act as private investigators in a dark Victorian setting and are tasked with figuring out if there is more than nature alone at play here. Note that the focus of this adventure more on the story, mystery and role-playing rather than on combat and constant skill checks. |
 | Players | up to 5 players |
