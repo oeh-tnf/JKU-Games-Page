@@ -22,6 +22,7 @@ permalink: /lan/
 ## To Bring
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
 * You have to bring your own PC and gaming equipment!
+* Make sure to install large games you plan on playing beforehand to limit the strain on our infrastructure.
 * Your own powerstrip (Verteiler) might come in handy as well. 
 
 <figure>
