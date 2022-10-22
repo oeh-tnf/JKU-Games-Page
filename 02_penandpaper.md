@@ -106,12 +106,12 @@ This is what we have come up with so far:
 
 ### 17:00
 
-| Adventure | Thruth amidst lies  |
+| Adventure | Thruth amidst lies |
 |---|---|
 | Language |  German/English |
 | Game-Master |  Nina (@DragonSoul123#2519) |
 | Rulebook | D&D 5e + homebrew |
-| Level | Intermediate - Pro  |
+| Level | Intermediate - Pro |
 | Description | Psycho Thriller/Myserty. Die Gruppe findest sich auf einer Quest wieder, auf der nicht alles ist wie es scheint.|
 | Players | 3-5 players |
 | Duration | 4-6 hours |
@@ -120,13 +120,13 @@ This is what we have come up with so far:
 
 ### 21:00
 
-| Adventure | Blades in the Dark  |
+| Adventure | Blades in the Dark |
 |---|---|
-| Language |  German/English |
-| Game-Master |  Matthias (@Yolgi1577) |
-| Rulebook | Blades in the Dark|
-| Level | Intermediate |
+| Language | German/English |
+| Game-Master |  Matthias (@Yolgie1577) |
+| Rulebook | Blades in the Dark |
+| Level | Intermediate - Pro |
 | Description | tba |
 | Players | 3-5 players |
 | Duration | tba |
-| Characters | tba |
+| Characters | semi-pre-made characters |
