@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tournaments and Events
+title: Timetable (Events)
 description: Fame and Glory await you
 image: 
 nav-menu: true
