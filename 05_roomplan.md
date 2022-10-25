@@ -34,7 +34,7 @@ There is an ATM nearby.
 
 ### More Food
 Some selected other food opportunities nearby:
-* Spar JKU Campus: Friday 07:30-18:30
+* Spar JKU Campus: Friday 07:30-18:00, Saturday 7:30-13:00
 * Grüne Papaya (Thai): Friday 18:00-22:00
 * Winkler Markt: Friday 07:30-18:30, Saturday 07:30-17:00
 
