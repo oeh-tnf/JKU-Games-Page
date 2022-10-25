@@ -10,7 +10,7 @@ permalink: /penandpaper/
 Welcome, Traveller!
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! <br>
-If you want to join an adventure, simply enter your name to the list at the Servicepoint (check out the [Room Plan](/./rooms)) and be here on time!<br>
+If you want to join an adventure, simply enter your name to the list at the Infopoint (check out the [Room Plan](/./rooms)) and be here on time!<br>
 You can also contact some of the DMs beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)
 
 <figure>
@@ -51,6 +51,19 @@ This is what we have come up with so far:
 | Duration | 5 hours |
 | Characters | chose from a selection of characters |
 
+### 18:00
+
+| Adventure | This Adventure has no Name yet  |
+|---|---|
+| Language |  German |
+| Game-Master |  Daniel (KnightRave#2587) |
+| Rulebook | Monster of the Week |
+| Level | Any (Beginner friendly)  |
+| Description | tba - gonna be gloomy because spooky halloween |
+| Players | 3-5 players |
+| Duration | 5-6 hours |
+| Characters | chose from a selection of characters |
+
 ### 23:00
 
 | Adventure | The Price of Beauty  |
@@ -70,7 +83,7 @@ This is what we have come up with so far:
 | Adventure | This Adventure has no Name yet  |
 |---|---|
 | Language |  German/English |
-| Game-Master |  Oscar |
+| Game-Master |  Oscar (Oscar#3927) |
 | Rulebook | D&D 5e |
 | Level | Any (Beginner friendly)  |
 | Description | tba |
