@@ -8,7 +8,7 @@ permalink: /support/
 We are a group of students from the faculty representation ÖH TNF, who love to play games. In order to share this passion with others at JKU, we are organizing the JKU Games again this year, a free event that takes place almost every semester. However, we don't want to take all the credit, as this event builds on the experience and work of organizers before us (after all, this is the 16th time). Also, such an event would not be possible without so many other ÖH TNF members and friends supporting us during the event.
 
 <figure>
-   <img src="assets/images/orgaimages/About us JKU Games Orga.png" style="max-width: 1000px;"
+   <img src="/assets/images/orgaimages/About us JKU Games Orga.png" style="max-width: 1000px;"
       alt="JKU Games Orga" />
    <figcaption></figcaption>
 </figure>
