@@ -5,7 +5,7 @@ description: About us
 nav-menu: true
 permalink: /support/
 ---
-We are a group of students from the faculty representation ÖH TNF, who love to play games. In order to share this passion with others at JKU, we are organizing the JKU Games again this year, a free event that takes place almost every semester. However, we don't want to take all the credit, as this event builds on the experience and work of organizers before us (after all, this is the 16th time). Also, such an event would not be possible without so many other ÖH TNF members and friends supporting us during the event.
+We are a group of students from the technical faculty branch of the student union (ÖH TNF), who love to play games. In order to share this passion with others at JKU, we are organizing the JKU Games, a free gaming event that takes place almost every semester. We can't take all the credit however, as this event builds on the experience and work of all the organizers before us (after all, this is the 16th edition). Also, such an event would not be possible without so many other ÖH TNF members and friends supporting us during the event.
 
 <figure>
    <img src="/assets/images/orgaimages/About us JKU Games Orga.png" style="max-width: 1000px;"
@@ -13,8 +13,10 @@ We are a group of students from the faculty representation ÖH TNF, who love to 
    <figcaption></figcaption>
 </figure>
 
-## You want to help
-Are you a talented Game-Master looking to host a few games? Do you have an idea for the perfect tournament we are missing and want to organize it? Are you a huge fan of LAN cables and want to share your expertise? Or you want to help us at the event with smaller tasks at the Infopoint, Games Rental, etc.?
+You can find out more about the ÖH TNF and the other work we do by checking out [our website](https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften)!
+
+## Got some spare time?
+Are you a talented Game-Master looking to host a few games? Do you have an idea for the perfect tournament we are missing and want to organize it? Are you a huge fan of LAN cables and want to share your expertise? Would you like to help us at the event with smaller tasks at the Infopoint, Games Rental, etc.?
 
 We are always happy for your support!
 
