@@ -13,7 +13,7 @@ We are a group of students from the technical faculty branch of the student unio
    <figcaption></figcaption>
 </figure>
 
-You can find out more about the ÖH TNF and the other work we do by checking out [our website](https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften)!
+You can find out more about the ÖH TNF and the other work we do by checking out <a class='dotted' href="https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften">our website</a>!
 
 ## Got some spare time?
 Are you a talented Game-Master looking to host a few games? Do you have an idea for the perfect tournament we are missing and want to organize it? Are you a huge fan of LAN cables and want to share your expertise? Would you like to help us at the event with smaller tasks at the Infopoint, Games Rental, etc.?
