@@ -40,15 +40,15 @@ This is what we have come up with so far:
 
 ### 18:00
 
-| Adventure | This Adventure has no Name yet  |
+| Adventure | Home Sweet Home  |
 |---|---|
 | Language |  German |
-| Game-Master |  Magdalena |
-| Rulebook | tba |
+| Game-Master |  Magdalena (Felsilvae#0157) |
+| Rulebook | DnD 3.5|
 | Level | Any (Beginner friendly)  |
-| Description | tba |
+| Description | In dem beschaulichen Dörfchen Hagenstein gehen seltsame Dinge vor sich. Immer wieder verschwinden Dinge aus dem gut gesicherten Lagerhaus. Gerade jetzt im Winter kann dies auf die Dauer zum Problem werden. Zum Glück ist eine Gruppe Reisender aufgrund eines Schneesturms in Hagenstein gestrandet. Werden sie das Rätsel lösen können?|
 | Players | 4-5 players |
-| Duration | 5 hours |
+| Duration | 3-5 hours |
 | Characters | chose from a selection of characters |
 
 ### 18:00
@@ -57,12 +57,12 @@ This is what we have come up with so far:
 |---|---|
 | Language |  German |
 | Game-Master |  Daniel (KnightRave#2587) |
-| Rulebook | Monster of the Week |
+| Rulebook | Monster of the Week - this is a lightweight Pen and Paper game which was inspired by short but effective horror stories; especially by Supernatural. Normally this is the setting, our modern world. We however, will not play in a modern setting, but a slightly modified version which takes place in a high fantasy medieval world similar to The Witcher.  |
 | Level | Any (Beginner friendly)  |
-| Description | tba - gonna be gloomy because spooky halloween |
+| Description | It is Autumn 1471. The leaves began changing their colour a few weeks ago, the weather reminds you of the harsh winter ahead. Fog engulfs the land as you wake up in the carriage you spent the night in. Your party and you had had a few exciting hunts lately and as you caught word that Kudóvice, a small village, cried out for help, you could not stop yourself. The merchant who told you about the distress happily took you with him in his old wagon as he headed there himself. |
 | Players | 3-5 players |
 | Duration | 5-6 hours |
-| Characters | chose from a selection of characters |
+| Characters | chose from a selection of characters or bring your own (contact DM to get a PDF of rules) |
 
 ### 23:00
 
@@ -73,7 +73,7 @@ This is what we have come up with so far:
 | Rulebook | D&D 5e |
 | Level | Any (Beginner friendly)  |
 | Description | Strolling through the library of Candlekeep you stumble across a mysterious book with an inset mirror. What will you find between those pages? And could it have something to do with the acolyte, that has gone missing? This Oneshot is roleplay focused, but of course you are not going to miss out on a boss fight in the end. On the way there there is quite a bit of mystery to figure out and some inner beauty to find.|
-| Players | 4-5 players |
+| Players | 4-6 players |
 | Duration | 4-5 hours |
 | Characters | Chose from a selection of characters or bring your own (Level 5 - please contact DM on Discord)|
 
