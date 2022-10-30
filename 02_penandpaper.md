@@ -80,7 +80,7 @@ This is what we have come up with so far:
 ## Saturday
 ### 10:00
 
-| Adventure | This Adventure has no Name yet  |
+| Adventure | Blessing of the Blood  |
 |---|---|
 | Language |  German/English |
 | Game-Master |  Oscar (Oscar#3927) |
