@@ -53,7 +53,7 @@ This is what we have come up with so far:
 
 ### 18:00
 
-| Adventure | This Adventure has no Name yet  |
+| Adventure | The Scouge of Kudóvice |
 |---|---|
 | Language |  German |
 | Game-Master |  Daniel (KnightRave#2587) |
@@ -80,16 +80,16 @@ This is what we have come up with so far:
 ## Saturday
 ### 10:00
 
-| Adventure | This Adventure has no Name yet  |
+| Adventure | Blessing of the Blood  |
 |---|---|
 | Language |  German/English |
 | Game-Master |  Oscar (Oscar#3927) |
-| Rulebook | D&D 5e |
+| Rulebook | D&D 5e -  There is a D&D Beyond Link to the Adventure (for those who want to use it) which you will receive upon Signup. |
 | Level | Any (Beginner friendly)  |
-| Description | tba |
+| Description | The eccentic merchant Numis M'atic has recently made an outragious discovery: Someone stole from him! He quickly called for a group of adventurers to assemble to deal with this affront to his reputation. At the same time, not too far away, a man covers his wound up just before he bleeds dry – much to his own dismay. TW: This adventure will deal with occultism and blood.|
 | Players | up to 6 players |
-| Duration | 4-6 hours |
-| Characters | bring your own character of Level 5 or choose from a provided selection |
+| Duration | While the time slot is reserved for 6 hours, I'll try to target the 4-5h range. |
+| Characters | bring your own character of Level 5 or choose from a provided selection. For absolute beginners, I will have some characters prepared or can quickly help you create your own. |
 
 ### 12:00
 
