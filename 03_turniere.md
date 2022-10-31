@@ -56,3 +56,17 @@ Werewolf is played almost constantly in the Group Games room, where you will get
 
 If you ever wanted to be part of the bridge crew of a spaceship, here is your chance. Empty Epsilon will start on Friday at 16:00.
 
+## Game Store
+
+During the JKU Games the linzer Game Store will held Magic the Gathering Events in the Dice Area.
+
+This are the planed events by the Game Store:
+
+| Start time | Tournament       |
+| ---------- | -----------------|
+| Fr 18:00   | BIG Legacy		|
+| Fr 20:00   | Draft	        |
+| Sa 12:00   | Pioneer RCQ		|
+| Sa 13:00   | Commander		|
+| Sa 18:00   | BIG Modern		|
+
