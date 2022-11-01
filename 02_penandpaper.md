@@ -137,9 +137,9 @@ This is what we have come up with so far:
 |---|---|
 | Language | German/English |
 | Game-Master |  Matthias (@Yolgie1577) |
-| Rulebook | Blades in the Dark |
+| Rulebook | <a class="dotted" href="https://bladesinthedark.com/">Blades in the Dark</a> |
 | Level | Intermediate - Pro |
-| Description | tba |
+| Description | You play a group of scoundrels in the dark & gloomy city of Duskvol, a fictional city inspired by Victorian London and Gothic & Steampunk fiction. |
 | Players | 3-5 players |
-| Duration | tba |
+| Duration | 4-6 hours |
 | Characters | semi-pre-made characters |
