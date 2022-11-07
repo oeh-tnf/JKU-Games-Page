@@ -21,3 +21,5 @@ Are you a talented Game-Master looking to host a few games? Do you have an idea 
 We are always happy for your support!
 
 If you can assist us at the event, simply hit us up via [games@oeh.jku.at](mailto:games@oeh.jku.at)!
+
+If you are thinking about joining your student union and organising events like this more regularly (among many other interesting jobs), feel free to hit up your <a class='dotted' href="https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften">student union</a> or [tnf@oeh.jku.at](mailto:tnf@oeh.jku.at) - we will forward you to the right people!
