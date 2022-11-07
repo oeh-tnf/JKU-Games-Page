@@ -7,7 +7,8 @@ nav-menu: true
 permalink: /tournaments/
 ---
 
-## Resting Period
+## Event time and Resting Period
+The JKU Games will take place from Friday, 04.11. (16:00) until Sunday, 06.11. (06:00).
 
 On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting period. During this time, you can stay at the event and play games but won't be able to get new ones from our Games Rental section.
 
