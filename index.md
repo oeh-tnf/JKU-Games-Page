@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: { site.title }
+landing-title: JKU GAMES 2023S
 description: {{ site.subtitle }}
 image: null
 author: null
