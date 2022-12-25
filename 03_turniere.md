@@ -8,7 +8,7 @@ permalink: /tournaments/
 ---
 
 ## Event time and Resting Period
-The JKU Games will take place from Friday, 04.11. (16:00) until Sunday, 06.11. (06:00).
+The JKU Games will take place from Friday, 17.03. (16:00) until Sunday, 19.03. (06:00).
 
 On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting period. During this time, you can stay at the event and play games but won't be able to get new ones from our Games Rental section.
 
@@ -16,7 +16,7 @@ On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting per
 
 Compete for glory and fame (and a little goodie) in one of our tournaments. 
 
-To participate, please send Roman a message on <a class="dotted" href="{{ site.discord_url }}">Discord</a> or tell us at the info point during the event. CS:GO and League of Legends require this message sent before the start of the JKU Games (04.11. 16:00). If you already have a team for those two games, please mention so in your message.
+To participate, please send Roman a message on <a href="{{ site.discord_url }}">Discord</a> or tell us at the info point during the event. CS:GO and League of Legends require this message sent before the start of the JKU Games (04.11. 16:00). If you already have a team for those two games, please mention so in your message.
 
 The games that will be played have been decided in a community vote.
 

@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'JKU Games 2022W'
-description: JKU Linz, Uni-Center, 04. bis 06. November
+landing-title: {{ site.title }}
+description: {{ site.subtitle }}
 image: null
 author: null
 show_tile: false
