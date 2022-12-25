@@ -11,7 +11,7 @@ permalink: /lan/
 * Room for up to 100 PCs
 * VR- and Console-Area
 * Tournaments
-* Try out our <a class="dotted" href="https://daid.github.io/EmptyEpsilon/">Spaceship Bridge Simulator EmptyEpsilon</a> and fight epic battles and quests! 
+* Try out our <a href="https://daid.github.io/EmptyEpsilon/">Spaceship Bridge Simulator EmptyEpsilon</a> and fight epic battles and quests! 
 
 <figure>
    <img src="/assets/images/lan/lan_panorama.jpg" style="max-width: 1000px;"
@@ -33,4 +33,4 @@ permalink: /lan/
 
 ## Discord
 
-During the Games, talk to your mates using our Discord Server: <a class="dotted" href="{{ site.discord_url }}"> Join us! </a> 
+During the Games, talk to your mates using our Discord Server: <a href="{{ site.discord_url }}"> Join us! </a> 

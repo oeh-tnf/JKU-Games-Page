@@ -1,8 +1,8 @@
 # site settings
-title: "JKU GAMES 2022W"
-subtitle: "JKU Linz, Uni-Center, 04. bis 06. November"
+title: "JKU GAMES 2023S"
+subtitle: "JKU Linz, Uni-Center, 17. - 19.03."
 email: "games@oeh.jku.at"
-description: "04.11. 16:00 - 38h<br> > Powered by <br><a class='img' href='https://www.liwest.at'><img src='/assets/images/Sponsoring Logos JKU Games 2022W Liwest.png' style='max-width: 200px; padding: 0px;' alt='Sponsor LIWEST' /></a>"
+description: "17.03. 16:00 - 19.03. 06:00<br> > Planing in progress, not all information is up-to-date."
 baseurl: "" 
 url: "https://games.oeh.jku.at/"
 author: JKU Games Team
@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 7
 
 # social settings
 500px_url: 
