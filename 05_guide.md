@@ -15,12 +15,12 @@ permalink: /guide/
    <figcaption></figcaption>
 </figure>
 
-## Eat and Drink
+### Kitchen
 
 Throughout the event, we will provide free snacks, coffee and tea in the Kitchen.<br>
 For your free use a Microwave and a Fridge can be found there. All things you place in the fridge sign with your name and don't use the whole place for yourself.
 
-### Pizza
+#### Pizza
 Periodically, we will also organize a Pizza delivery call to <a href="https://www.pleschinger-stube.at/">Pleschinger Stube</a> with special conditions.
 You will be informed about when the next order takes place at the event, we currently plan on taking orders at around these times: <br>
 * FR, 18:00
@@ -32,7 +32,7 @@ You will be informed about when the next order takes place at the event, we curr
 Note that this is just an approximate schedule subject to change.<br>
 There is an ATM nearby.
 
-### More Food
+#### More Food
 Some selected other food opportunities nearby:
 * Spar JKU Campus: Friday 07:30-18:00, Saturday 7:30-13:00
 * Grüne Papaya (Thai): Friday 18:00-22:00
@@ -40,7 +40,7 @@ Some selected other food opportunities nearby:
 
 For more inspiration, check out <a href="https://www.jku.at/en/campus/recreation/food-drink/">JKU's food guide</a>!
 
-## Rest-Area
+### Rest-Area
 If you need a short break or recover from a intense Pen&Paper Adventure you should visit our Rest-Area in the first floor. Please be aware, that you have to bring your own sleeping bags or mattresses. 
 
 ## FAQs
