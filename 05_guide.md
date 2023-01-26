@@ -18,7 +18,7 @@ permalink: /guide/
 ### Kitchen
 
 Throughout the event, we will provide free snacks, coffee and tea in the Kitchen.<br>
-For your free use a Microwave and a Fridge can be found there. All things you place in the fridge sign with your name and don't use the whole place for yourself.
+A Microwave and a Fridge can be found there as well. Please sign all things you place in the fridge with your name and don't use the whole place for yourself. It should go without saying, but other people's stuff is off-limits.
 
 #### Pizza
 Periodically, we will also organize a Pizza delivery call to <a href="https://www.pleschinger-stube.at/">Pleschinger Stube</a> with special conditions.
@@ -29,7 +29,7 @@ You will be informed about when the next order takes place at the event, we curr
 * SA, 18:00
 * SA, 20:00
 
-Note that this is just an approximate schedule subject to change.<br>
+Note that this is just an approximate schedule subject to change. Check out the Pizza-Channel on <a href="{{ site.discord_url }}">Discord</a> to receive live updates.<br>
 There is an ATM nearby.
 
 #### More Food
@@ -40,8 +40,10 @@ Some selected other food opportunities nearby:
 
 For more inspiration, check out <a href="https://www.jku.at/en/campus/recreation/food-drink/">JKU's food guide</a>!
 
-### Rest-Area
-If you need a short break or recover from a intense Pen&Paper Adventure you should visit our Rest-Area in the first floor. Please be aware, that you have to bring your own sleeping bags or mattresses. 
+### Resting-Area
+If you need a short break or recover from a intense Pen&Paper Adventure you should visit our Rest-Area in the first floor. Please be aware that you have to bring your own sleeping bags or mattresses. 
+
+---
 
 ## FAQs
 
@@ -52,6 +54,9 @@ And finally, the main organizers tend to be awake throughout most of the event -
 
 ### Can we bring alcohol?
 We firmly believe that the activities offered can be enjoyed without alcohol as well. Nevertheless, we tolerate alcohol as long as it is not disturbing our guests and the event (see the [AGBs](/./rules) for a more binding definition). Naturally, all alcohol you bring is for personal consumption, please abide to rules on the protection of minors etc.
+
+### Is there an age requirement?
+Yes, all participants must be at least 16 years old, or have to be accompanied by a legal guardian. This is mostly due to the nature of our Games being an over-night event.
 
 ### Why don't you offer X and Y?
 Since our resources are limited, we always have to choose carefully what to offer. If you have an idea that could fit our event, please don't hesitate to [contact us](/./about) - we'll try our best to implement it!<br>
@@ -67,8 +72,10 @@ If you don't feel comfortable because of a specific person or about a certain si
 
 You can contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our <a href="{{ site.discord_url }}">Discord Server</a>. If your situation is of a more private nature, please contact our Safety and Awareness Team directly - see the [About Page](/./about) for more. 
 
-### How can I help you?
+### How can I help the organizers?
 Since we are a team of volunteers, we are happy for any help! Please check out the [About Page](/./about) for more.
+
+You can also help us at the event by simply cleaning up after yourself and reminding others to do the same. This way, we as the organizers also get more time to enjoy the event ourselves!
 
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our <a href="{{ site.discord_url }}">Discord Server</a>!
