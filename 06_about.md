@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About us
-description: Join us!
+description: Join us // Awareness-Team
 nav-menu: true
 permalink: /about/
 ---

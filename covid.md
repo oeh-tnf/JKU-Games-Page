@@ -2,10 +2,12 @@
 layout: post
 title: Covid
 description: Reports on Contact Tracing
-nav-menu: true
+nav-menu: false
 permalink: /covid/
 ---
 
 ## Reported infections
-We will update this site regularly with any new information, check back for more.
+There are currently no reported infections.
+
+We will update this site regularly with any new information, check back later.
 

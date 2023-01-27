@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Survival Guide
-description: Navigate our event in style
+description: Navigate our event in style (Room Plan, FAQs)
 image: 
 nav-menu: true
 permalink: /guide/
