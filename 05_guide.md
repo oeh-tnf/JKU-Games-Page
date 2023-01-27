@@ -47,16 +47,24 @@ If you need a short break or recover from a intense Pen&Paper Adventure you shou
 
 ## FAQs
 
-### Why are you closed on Sunday Afternoon?
-Throughout the last years, we have continuously extended our opening times and can provide you with almost 40 hours of fun. Unfortunately, since we are a team of volunteers, we are simply not able to find the people required to add an additional day of shifts (e.g. for our service point, game rental etc).<br>
-As you can probably imagine, it also takes quite some time to clean up after an event like ours, especially since we have expanded the event area quite a bit. As our locations usually need to be ready for regular university events on Monday, we might run into problems here as well.<br>
-And finally, the main organizers tend to be awake throughout most of the event - we desperately need the sleep by Sunday morning, I can tell you as much :P 
+### Is there an entrance fee?
+No, the JKU Games are a completely free event. We are entirely funded by sponsorships and via means of the student union (ÖH TNF). Naturally, we are always happy about any donations as well.
+
+### Can I reserve a space?
+There are no general reservations for our event. Given our truly massive location, we usually have enough space for you all.
+
+This year, we will be implementing a ticket system for our Pen and Papers and Tournaments (more on that in the respective sections). We are trying to ease the application process that way and want to ensure that the assortment is fair for all. Naturally, tickets are free as well.
 
 ### Can we bring alcohol?
 We firmly believe that the activities offered can be enjoyed without alcohol as well. Nevertheless, we tolerate alcohol as long as it is not disturbing our guests and the event (see the [AGBs](/./rules) for a more binding definition). Naturally, all alcohol you bring is for personal consumption, please abide to rules on the protection of minors etc.
 
 ### Is there an age requirement?
 Yes, all participants must be at least 16 years old, or have to be accompanied by a legal guardian. This is mostly due to the nature of our Games being an over-night event.
+
+### Why are you closed on Sunday Afternoon?
+Throughout the last years, we have continuously extended our opening times and can provide you with almost 40 hours of fun. Unfortunately, since we are a team of volunteers, we are simply not able to find the people required to add an additional day of shifts (e.g. for our service point, game rental etc).<br>
+As you can probably imagine, it also takes quite some time to clean up after an event like ours, especially since we have expanded the event area quite a bit. As our locations usually need to be ready for regular university events on Monday, we run into problems here as well.<br>
+And finally, the main organizers tend to be awake throughout most of the event - we desperately need the sleep by Sunday morning, I can tell you as much :P 
 
 ### Why don't you offer X and Y?
 Since our resources are limited, we always have to choose carefully what to offer. If you have an idea that could fit our event, please don't hesitate to [contact us](/./about) - we'll try our best to implement it!<br>
