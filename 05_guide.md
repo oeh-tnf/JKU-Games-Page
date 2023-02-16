@@ -55,11 +55,17 @@ There are no general reservations for our event. Given our truly massive locatio
 
 This year, we will be implementing a ticket system for our Pen and Papers and Tournaments (more on that in the respective sections). We are trying to ease the application process that way and want to ensure that the assortment is fair for all. Naturally, tickets are free as well.
 
-### Can we bring alcohol?
+### Can I bring alcohol?
 We firmly believe that the activities offered can be enjoyed without alcohol as well. Nevertheless, we tolerate alcohol as long as it is not disturbing our guests and the event (see the [AGBs](/./rules) for a more binding definition). Naturally, all alcohol you bring is for personal consumption, please abide to rules on the protection of minors etc.
+
+### Can I bring my dog / cat / pet hamster?
+Since we are using university facilities, we have to oblige to the JKU's house rules. This means that you are unfortunately not allowed to bring any pets inside the building. Naturally, service animals and your computer mouse are an exception.
 
 ### Is there an age requirement?
 Yes, all participants must be at least 16 years old, or have to be accompanied by a legal guardian. This is mostly due to the nature of our Games being an over-night event.
+
+### Can I bring a friend?
+Please do! While the event is primarily targeted at people studying or working at the JKU and at pupils considering a study here, your friends and family are very welcome to join as well.
 
 ### Why are you closed on Sunday Afternoon?
 Throughout the last years, we have continuously extended our opening times and can provide you with almost 40 hours of fun. Unfortunately, since we are a team of volunteers, we are simply not able to find the people required to add an additional day of shifts (e.g. for our service point, game rental etc).<br>
