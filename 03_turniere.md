@@ -12,13 +12,13 @@ The JKU Games will take place from Friday, 17.03. (16:00) until Sunday, 19.03. (
 
 On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting period. During this time, you can stay at the event and play games but won't be able to get new ones from our Games Rental section.
 
-## Tournaments
+## Tournaments (not updated yet!)
 
 Compete for glory and fame (and a little goodie) in one of our tournaments. 
 
 To participate, please send Roman a message on <a href="{{ site.discord_url }}">Discord</a> or tell us at the info point during the event. CS:GO and League of Legends require this message sent before the start of the JKU Games (04.11. 16:00). If you already have a team for those two games, please mention so in your message.
 
-The games that will be played have been decided in a community vote.
+These were the games that have been played last time:
 
 | Start time | Game                       |
 | ---------- | -------------------------- |
@@ -29,11 +29,11 @@ The games that will be played have been decided in a community vote.
 | Sa 14:00   | Super Smash Bros. Ultimate |
 | Sa 20:00   | League of Legends          |
 
-## Promoted Games
+## Promoted Games (not updated yet!)
 
 During the JKU Games, we decided to promote a few games at specific timeslots. Mainly focused on the LAN section, this should help make it feel more coherent and communal. Furthermore, it makes finding allies and opponents to play with easier.
 
-Games that will be promoted have been decided in a community vote. Each will be promoted for a four-hour timeslot.
+Games that were promoted had been decided in a community vote. Each will be promoted for a four-hour timeslot. These were last semester's slots:
 
 | Start time | Game              |
 | ---------- | ----------------- |
@@ -53,15 +53,11 @@ Werewolves are hiding in the peaceful village and are trying to eat all its resi
 
 Werewolf is played almost constantly in the Group Games room, where you will get a more in-depth explanation of the rules and roles.
 
-## Empty Epsilon
-
-If you ever wanted to be part of the bridge crew of a spaceship, here is your chance. Empty Epsilon will start on Friday at 16:00.
-
-## Game Store
+## Game Store (not updated yet!)
 
 During the JKU Games the linzer Game Store will held Magic the Gathering Events in the Dice Area.
 
-This are the planed events by the Game Store:
+These were the planed events by the Game Store last time:
 
 | Start time | Tournament       |
 | ---------- | -----------------|
