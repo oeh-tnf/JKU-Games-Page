@@ -9,8 +9,7 @@ permalink: /penandpaper/
 
 Welcome, Traveller!
 
-In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! <br>
-If you want to join an adventure, get a ticket using the button below and be here on time! 
+In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time! 
 
 <a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">here</a>
 
@@ -39,6 +38,8 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 4-6 hours |
 | Characters| are made at the Table or by contacting the GM before the event |
 
+---
+
 | Adventure | Freiheitskämpfer |
 |---|---|
 | Language | Deutsch |
@@ -50,6 +51,8 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 4-5 hours |
 | Characters | are premade by the GM |
 
+---
+
 | Adventure | Das Tor |
 |---|---|
 | Language | Deutsch |
@@ -60,6 +63,8 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 3-5 |
 | Duration | 4-6 Stunden|
 | Characters | will be prepared together at the Table |
+
+---
 
 | Adventure | to be announced |
 |---|---|
@@ -86,6 +91,8 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 3-5 |
 | Duration | 4-5 hours |
 | Characters | are prepared by the GM but it's also allowed to bring your own |
+
+---
 
 | Adventure | Neverwhere in Ankh-Morpork |
 |---|---|
@@ -125,6 +132,8 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 1-3 hours |
 | Characters | are the familiars of the witch and prepared before the session by two simple dice rolls. |
 
+---
+
 | Adventure | To be announced |
 |---|---|
 | Language | English |
@@ -149,6 +158,8 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 5-6 hours |
 | Characters | are premade, but bringing your own is allowed |
 
+---
+
 | Adventure | to be announced |
 |---|---|
 | Language | tba |
@@ -163,14 +174,16 @@ There might be more adventures added, but this is the schedule for now:
 ### 14:00
 | Adventure | A wild sheep chase |
 |---|---|
-| Language | Deutsch |
+| Language | Deutsch|
 | Game-Master | Gandalf [Noctacian#3828] |
 | Rules | DnD 5e |
 | Suitable for | Anfänger bis Fortgeschritten |
-| Description | When the party’s attempt to grab a rare afternoon of downtime is interrupted by a frantic sheep equipped with a Scroll of Speak to Animals, they’re dragged into a magical grudge match that will test their strength, courage and willingness to endure baa’d puns. Will our heroes be able to overcome a band of transmuted assassins and an extremely bitter apprentice packing dangerously unstable magic items? There’s only one way to find out… (Das Adventure ist offiziell von: https://winghornpress.com/adventures/a-wild-sheep-chase/) |
+| Description | When the party’s attempt to grab a rare afternoon of downtime is interrupted by a frantic sheep equipped with a Scroll of Speak to Animals, they’re dragged into a magical grudge match that will test their strength, courage and willingness to endure baa’d puns. Will our heroes be able to overcome a band of transmuted assassins and an extremely bitter apprentice packing dangerously unstable magic items? There’s only one way to find out… <br>(Das Adventure kommt ursprünglich von [hier](https://winghornpress.com/adventures/a-wild-sheep-chase/).) |
 | Players | 4-6 |
 | Duration | 4-5 |
 | Characters | are premade by the GM |
+
+---
 
 | Adventure | Goblin Heist - A clever scheme |
 |---|---|
