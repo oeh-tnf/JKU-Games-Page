@@ -11,7 +11,7 @@ Welcome, Traveller!
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time! 
 
-<a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">here</a>
+<a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 Please sign up for only one game at this time, remaining spots will be available at the Infopoint on the Event.<br>
 You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)
@@ -172,9 +172,10 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | are still in planning |
 
 ### 14:00
+
 | Adventure | A wild sheep chase |
 |---|---|
-| Language | Deutsch|
+| Language | Deutsch |
 | Game-Master | Gandalf [Noctacian#3828] |
 | Rules | DnD 5e |
 | Suitable for | Anfänger bis Fortgeschritten |
@@ -182,6 +183,7 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 4-6 |
 | Duration | 4-5 |
 | Characters | are premade by the GM |
+
 
 ---
 
@@ -197,6 +199,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | are premade, but check in with the GM if you want your own |
 
 ### 16:00
+
 | Adventure | The Green Death |
 |---|---|
 | Language | Englisch (Deutsch bei Bedarf möglich) |
@@ -209,6 +212,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | are premade, but you can make your own after contacting the GM |
 
 ### 17:00
+
 | Adventure | Sound of Silence |
 |---|---|
 | Language | Deutsch or English |
