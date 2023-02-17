@@ -31,11 +31,11 @@ We are also constantly optimizing the room plan to ensure that noisy stuff stays
 ### There are too many pings on Discord | 2023 SoSe
 We have implemented a self-assignable Pizza Role on our Discord now - simply join the Pizza channel and use the Pizza reaction to never miss an order again!
 
-### I want to know when new Werewolf Roles are starting! | 2023 SoSe
+### I want to know when new Werewolf Rounds are starting | 2023 SoSe
 Using a similar approach, we have also created a Werewolf role now. Huzzah!
 
 ### Make the LAN area more comfortable | 2023 SoSe
-It is surprisingly difficult to get by some good chairs in the university. We are trying our best to persuade the uni to open its secret storage to us and are currently testing a few options.
+It is surprisingly difficult to get by some good chairs in the university. We are trying our best to persuade the uni administration to open their secret storage to us and are currently testing a few options.
 
 ### Clarify the AGBs, add an FAQ | 2023 SoSe
 We have tried to make our Terms and Conditions clearer and have added an English speaking FAQ to answer some pressing questions. We have also lowered the age limitation to 16 and have talked with _Jugendschutz OÖ_ to make our event safer for minors.
