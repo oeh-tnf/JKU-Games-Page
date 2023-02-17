@@ -24,7 +24,7 @@ You can also contact some of the Game-Masters beforehand via <a class="dotted" h
 
 There might be more adventures added, but this is the schedule for now:
 
-## Freitag
+## Friday
 ### 17:00
 
 | Adventure | Secrets of the Seaside Manor |
