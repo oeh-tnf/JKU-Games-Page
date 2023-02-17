@@ -10,7 +10,10 @@ permalink: /penandpaper/
 Welcome, Traveller!
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! <br>
-If you want to join an adventure, get a ticket <a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">here</a> and be there on time!<br>
+If you want to join an adventure, get a ticket using the button below and be here on time! 
+
+<a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">here</a>
+
 Please sign up for only one game at this time, remaining spots will be available at the Infopoint on the Event.<br>
 You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)
 
@@ -102,7 +105,7 @@ There might be more adventures added, but this is the schedule for now:
 |---|---|
 | Language | English or Deutsch |
 | Game-Master | Felix [itsafeh#9156] |
-| Rules | Kingdom - a highly role-play focussed pen and paper with easy to understand rules.|
+| Rules | Kingdom - a highly role-play focused pen and paper with easy to understand rules.|
 | Suitable for | Absolute Noobs |
 | Description | When the lights go out in the Zoo, the animals come out to play! We play animals in their own little Kingdom behind bars, meeting every night to work on our plan for world domination. |
 | Players | 4-6 |
@@ -160,7 +163,7 @@ There might be more adventures added, but this is the schedule for now:
 ### 14:00
 | Adventure | A wild sheep chase |
 |---|---|
-| Language | Deutsch|
+| Language | Deutsch |
 | Game-Master | Gandalf [Noctacian#3828] |
 | Rules | DnD 5e |
 | Suitable for | Anfänger bis Fortgeschritten |
