@@ -36,7 +36,7 @@ There might be more adventures added, but this is the schedule for now:
 | Description | On the coast near a small fishing town lie the remains of an ancient house, so old in fact that noone even remembers who it belonged to. Evil emenates from it, and the players are drawn to the promise of treasure and danger like moths to a canle. Mysteries and Monsters are said to lurk there. Will the players find their desires met? Or will whatever waits in the shadow be their end? Dark Fantasy Mystery and Dungeon Crawl |
 | Players | 3-6  |
 | Duration | 4-6 hours |
-| Characters| are made at the Table or by contacting the GM before the event |
+| Characters| are made at the Table or by contacting the GM before the event (Level 5) |
 
 ---
 
@@ -66,7 +66,7 @@ There might be more adventures added, but this is the schedule for now:
 
 ---
 
-| Adventure | Baldur's Elven|
+| Adventure | Baldur's Eleven|
 |---|---|
 | Language | Deutsch (English possible)|
 | Game-Master | Michael [Michl#2377] |
@@ -192,7 +192,7 @@ There might be more adventures added, but this is the schedule for now:
 | Language | English or Deutsch|
 | Game-Master | Daniel [Kuta1999#2531] |
 | Rules | DnD 5e |
-| Suitable for | all Player Levels |
+| Suitable for | all Player Levels, Beginner friendly |
 | Description | The fair city of Shallowsea is truly the jewel of the Rapier Coast. It's the home of fancy noble families, wealthy merchant guilds, grand fleets, bright festivals... and the infamous Goblin Mafia. One of the local Gobsters (goblin mobster, get it? Uhh, anyway...) One of the local crime bosses, Clever Tony, has devised another one of those treacherous schemes he's known for. However, he will need to hire an elite team of gobbo specialists to pull it off successfully. That's where you enter the picture. This one-shot may or may not be based on a meme i once saw. Without doubt, it does not take itself all too seriously. However, do not let that deceive you; you will need plenty of wit, charm, sneakiness and stabbiness to succeed. (The game is a bit silly, but it should still offer a decent gameplay challange.) |
 | Players | 4-5 |
 | Duration | 4-5 hours |
@@ -263,4 +263,4 @@ There might be more adventures added, but this is the schedule for now:
 | Description | Zum Glück seid ihr endlich hier! Die Gilde hat euch entsandt um das große Gasthaus, dass wie aus dem Nichts über Nacht vor Candlekeep aufgetaucht ist unter die Lupe zu nehmen nicht wahr? Bin ich froh euch endlich zu sehen. Mit dieser neuen Taverne stimmt etwas nicht! Sie ist so beliebt, dass die Stadt menschenleer ist. Alle die am Abend einen heben wollen gehen nur noch dorthin, und manche kommen nie wieder heraus! Die Gasthäuser der Stadt sind ruiniert und es verschwinden Menschen. Bitte seht nach was vor sich geht. |
 | Players | 3-5 |
 | Duration | 4-5 hours |
-| Characters | are provided, but brining your own is allowed as well (Level 3, sourced from Players Handbook and Tashas Cauldron of Everything)|
+| Characters | are provided, but bringing your own is allowed as well (Level 3, sourced from Players Handbook and Tashas Cauldron of Everything)|
