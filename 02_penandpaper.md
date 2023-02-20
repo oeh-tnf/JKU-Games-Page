@@ -9,7 +9,7 @@ permalink: /penandpaper/
 
 Welcome, Traveller!
 
-In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time! 
+In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time! (Shop will open at 6th of March)
 
 <a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
@@ -36,7 +36,7 @@ There might be more adventures added, but this is the schedule for now:
 | Description | On the coast near a small fishing town lie the remains of an ancient house, so old in fact that noone even remembers who it belonged to. Evil emenates from it, and the players are drawn to the promise of treasure and danger like moths to a canle. Mysteries and Monsters are said to lurk there. Will the players find their desires met? Or will whatever waits in the shadow be their end? Dark Fantasy Mystery and Dungeon Crawl |
 | Players | 3-6  |
 | Duration | 4-6 hours |
-| Characters| are made at the Table or by contacting the GM before the event |
+| Characters| are made at the Table or by contacting the GM before the event (Level 5) |
 
 ---
 
@@ -66,16 +66,16 @@ There might be more adventures added, but this is the schedule for now:
 
 ---
 
-| Adventure | to be announced |
+| Adventure | Baldur's Eleven|
 |---|---|
 | Language | Deutsch (English possible)|
 | Game-Master | Michael [Michl#2377] |
 | Rules | DnD 5e |
 | Suitable for | Fortgeschritten und aufwärts |
-| Description | noch in Planung |
+| Description | Baldur's Gate and its port, the Gray Harbor, is one of the largest trading ports in the Sword Coast. The gold and silver running through it has made it a great opportunity to invest in bribery, thievery, and all kinds of fiendish schemes. Usually, such crimes are investigated and handled by the city watch, but recently some new laws are in effect that reduced the Watch's effectiveness. The biggest supporter of these new laws is one of Grand Dukes, Willy Bank. There is no doubt in most minds that his pockets are being lined by some of the beneficiaries of rampant crime and corruption. Proofing such an allegation in front of a court, however, is a different, much more difficult matter. A letter asking you for help has made its way to you. It is only signed with letter R. and they asked you, and probably others, to meet them in the Helm and Cloak Inn, promising a substantial reward for your help with heisting the needed evidence from the dukes own chambers. |
 | Players | 4-6 |
 | Duration | 4-6 hours |
-| Characters | sind noch in Planung |
+| Characters | 5th Level, please bring your own |
 
 ### 23:00
 
@@ -90,7 +90,7 @@ There might be more adventures added, but this is the schedule for now:
 | Description | The last week has been exhausting. Just arriving in the rural Irish community of Rockwell, starting to enjoy your vacation of course a kelpie had to show up and remind you of your hunter existence. After yesterday's big showdown with the monster horse, you've earned a night in the pub "The Ape's Hand". But the monsters don't sleep - you'll find that out soon enough.  |
 | Players | 3-5 |
 | Duration | 4-5 hours |
-| Characters | are prepared by the GM but it's also allowed to bring your own |
+| Characters | are prepared by the GM but it's also allowed to bring your own (Level 3 = 2 Improvements) |
 
 ---
 
@@ -156,7 +156,7 @@ There might be more adventures added, but this is the schedule for now:
 | Description | Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft von Archäologen besucht. Doch niemand ist je aus ihr zurück gekehrt. |
 | Players | 3-5 |
 | Duration | 5-6 hours |
-| Characters | are premade, but bringing your own is allowed |
+| Characters | are premade, but bringing your own is allowed (Level 5, no magic items, Basic Equipment) |
 
 ---
 
@@ -176,7 +176,7 @@ There might be more adventures added, but this is the schedule for now:
 | Adventure | A wild sheep chase |
 |---|---|
 | Language | Deutsch |
-| Game-Master | Gandalf [Noctacian#3828] |
+| Game-Master | Gandalf [Noctavian#3828] |
 | Rules | DnD 5e |
 | Suitable for | Anfänger bis Fortgeschritten |
 | Description | When the party’s attempt to grab a rare afternoon of downtime is interrupted by a frantic sheep equipped with a Scroll of Speak to Animals, they’re dragged into a magical grudge match that will test their strength, courage and willingness to endure baa’d puns. Will our heroes be able to overcome a band of transmuted assassins and an extremely bitter apprentice packing dangerously unstable magic items? There’s only one way to find out… <br>(Das Adventure kommt ursprünglich von [hier](https://winghornpress.com/adventures/a-wild-sheep-chase/).) |
@@ -192,11 +192,11 @@ There might be more adventures added, but this is the schedule for now:
 | Language | English or Deutsch|
 | Game-Master | Daniel [Kuta1999#2531] |
 | Rules | DnD 5e |
-| Suitable for | all Player Levels |
+| Suitable for | all Player Levels, Beginner friendly |
 | Description | The fair city of Shallowsea is truly the jewel of the Rapier Coast. It's the home of fancy noble families, wealthy merchant guilds, grand fleets, bright festivals... and the infamous Goblin Mafia. One of the local Gobsters (goblin mobster, get it? Uhh, anyway...) One of the local crime bosses, Clever Tony, has devised another one of those treacherous schemes he's known for. However, he will need to hire an elite team of gobbo specialists to pull it off successfully. That's where you enter the picture. This one-shot may or may not be based on a meme i once saw. Without doubt, it does not take itself all too seriously. However, do not let that deceive you; you will need plenty of wit, charm, sneakiness and stabbiness to succeed. (The game is a bit silly, but it should still offer a decent gameplay challange.) |
 | Players | 4-5 |
 | Duration | 4-5 hours |
-| Characters | are premade, but check in with the GM if you want your own |
+| Characters | are premade, but check in with the GM if you want your own (Goblin, Level 2) |
 
 ### 16:00
 
@@ -222,7 +222,7 @@ There might be more adventures added, but this is the schedule for now:
 | Description | Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft von Archäologen besucht. Doch niemand ist je aus ihr zurück gekehrt. |
 | Players | 3-5 |
 | Duration | 5-6 hours |
-| Characters | are provided, but bringing your own is allowed |
+| Characters | are provided, but bringing your own is allowed (Level 5, no magic items, Basic Equipment) |
 
 ### 19:00
 
@@ -263,4 +263,4 @@ There might be more adventures added, but this is the schedule for now:
 | Description | Zum Glück seid ihr endlich hier! Die Gilde hat euch entsandt um das große Gasthaus, dass wie aus dem Nichts über Nacht vor Candlekeep aufgetaucht ist unter die Lupe zu nehmen nicht wahr? Bin ich froh euch endlich zu sehen. Mit dieser neuen Taverne stimmt etwas nicht! Sie ist so beliebt, dass die Stadt menschenleer ist. Alle die am Abend einen heben wollen gehen nur noch dorthin, und manche kommen nie wieder heraus! Die Gasthäuser der Stadt sind ruiniert und es verschwinden Menschen. Bitte seht nach was vor sich geht. |
 | Players | 3-5 |
 | Duration | 4-5 hours |
-| Characters | are provided, but brining your own is allowed as well |
+| Characters | are provided, but bringing your own is allowed as well (Level 3, sourced from Players Handbook and Tashas Cauldron of Everything)|
