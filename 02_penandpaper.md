@@ -9,7 +9,7 @@ permalink: /penandpaper/
 
 Welcome, Traveller!
 
-In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time! (Not open yet, check back soon)
+In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time! (Shop will open at 6th of March)
 
 <a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
@@ -176,7 +176,7 @@ There might be more adventures added, but this is the schedule for now:
 | Adventure | A wild sheep chase |
 |---|---|
 | Language | Deutsch |
-| Game-Master | Gandalf [Noctacian#3828] |
+| Game-Master | Gandalf [Noctavian#3828] |
 | Rules | DnD 5e |
 | Suitable for | Anfänger bis Fortgeschritten |
 | Description | When the party’s attempt to grab a rare afternoon of downtime is interrupted by a frantic sheep equipped with a Scroll of Speak to Animals, they’re dragged into a magical grudge match that will test their strength, courage and willingness to endure baa’d puns. Will our heroes be able to overcome a band of transmuted assassins and an extremely bitter apprentice packing dangerously unstable magic items? There’s only one way to find out… <br>(Das Adventure kommt ursprünglich von [hier](https://winghornpress.com/adventures/a-wild-sheep-chase/).) |
