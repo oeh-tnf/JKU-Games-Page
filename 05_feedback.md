@@ -33,6 +33,7 @@ We have implemented a self-assignable Pizza Role on our Discord now - simply joi
 
 ### I want to know when new Werewolf Rounds are starting | 2023 SoSe
 Using a similar approach, we have also created a Werewolf role now. Huzzah!
+We are also experimenting with a fixed timetable for the start of new rounds.
 
 ### Make the LAN area more comfortable | 2023 SoSe
 It is surprisingly difficult to get by some good chairs in the university. We are trying our best to persuade the uni administration to open their secret storage to us and are currently testing a few options.

@@ -32,6 +32,9 @@ You will be informed about when the next order takes place at the event, we curr
 Note that this is just an approximate schedule subject to change. Check out the Pizza-Channel on <a href="{{ site.discord_url }}">Discord</a> to receive live updates.<br>
 There is an ATM nearby.
 
+#### LUI
+The Linzer Uni Inn, the Student Union's bar, will be open through most of the event. They are conveniently located in the same building: You can get a drink and some snacks there as well, and play Billards or Darts. Check out their <a href="https://oeh.jku.at/abschnitte/lui">website</a> and <a href="https://www.facebook.com/LUI.LinzerUniInn">Facebook page</a> for more information.
+
 #### More Food
 Some selected other food opportunities nearby:
 * Spar JKU Campus: Friday 07:30-18:00, Saturday 7:30-13:00
@@ -41,19 +44,24 @@ Some selected other food opportunities nearby:
 For more inspiration, check out <a href="https://www.jku.at/en/campus/recreation/food-drink/">JKU's food guide</a>!
 
 ### Resting-Area
-If you need a short break or recover from a intense Pen&Paper Adventure you should visit our Rest-Area in the first floor. Please be aware that you have to bring your own sleeping bags or mattresses. 
+If you need a short break or want to recover from an intense Pen & Paper Adventure, you can chill in our Resting-Area in the first floor. Please bring your own sleeping bags or mattresses. 
 
 ---
 
 ## FAQs
 
 ### Is there an entrance fee?
-No, the JKU Games are a completely free event. We are entirely funded by sponsorships and via means of the student union (ÖH TNF). Naturally, we are always happy about any donations as well.
+No, the JKU Games are a completely free event. We are entirely funded by sponsorships and via means of the student union (ÖH TNF). Naturally, we are always happy about any donations as well. All left-over funding will be re-invested in other events.
 
 ### Can I reserve a space?
 There are no general reservations for our event. Given our truly massive location, we usually have enough space for you all.
 
 This year, we will be implementing a ticket system for our Pen and Papers and Tournaments (more on that in the respective sections). We are trying to ease the application process that way and want to ensure that the assortment is fair for all. Naturally, tickets are free as well.
+
+### Do I need to bring anything?
+Depends on what you are up to: If you want to play Computer Games, you will have to bring your own PC and peripherals. We will hook you up with LAN and power - see the [LAN section](/./lan) for more details. If you are only here for the DICE area, you should be good, but you can bring your favorite games of course just in case we missed it.
+If you plan on staying for longer, you might want to bring a bit of money for food orders, and a sleeping bag.
+Most importantly, don't forget to bring your friends :P
 
 ### Can I bring alcohol?
 We firmly believe that the activities offered can be enjoyed without alcohol as well. Nevertheless, we tolerate alcohol as long as it is not disturbing our guests and the event (see the [AGBs](/./rules) for a more binding definition). Naturally, all alcohol you bring is for personal consumption, please abide to rules on the protection of minors etc.
@@ -79,6 +87,7 @@ The chances are even higher if you are willing to organize it yourself, so pleas
 Here are some common requests that we will most likely not be able to fulfill:
 * Karaoke / SingStar: Too noisy
 * Drinking Games: Not really in the spirit of the event
+* Chess Tournament: We are lacking the space and usual quiet atmosphere. We also feel like it is a bit too skill-centered compared to most of our tournaments.
 * More free snacks: We understand the desire, but we are working with a limited budget, sorry! 
 
 ### I don't feel comfortable at the event

@@ -7,11 +7,9 @@ permalink: /lan/
 ---
 
 ## Highlights of the LAN-Area
-
 * Room for up to 100 PCs
 * VR- and Console-Area
 * Tournaments
-* Try out our <a href="https://daid.github.io/EmptyEpsilon/">Spaceship Bridge Simulator EmptyEpsilon</a> and fight epic battles and quests! 
 
 <figure>
    <img src="/assets/images/lan/lan_panorama.jpg" style="max-width: 1000px;"

@@ -17,8 +17,8 @@ You can find out more about the ÖH TNF and the other work we do by checking out
 
 ## Safety- and Awareness Team
 If you don't feel comfortable because of a specific person or about a certain situation in our control, you can inform the awareness contacts listed below directly. We will handle your request confidentially and bring up your problem anonymously with other relevant members of the Orga Team if necessary. We will then try to sort the issue out as quickly as possible.
-* Helena Fitze ([Mail](mailto:helena.fitze@oeh.jku.at), [Discord](https://discordapp.com/users/499623227904098304))
-* Felix Ferchhumer ([Mail](mailto:felix.ferchhumer@oeh.jku.at), [Discord](https://discordapp.com/users/151349051223310337))
+* Helena Fitze ([Mail](mailto:helena.fitze@oeh.jku.at), [Discord: Helena#2407](https://discordapp.com/users/499623227904098304))
+* Felix Ferchhumer ([Mail](mailto:felix.ferchhumer@oeh.jku.at), [Discord: itsafeh#9156](https://discordapp.com/users/151349051223310337))
 
 
 ## Got some spare time?
