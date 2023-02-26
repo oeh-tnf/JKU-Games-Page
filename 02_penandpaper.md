@@ -163,7 +163,7 @@ There might be more adventures added, but this is the schedule for now:
 | Adventure | The Eaglecrest Slasher |
 |---|---|
 | Language | English (or German of everyone prefers) |
-| Game-Master | Wolfgang |
+| Game-Master | Wolfgang [Wolfgang#2703] |
 | Rules | extremely simplified version of DnD |
 | Suitable for | all player levels - beginner friendly |
 | Description |  In the small village of Eaglecrest, a young woman has been murdered. It is your job to investigate the scene and possibly find and confront the killer. |
