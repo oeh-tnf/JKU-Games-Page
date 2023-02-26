@@ -160,16 +160,16 @@ There might be more adventures added, but this is the schedule for now:
 
 ---
 
-| Adventure | to be announced |
+| Adventure | The Eaglecrest Slasher |
 |---|---|
-| Language | tba |
+| Language | English (or German of everyone prefers) |
 | Game-Master | Wolfgang |
-| Rules | still in planning |
-| Suitable for | still in planning |
-| Description | still in planning |
+| Rules | extremely simplified version of DnD |
+| Suitable for | all player levels - beginner friendly |
+| Description |  In the small village of Eaglecrest, a young woman has been murdered. It is your job to investigate the scene and possibly find and confront the killer. |
 | Players | 3-5 |
 | Duration | 4-6 |
-| Characters | are still in planning |
+| Characters | The rules should be simple enough to create caracters at the table. You can think of a character concept beforehand, we will probably be able to make it work. The setting is classic fantasy |
 
 ### 14:00
 
