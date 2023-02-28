@@ -35,7 +35,7 @@ There is an ATM nearby.
 #### LUI
 The Linzer Uni Inn, the Student Union's bar, will be open through most of the event. They are conveniently located in the same building: You can get a drink and some snacks there as well, and play Billards or Darts. Check out their <a href="https://oeh.jku.at/abschnitte/lui">website</a> and <a href="https://www.facebook.com/LUI.LinzerUniInn">Facebook page</a> for more information.
 
-Only for the JKU GAMES they will open at Saturday 17:00-23:00.
+Open on Friday, 17:00-02:00, and Saturday, 17:00-23:00 (only for the JKU GAMES).
 
 #### More Food
 Some selected other food opportunities nearby:
