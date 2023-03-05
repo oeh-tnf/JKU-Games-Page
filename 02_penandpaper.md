@@ -132,19 +132,6 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 1-3 hours |
 | Characters | are the familiars of the witch and prepared before the session by two simple dice rolls. |
 
----
-
-| Adventure | To be announced |
-|---|---|
-| Language | English |
-| Game-Master | Nick [Nick Blust#1309] |
-| Rules | DnD 5e |
-| Suitable for | everyone |
-| Description | still in planning |
-| Players | 3-6 |
-| Duration | 4-5 hours |
-| Characters | are still in planning |
-
 ### 10:00
 
 | Adventure | Sound of Silence |
@@ -237,6 +224,19 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 3-6 |
 | Duration | 3-6 hours |
 | Characters | provided by the GM |
+
+---
+
+| Adventure | To be announced |
+|---|---|
+| Language | not fixed yet |
+| Game-Master | Hendrik |
+| Rules | DnD 5e |
+| Suitable for | everyone |
+| Description | still in planning |
+| Players | still in planning |
+| Duration | 4-5 hours |
+| Characters | are still in planning |
 
 ### 23:00
 
