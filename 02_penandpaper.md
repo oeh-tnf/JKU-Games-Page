@@ -9,7 +9,7 @@ permalink: /penandpaper/
 
 Welcome, Traveller!
 
-In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time! (Shop will open at 6th of March)
+In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
 
 <a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
