@@ -30,7 +30,6 @@ To participate in a tournament, simply get yourself a free ticket using the butt
 | Su 00:15   | Purple Place               |
 | Su 02:00   | Staring Contest            |
 
-
 Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes before, you may be substituted from the tournament.
 
 ### Mario Kart 8 Deluxe (Console Area) - Friday, 6pm
