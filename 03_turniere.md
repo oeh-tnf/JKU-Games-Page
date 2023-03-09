@@ -44,18 +44,18 @@ The tournament is a Best of One on Competitive Settings and will take ca. three 
 You can sign up alone and will be assigned to a team, or give your team name on registration.<br>
 Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network.
 
-### Blobby Volley Tournament (LAN Area) - Saturday, 1am
+### Blobby Volley (LAN Area) - Saturday, 1am
 <em>Volleyball, but with green, slimy blobs - i.e. the perfect past-midnight game and all-time classic at the Games.</em><br>
 We will play in a bracket system in an epic battle to the death.<br>
 If you are confused why you have never heard of this game, it was a bit more popular back in the Windows XP days.
 The necessary software will therefore be pre-installed on the tournament computers.
 
-### Floppy Disk Target Throw Tournament (outside) - Saturday, 1pm
+### Floppy Disk Target Throw (outside) - Saturday, 1pm
 <em>To get your brain running after a long night, we will force you outside for this epic Floppy Disk Mating ritual!</em><br>
 If the weather allows it, we will practice frisbee-ing Floppy Disks. The person closest to the target (disk drive) wins!<br>
 We will provide you with your Floppy Disks.
 
-### UNO Flip! Tournament (DICE Area) - Saturday, 4pm
+### UNO Flip! (DICE Area) - Saturday, 4pm
 <em>UNO, but they accidentally printed both sides of the cards. It's the classical game, but with a little twist (or dare I say "Flip"?)</em><br>
 We will play in a bracket system consisting of several groups playing each other. First to get rid of their cards advances to the next round.<br>
 We will provide you with the game (and rules).
@@ -81,7 +81,7 @@ The necessary software will be pre-installed on the tournament computers.
 In this bracket style tournament, you will be invited to get lost in your opponents eyes. If you blink, you lose!<br>
 Please bring the necessary eyes.
 
-## Promoted Games (not updated yet!)
+## Promoted Games
 
 During the JKU Games, we want to promote a few games at specific timeslots. Mainly focused on the LAN section, this should help make it feel more coherent and communal. Furthermore, it makes finding allies and opponents to play with easier.<br>
 Games that are promoted have been decided in a community vote. Each will be promoted for a four-hour timeslot:
