@@ -102,6 +102,15 @@ Since we are a team of volunteers, we are happy for any help! Please check out t
 
 You can also help us at the event by simply cleaning up after yourself and reminding others to do the same. This way, we as the organizers also get more time to enjoy the event ourselves!
 
+### The Games are over, what do I do now?!
+We understand the sudden feeling of dread and despair once the JKU Games are edging closer towards their last hour. Fortunately, there are some other ways the spirit of the Games can stay with you until the next edition can be celebrated!
+* **Game and Dine**: If you like good food and games (both the classical and especially the electronic kind), [Game and Dine](https://www.instagram.com/game_and_dine) has got you covered with playing nights, regulars' tables etc.! We are huge fans, make sure to check them out!
+* **Game Store Linz**: If you enjoyed our MTG events, make sure to check out the [Game Store](https://magic-linz.at/) for more regular tournaments!
+* **TCG Steyr**: Our TableTop Games were organized by [TCG Steyr](https://www.mtg-steyr.at/) - if you are into Warhammer, MTG, Pen and Paper etc., check them out!
+* **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
+* **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: We are already planning to have the next Games on 08.-10.12.2023!
+
+
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our <a href="{{ site.discord_url }}">Discord Server</a>!
 
