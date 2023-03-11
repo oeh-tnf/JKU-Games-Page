@@ -106,7 +106,7 @@ New rounds are planned to start every full hour (unless the room is needed other
 ## Game Store 
 
 During the JKU Games the Game Store Linz will hold Magic the Gathering Events in the Dice Area.<br>
-We have not yet received a schedule from them. These were last semester's tournaments:
+This is their schedule:
 
 | Start time | Tournament       |
 | ---------- | -----------------|
