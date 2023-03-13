@@ -132,19 +132,6 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 1-3 hours |
 | Characters | are the familiars of the witch and prepared before the session by two simple dice rolls. |
 
-### 10:00
-
-| Adventure | Sound of Silence |
-|---|---|
-| Language | Deutsch or English |
-| Game-Master | Nina [DragonSoul123#2519] |
-| Rules | DnD 5e |
-| Suitable for | all - Beginner friendly - FSK 16/18 |
-| Description | Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft von Archäologen besucht. Doch niemand ist je aus ihr zurück gekehrt. |
-| Players | 3-5 |
-| Duration | 5-6 hours |
-| Characters | are premade, but bringing your own is allowed (Level 5, no magic items, Basic Equipment) |
-
 ---
 
 | Adventure | The Eaglecrest Slasher |
@@ -157,6 +144,19 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 2-5 |
 | Duration | 4-6 |
 | Characters | The rules should be simple enough to create caracters at the table. You can think of a character concept beforehand, we will probably be able to make it work. The setting is classic fantasy |
+
+### 10:00
+
+| Adventure | Sound of Silence |
+|---|---|
+| Language | Deutsch or English |
+| Game-Master | Nina [DragonSoul123#2519] |
+| Rules | DnD 5e |
+| Suitable for | all - Beginner friendly - FSK 16/18 |
+| Description | Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft von Archäologen besucht. Doch niemand ist je aus ihr zurück gekehrt. |
+| Players | 3-5 |
+| Duration | 5-6 hours |
+| Characters | are premade, but bringing your own is allowed (Level 5, no magic items, Basic Equipment) |
 
 ### 14:00
 
