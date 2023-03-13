@@ -66,7 +66,7 @@ There might be more adventures added, but this is the schedule for now:
 
 ---
 
-| Adventure | Baldur's Eleven|
+| Adventure | Baldur's Eleven |
 |---|---|
 | Language | Deutsch (English possible)|
 | Game-Master | Michael [Michl#2377] |
@@ -101,7 +101,7 @@ There might be more adventures added, but this is the schedule for now:
 | Rules | A one in a Million Chance at Adventure - a D10-based System made for playing on Terry Pratchett's Discworld |
 | Suitable for | All - Beginner friendly |
 | Description | You have just settled into your seat at "The Dysc", a small and shabby theatre in the city of Ankh-Morpork. You are not much of a theatre person generally but look forward to throwing vegetables at your close friend, or well maybe more of an acquaintance, in fact you just met him yesterday, the famous Oswald Otterstrike, who is playing the king. Like any proper king in a play, he will eventually get stabbed, of course. And DAMN his acting is fine. Or is it? The other actors seem quite befuzzled by the ferocious scream and groaning noises he makes. Best to check out if the murder is real ... |
-| Players | 3-5 |
+| Players | 3-6 |
 | Duration | 4-6 hours |
 | Characters | will be prepared together at the start of the Session |
 
@@ -132,19 +132,6 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 1-3 hours |
 | Characters | are the familiars of the witch and prepared before the session by two simple dice rolls. |
 
-### 10:00
-
-| Adventure | Sound of Silence |
-|---|---|
-| Language | Deutsch or English |
-| Game-Master | Nina [DragonSoul123#2519] |
-| Rules | DnD 5e |
-| Suitable for | all - Beginner friendly - FSK 16/18 |
-| Description | Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft von Archäologen besucht. Doch niemand ist je aus ihr zurück gekehrt. |
-| Players | 3-5 |
-| Duration | 5-6 hours |
-| Characters | are premade, but bringing your own is allowed (Level 5, no magic items, Basic Equipment) |
-
 ---
 
 | Adventure | The Eaglecrest Slasher |
@@ -157,6 +144,19 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 2-5 |
 | Duration | 4-6 |
 | Characters | The rules should be simple enough to create caracters at the table. You can think of a character concept beforehand, we will probably be able to make it work. The setting is classic fantasy |
+
+### 10:00
+
+| Adventure | Sound of Silence |
+|---|---|
+| Language | Deutsch or English |
+| Game-Master | Nina [DragonSoul123#2519] |
+| Rules | DnD 5e |
+| Suitable for | all - Beginner friendly - FSK 16/18 |
+| Description | Eine Gruppe Abenteurer wurde von einer Archäologie-Expedition als Geleitschutz angeheuert. Die Ruine, die die Expedition erkunden will, wurde schon oft von Archäologen besucht. Doch niemand ist je aus ihr zurück gekehrt. |
+| Players | 3-5 |
+| Duration | 5-6 hours |
+| Characters | are premade, but bringing your own is allowed (Level 5, no magic items, Basic Equipment) |
 
 ### 14:00
 
@@ -227,16 +227,17 @@ There might be more adventures added, but this is the schedule for now:
 
 ---
 
-| Adventure | To be announced |
+| Adventure | We be Goblins |
 |---|---|
-| Language | not fixed yet |
-| Game-Master | Hendrik |
-| Rules | DnD 5e |
-| Suitable for | everyone |
-| Description | still in planning |
-| Players | still in planning |
+| Language | Deutsch oder English |
+| Game-Master | Hendrik [Henricus#5155] |
+| Rules | Pathfinder 1 |
+| Suitable for | everyone, Noobs welcome |
+| Beschreibung | Ihr gehört zu den stärksten Angehörigen der Licktoads, einem Stamm von Goblins in Brinestump Marsh, einem Sumpfgebiet am südwestlichen Ende Varisias. Ihr wurdet auserwählt, einen glorreichen Feldzug zu starten, um prachtvolles Feuerwerk zu erbeuten. Von dessen Existenz hat der Häuptling erst kürzlich erfahren – heute, um genau zu sein; höchste Zeit es für den Stamm zu sichern. Heute Abend gibt es noch ein mächtiges Gelage und morgen geht es dann los! |
+| Description | You are among the most powerful members of the Licktoads, a fierce tribe of goblins living in Brinestump Marsh, on the south-western end of Varisia. You have been chosen to raid a recently – as in today – discovered stash of magnificent fireworks. Today there will be a celebratory feast, tomorrow there is raiding to be done! |
+| Players | 3-4 |
 | Duration | 4-5 hours |
-| Characters | are still in planning |
+| Characters | premade by the GM |
 
 ### 23:00
 
