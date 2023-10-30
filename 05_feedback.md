@@ -8,7 +8,7 @@ permalink: /feedback/
 
 We are always looking to improve our events and appreciate any feedback we get: Tell us your thoughts using the button below!
 
-<a href="https://forms.gle/RcDLxi2cMD4ddZap7" target="_blank" rel="noopener noreferrer" class="button img">Give Feedback</a>
+<a href="https://forms.gle/f6wNQ2eCVNekC1jYA" target="_blank" rel="noopener noreferrer" class="button img">Give Feedback</a>
 
 
 ## Changelog
