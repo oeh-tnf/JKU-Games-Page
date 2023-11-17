@@ -8,12 +8,14 @@ permalink: /tournaments/
 ---
 
 ## Event time and Resting Period
-The JKU Games will take place from Friday, 17.03. (16:00) until Sunday, 19.03. (06:00).<br>
+The JKU Games will take place from Friday, 08.12. (16:00) until Sunday, 10.12. (06:00).<br>
 On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting period. During this time, you can stay at the event and play games but won't be able to get new ones from our Games Rental section.
 
 ## Tournaments
 Compete for glory and fame (and a little goodie) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and guarantees you to get a spot. Left-over spots can also be booked during the event as well.
+
+**Note: The listed tournaments have not been updated for the Games 2023W yet. The following content should serve as an idea of what you can expect this time as well.**
 
 <a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
