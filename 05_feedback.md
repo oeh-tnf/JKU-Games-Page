@@ -14,6 +14,19 @@ We are always looking to improve our events and appreciate any feedback we get: 
 ## Changelog
 These are some of the more recent pieces of advice we received in the past and how we have tried to implement them. The date always indicates when we last changed stuff to address an issue.
 
+### I wasn't sure if you still had any free LAN slots | 2023 WiSe
+Yes, planning security is important and that's why we have also included LAN places in our ticket system this year. You can reserve a place there and make sure that your PC has a place in the LAN area. But please let us know if you are not coming so that we can free up the space again.
+
+### LOUD NOISES !!!! | 2023 WiSe
+Do you know the situation where you're about to defeat a dragon in a cave, but in the background it sounds like you're at a bazaar? In response to your feedback, we have moved the Pen&Paper area to the 2nd floor this year. We hope you will be less affected by noise and can immerse yourself completely in your world.
+
+### The puzzle was to easy | 2023 WiSe
+Since you finished the puzzle last year to early and gave us the feedback that there was too much text in it, this year there is again a classic Disney puzzle without much text. 
+To make it even better, you can also compete for first place in a speed puzzle tournament this year. Every second counts and the best player will receive a small prize.
+
+### Please more Chess Boards | 2023 WiSe
+We have noticed your interest and have not only organized more chess boards this year, but also offer you the opportunity to take part in a chess tournament. 
+
 ### The Pen and Paper / Tournament Sign-Up is too chaotic | 2023 SoSe
 Because of the massive boom in interest, our Pen and Paper area is receiving a lot more visitors than in previous years and we have increased the amount of games we are running. We realized last semester that it is no longer possible to properly administer that many games via Discord and the GMs directly, so this year we are trying something new: An online ticket system!
 
