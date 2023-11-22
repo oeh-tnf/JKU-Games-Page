@@ -8,8 +8,8 @@ permalink: /dice/
 ---
 
 <figure>
-   <img src="/assets/images/dice/close_up.jpg" style="max-width: 1000px;"
-      alt="4 people playing Siedler von Catan" />
+   <img src="/assets/images/dice/people_new.JPG" style="max-width: 1000px;"
+      alt="A lot of people playing board games in the Uni Center" />
    <figcaption></figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ permalink: /dice/
 * Puzzle to your heart's content or assist us in crafting decoration.
 
 <figure>
-   <img src="/assets/images/dice/games_collection.jpg" style="max-width: 1000px;"
+   <img src="/assets/images/dice/games_collection_new.jpg" style="max-width: 1000px;"
       alt="Some of our games" />
    <figcaption></figcaption>
 </figure>
@@ -30,7 +30,7 @@ permalink: /dice/
 * Fun, Fairness and Friends.
 
 <figure>
-   <img src="/assets/images/dice/ww.jpg" style="max-width: 1000px;"
+   <img src="/assets/images/dice/group_games.JPG" style="max-width: 1000px;"
       alt="Werwolf" />
    <figcaption></figcaption>
 </figure>

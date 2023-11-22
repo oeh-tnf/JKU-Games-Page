@@ -7,6 +7,12 @@ nav-menu: true
 permalink: /penandpaper/
 ---
 
+<figure>
+   <img src="/assets/images/dice/pen_and_paper_people.JPG" style="max-width: 1000px;"
+      alt="How a Pen and Paper session could look like" />
+   <figcaption></figcaption>
+</figure>
+
 Welcome, Traveller!
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
