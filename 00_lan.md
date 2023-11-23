@@ -12,7 +12,7 @@ permalink: /lan/
 * [Tournaments](/./tournaments)
 
 <figure>
-   <img src="/assets/images/lan/lan_new.JPG" style="max-width: 1000px;"
+   <img src="/assets/images/lan/lan_new.JPG" style="width: 95%; max-width: 1000px;"
       alt="Panorama of the lan area 2023" />
    <figcaption></figcaption>
 </figure>
@@ -24,7 +24,7 @@ permalink: /lan/
 * Your own powerstrip (Verteiler) might come in handy as well. 
 
 <figure>
-   <img src="/assets/images/lan/consoles.JPG" style="max-width: 1000px;"
+   <img src="/assets/images/lan/consoles.JPG" style="width: 95%; max-width: 1000px;"
       alt="People playing in the console area" />
    <figcaption></figcaption>
 </figure>

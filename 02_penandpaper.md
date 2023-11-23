@@ -8,7 +8,7 @@ permalink: /penandpaper/
 ---
 
 <figure>
-   <img src="/assets/images/dice/pen_and_paper_people.JPG" style="max-width: 1000px;"
+   <img src="/assets/images/dice/pen_and_paper_people.JPG" style="width: 95%; max-width: 1000px;"
       alt="How a Pen and Paper session could look like" />
    <figcaption></figcaption>
 </figure>
@@ -25,7 +25,7 @@ Please sign up for only one game at this time, remaining spots will be available
 You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)
 
 <figure>
-   <img src="/assets/images/dice/pen_and_paper.jpg" style="max-width: 1000px;"
+   <img src="/assets/images/dice/pen_and_paper.jpg" style="width: 95%; max-width: 1000px;"
       alt="Some of our games offered in the past" />
    <figcaption></figcaption>
 </figure>

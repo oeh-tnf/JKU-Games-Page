@@ -10,7 +10,7 @@ permalink: /guide/
 
 ## Roomplan
 <figure>
-   <img src="/assets/images/Roomplan JKU Games 2023W.png" style="max-width: 1000px;"
+   <img src="/assets/images/Roomplan JKU Games 2023W.png" style="width: 95%; max-width: 1000px;"
       alt="Roomplan JKU Games 2023S" />
    <figcaption></figcaption>
 </figure>

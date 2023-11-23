@@ -8,7 +8,7 @@ permalink: /dice/
 ---
 
 <figure>
-   <img src="/assets/images/dice/people_new.JPG" style="max-width: 1000px;"
+   <img src="/assets/images/dice/people_new.JPG" style="width: 95%; max-width: 1000px;"
       alt="A lot of people playing board games in the Uni Center" />
    <figcaption></figcaption>
 </figure>
@@ -20,7 +20,7 @@ permalink: /dice/
 * Puzzle to your heart's content or assist us in crafting decoration.
 
 <figure>
-   <img src="/assets/images/dice/games_collection_new.jpg" style="max-width: 1000px;"
+   <img src="/assets/images/dice/games_collection_new.jpg" style="width: 95%; max-width: 1000px;"
       alt="Some of our games" />
    <figcaption></figcaption>
 </figure>

@@ -14,7 +14,7 @@ On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting per
 ## Tournaments
 
 <figure>
-   <img src="/assets/images/dice/tournaments.JPG" style="max-width: 1000px;"
+   <img src="/assets/images/dice/tournaments.JPG" style="width: 95%; max-width: 1000px;"
       alt="Two people competing in a tournament while having spectators" />
    <figcaption></figcaption>
 </figure>
