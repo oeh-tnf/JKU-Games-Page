@@ -9,11 +9,11 @@ permalink: /lan/
 ## Highlights of the LAN-Area
 * Room for up to 100 PCs
 * VR- and Console-Area
-* Tournaments
+* [Tournaments](/./tournaments)
 
 <figure>
-   <img src="/assets/images/lan/lan_panorama.jpg" style="max-width: 1000px;"
-      alt="Panorama of the lan area 2018" />
+   <img src="/assets/images/lan/lan_new.JPG" style="max-width: 1000px;"
+      alt="Panorama of the lan area 2023" />
    <figcaption></figcaption>
 </figure>
 
@@ -24,8 +24,8 @@ permalink: /lan/
 * Your own powerstrip (Verteiler) might come in handy as well. 
 
 <figure>
-   <img src="/assets/images/lan/hitman.jpg" style="max-width: 1000px;"
-      alt="Hitman figure with blurred lan in background" />
+   <img src="/assets/images/lan/consoles.JPG" style="max-width: 1000px;"
+      alt="People playing in the console area" />
    <figcaption></figcaption>
 </figure>
 

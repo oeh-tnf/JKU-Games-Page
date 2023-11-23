@@ -30,7 +30,7 @@ permalink: /dice/
 * Fun, Fairness and Friends.
 
 <figure>
-   <img src="/assets/images/dice/group_games.JPG" style="max-width: 1000px;"
+   <img src="/assets/images/dice/ww_deco_puzzle_chess.jpg" style="max-width: 1000px;"
       alt="Werwolf" />
    <figcaption></figcaption>
 </figure>
