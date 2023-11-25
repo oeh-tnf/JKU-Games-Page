@@ -11,6 +11,12 @@ permalink: /lan/
 * VR- and Console-Area
 * [Tournaments](/./tournaments)
 
+We usually have enough space for all, so you do not need to reserve a place. Still, if you want to make absolutely sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have reserved a spot will be prioritized if spots run out. 
+
+**Note: The ticket shop has not yet opened - check back in a few days.**
+
+<a href="https://pretix.eu/jkugames/WiSe23/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
+
 <figure>
    <img src="/assets/images/lan/lan_new.JPG" style="width: 95%; max-width: 1000px;"
       alt="Panorama of the lan area 2023" />
