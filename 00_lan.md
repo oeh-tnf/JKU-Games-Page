@@ -23,6 +23,19 @@ We usually have enough space for all, so you do not need to reserve a place. Sti
    <figcaption></figcaption>
 </figure>
 
+## Promoted Games
+During the JKU Games, we want to promote a few games in the LAN section at specific timeslots. This should help make it feel more coherent and communal. Furthermore, it makes finding allies and opponents to play with easier.<br>
+Each game will be promoted for a four-hour timeslot:
+
+| Start time | Game              |
+| ---------- | ----------------- |
+| Fr 17:00   | League of Legends |
+| Fr 21:00   | Valorant          |
+| Fr 23:00   | Among Us          |
+| Sa 17:00   | Counter-Strike    |
+| Sa 21:00   | Overwatch         |
+| Sa 23:00   | Among Us          |
+
 ## To Bring
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
 * You have to bring your own PC and gaming equipment!
@@ -36,5 +49,4 @@ We usually have enough space for all, so you do not need to reserve a place. Sti
 </figure>
 
 ## Discord
-
 During the Games, talk to your mates using our Discord Server: <a href="{{ site.discord_url }}"> Join us! </a> 

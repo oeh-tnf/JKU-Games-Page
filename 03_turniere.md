@@ -55,6 +55,8 @@ You can sign up alone and will be assigned to a team, or give your team name on 
 Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network and make sure that the client is running.
 
 ### Curve Fever (aka. Achtung, die Kurve!) (LAN Area) - Friday, 11pm
+<em>You probably know this game from High School computer science classes. For once, the long hours of procrastination will bear fruit. Show your hard earned skills in this timeless classic. And above all, beware of the Curve.</em><br>
+The tournament will be played on high end hardware provided by us.
 
 ### Blobby Volley (LAN Area) - Saturday, 1am
 <em>Volleyball, but with green, slimy blobs - i.e. the perfect past-midnight game and all-time classic at the Games.</em><br>
@@ -84,21 +86,14 @@ You can sign up alone and will be assigned to a team, or give your team name on 
 Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network.
 
 ### Cup Stacking (DICE Area) - Saturday, 10pm
+<em>A discipline easy to learn, but hard to master. - You’re gonna be stacking cups. It’s in the name. It’s not complicated, but that doesn’t mean it’s easy either.</em><br>
+You have to be fast to win. Faster than light. That may mean that you’ll have to live in the dark, but that’s what it takes to be the best.<br>
+Cups will be provided by us.
 
 ### Staring Contest (DICE Area) - Sunday, 2am
 <em>Especially enticing for all that have stayed up throughout the whole event, this game will force you to stay awake.</em><br>
 In this bracket style tournament, you will be invited to get lost in your opponents eyes. If you blink, you lose!<br>
 Please bring the necessary eyes.
-
-## Promoted Games
-
-During the JKU Games, we want to promote a few games at specific timeslots. Mainly focused on the LAN section, this should help make it feel more coherent and communal. Furthermore, it makes finding allies and opponents to play with easier.<br>
-Games that are promoted have been decided in a community vote. Each will be promoted for a four-hour timeslot:
-
-| Start time | Game              |
-| ---------- | ----------------- |
-| Fr 19:00   | CS:GO / Valorant  |
-| Sa 18:00   | League of Legends |
 
 ## Two Rooms and a Boom
 
