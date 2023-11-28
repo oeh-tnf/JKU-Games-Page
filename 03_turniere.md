@@ -38,6 +38,7 @@ To participate in a tournament, simply get yourself a free ticket using the butt
 | Sa 18:00   | Super Smash Bros. Ultimate |
 | Sa 18:00   | Counter-Strike 2           |
 | Sa 22:00   | Cup Stacking               |
+| Su 00:00   | Chess Champion Announcement|
 | Su 02:00   | Staring Contest            |
 
 Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes before, you may be substituted from the tournament.
@@ -97,7 +98,7 @@ Please bring the necessary eyes.
 
 ## Chess Tournament
 Dear chess enthusiasts,<br>
-We are delighted to announce that we will be hosting a chess tournament as part of the upcoming JKU Games. In light of logistical considerations regarding space and scheduling, we have devised a unique tournament format. The tournament will span the entire event, and each participant will receive two tokens -designated as either <em>amateur</em> or <em>advance</em>- along with a button identifying them as a <em>Challenger.</em><br>
+We are delighted to announce that we will be hosting a chess tournament as part of the upcoming JKU Games. In light of logistical considerations regarding space and scheduling, we have devised a unique tournament format. The tournament will span the entire event, and each participant will receive two tokens - designated as either <em>amateur</em> or <em>advanced</em> - along with a button identifying them as a <em>Challenger.</em><br>
 Participants possessing a Challenger button can be challenged to a chess duel at any time during the event. Upon the conclusion of a match, the defeated player will surrender one of their tokens to the victor. The tournament concludes for a player when they have no tokens remaining. At this point, the Challenger button should be returned to the Games Rental section. Alternatively, if a participant wishes to conclude their challenge period before running out of tokens, they can return the tokens together with the Challenger button to the Games Rental section and only then the score will be recorded for evaluation at the conclusion of the tournament.<br>
 The announcement of the tournament winner is scheduled for 12am (midnight) on Sunday. In case that a winner is no longer present at the JKU Games location, we will contact them to convey their victory.<br>
 We look forward to an exciting and competitive chess tournament during the JKU Games!
