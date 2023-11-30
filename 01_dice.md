@@ -18,6 +18,7 @@ permalink: /dice/
 * Enjoy thrilling [Pen & Paper adventures](/./penandpaper).
 * Play intense Group-games like "Werewolf" or "Two Rooms and a Boom".
 * Puzzle to your heart's content or assist us in crafting decoration.
+* Compete in exciting [Tournaments](/./tournaments).
 
 <figure>
    <img src="/assets/images/dice/games_collection_new.jpg" style="width: 95%; max-width: 1000px;"
