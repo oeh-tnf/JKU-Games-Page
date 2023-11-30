@@ -103,16 +103,17 @@ Werewolves are hiding in the peaceful village and are trying to eat all its resi
 Werewolf is played almost constantly in the Group Games room, where you will get a more in-depth explanation of the rules and roles.
 New rounds are planned to start every full hour (unless the room is needed otherwise) and will be announced via <a href="{{ site.discord_url }}">Discord</a> in the werewolf channel.
 
-## Game Store (not updated yet!)
+## Game Store 
 
 During the JKU Games the Game Store Linz will hold Magic the Gathering Events in the Dice Area.<br>
 We have not yet received a schedule from them. These were last semester's tournaments:
 
 | Start time | Tournament       |
 | ---------- | -----------------|
-| Fr 18:00   | BIG Legacy		|
-| Fr 20:00   | Draft	        |
-| Sa 12:00   | Pioneer RCQ		|
-| Sa 13:00   | Commander		|
-| Sa 18:00   | BIG Modern		|
+| Fr 16:00   | CEDH Tournament		|
+| Fr 18:00   | Legacy FNM	        |
+| Fr 18:00   | Lost Cave of Ixalan Draft	        |
+| Sa 11:00   | Modern RCQ		|
+| Sa 14:00   | One Piece OP-05 Tournament		|
+
 
