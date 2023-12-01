@@ -122,9 +122,8 @@ This is their schedule:
 
 | Start time | Tournament       |
 | ---------- | -----------------|
-| Fr to Sa   | On Demand Drafts	        |
-| Fr 18:00   | One Piece Paramount War Display Turnier		|
-| Fr 20:00   | Austrian Legacy Liga FNM		|
-| Sa 11:00   | Pioneer RCQ		|
-
+| Fr 16:00   | CEDH Tournament		|
+| Fr 18:00   | Legacy FNM	        |
+| Fr 18:00   | Lost Cave of Ixalan Draft	        |
+| Sa 11:00   | Modern RCQ		|
 
