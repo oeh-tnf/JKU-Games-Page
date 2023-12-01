@@ -126,4 +126,5 @@ This is their schedule:
 | Fr 18:00   | Legacy FNM	        |
 | Fr 18:00   | Lost Cave of Ixalan Draft	        |
 | Sa 11:00   | Modern RCQ		|
+| Sa 14:00   | One Piece OP-05 Tournament |
 
