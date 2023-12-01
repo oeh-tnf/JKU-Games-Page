@@ -10,7 +10,7 @@ permalink: /guide/
 
 ## Roomplan
 <figure>
-   <img src="/assets/images/Roomplan JKU Games 2023S.png" style="max-width: 1000px;"
+   <img src="/assets/images/Roomplan JKU Games 2023W.png" style="width: 95%; max-width: 1000px;"
       alt="Roomplan JKU Games 2023S" />
    <figcaption></figcaption>
 </figure>
@@ -39,14 +39,14 @@ Open on Friday, 17:00-02:00, and Saturday, 17:00-23:00 (only for the JKU GAMES).
 
 #### More Food
 Some selected other food opportunities nearby:
-* Spar JKU Campus: Friday 07:30-18:00, Saturday 7:30-13:00
+* Spar JKU Campus: Friday 07:30-18:00
 * Grüne Papaya (Thai): Friday 18:00-22:00
 * Winkler Markt: Friday 07:30-18:30, Saturday 07:30-17:00
 
 For more inspiration, check out <a href="https://www.jku.at/en/campus/recreation/food-drink/">JKU's food guide</a>!
 
-### Resting-Area
-If you need a short break or want to recover from an intense Pen & Paper Adventure, you can chill in our Resting-Area in the first floor. Please bring your own sleeping bags or mattresses. 
+### Restarea
+If you need a short break or want to recover from an intense Pen & Paper Adventure or a stressfull CS-Match, you can chill in our Resting-Area in the first floor. Please bring your own sleeping bags or mattresses. 
 
 ---
 
@@ -58,7 +58,7 @@ No, the JKU Games are a completely free event. We are entirely funded by sponsor
 ### Can I reserve a space?
 There are no general reservations for our event. Given our truly massive location, we usually have enough space for you all.
 
-This year, we will be implementing a ticket system for our Pen and Papers and Tournaments (more on that in the respective sections). We are trying to ease the application process that way and want to ensure that the assortment is fair for all. Naturally, tickets are free as well.
+This year, we will expand our ticket system (which we used for Pen and Papers and Tournaments last semester) for the LAN-Area. This way you can be sure that you will get a place for your PC. But you can also come by chance, maybe place has become available again. Naturally, tickets are free as well.
 
 ### Do I need to bring anything?
 Depends on what you are up to: If you want to play Computer Games, you will have to bring your own PC and peripherals. We will hook you up with LAN and power - see the [LAN section](/./lan) for more details. If you are only here for the DICE area, you should be good, but you can bring your favorite games of course just in case we missed it.
@@ -89,7 +89,6 @@ The chances are even higher if you are willing to organize it yourself, so pleas
 Here are some common requests that we will most likely not be able to fulfill:
 * Karaoke / SingStar: Too noisy
 * Drinking Games: Not really in the spirit of the event
-* Chess Tournament: We are lacking the space and usual quiet atmosphere. We also feel like it is a bit too skill-centered compared to most of our tournaments.
 * More free snacks: We understand the desire, but we are working with a limited budget, sorry! 
 
 ### I don't feel comfortable at the event
@@ -106,9 +105,10 @@ You can also help us at the event by simply cleaning up after yourself and remin
 We understand the sudden feeling of dread and despair once the JKU Games are edging closer towards their last hour. Fortunately, there are some other ways the spirit of the Games can stay with you until the next edition can be celebrated!
 * **Game and Dine**: If you like good food and games (both the classical and especially the electronic kind), [Game and Dine](https://www.instagram.com/game_and_dine) has got you covered with playing nights, regulars' tables etc.! We are huge fans, make sure to check them out!
 * **Game Store Linz**: If you enjoyed our MTG events, make sure to check out the [Game Store](https://magic-linz.at/) for more regular tournaments!
+* **Würfelkommando**: A Gaming Club from Linz who was at the JKU Games this year [Würfelkommando](https://www.wuerfelkommando.at/#/) - if you search for partners to share your gaming passion, check them out!
 * **TCG Steyr**: Our TableTop Games were organized by [TCG Steyr](https://www.mtg-steyr.at/) - if you are into Warhammer, MTG, Pen and Paper etc., check them out!
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
-* **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: We are already planning to have the next Games on 08.-10.12.2023!
+* **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: We are already planning to have the next Games on 17.-19.05.2023!
 
 
 ## Ask Us Anything

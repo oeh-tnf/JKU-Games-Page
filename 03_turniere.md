@@ -8,12 +8,21 @@ permalink: /tournaments/
 ---
 
 ## Event time and Resting Period
-The JKU Games will take place from Friday, 17.03. (16:00) until Sunday, 19.03. (06:00).<br>
+The JKU Games will take place from Friday, 08.12. (16:00) until Sunday, 10.12. (06:00).<br>
 On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting period. During this time, you can stay at the event and play games but won't be able to get new ones from our Games Rental section.
 
 ## Tournaments
+
+<figure>
+   <img src="/assets/images/dice/tournaments.JPG" style="width: 95%; max-width: 1000px;"
+      alt="Two people competing in a tournament while having spectators" />
+   <figcaption></figcaption>
+</figure>
+
 Compete for glory and fame (and a little goodie) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and guarantees you to get a spot. Left-over spots can also be booked during the event as well.
+
+**Note: We are still adding new tournaments, the ticket shop has therefore not yet opened. Below you find the preliminary schedule which is subject to change.**
 
 <a href="https://pretix.eu/jkugames/SoSe23/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
@@ -21,13 +30,15 @@ To participate in a tournament, simply get yourself a free ticket using the butt
 | Start time | Game                       |
 | ---------- | -------------------------- |
 | Fr 18:00   | Mario Kart                 |
-| Fr 19:00   | CS:GO                      |
+| Fr 18:00   | League of Legends          |
+| Fr 23:00   | Curve Fever                |
 | Sa 01:00   | Blobby Volley              |
 | Sa 13:00   | Floppy Disk                |
 | Sa 16:00   | Uno Flip!                  |
 | Sa 18:00   | Super Smash Bros. Ultimate |
-| Sa 18:00   | League of Legends          |
-| Su 00:15   | Purple Place               |
+| Sa 18:00   | Counter-Strike 2           |
+| Sa 22:00   | Cup Stacking               |
+| Su 00:00   | Chess Champion Announcement|
 | Su 02:00   | Staring Contest            |
 
 Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes before, you may be substituted from the tournament.
@@ -38,11 +49,15 @@ A new Grand Prix will take place every 20 Minutes, starting at 18:00 - the times
 At 20:00, we will have the grand finale of all group winners.<br>
 A switch console, controllers and the game are provided.
 
-### CS:GO (LAN Area) - Friday, 7pm
-<em>Battle it out with your friends and foes alike in a high-speed, heart-pumping first-person shooter game.</em><br>
-The tournament is a Best of One on Competitive Settings and will take ca. three hours in total, depending on the player count. The Map is chosen by the standard map ban system.<br>
+### League Of Legends (LAN Area) - Friday, 6pm
+<em>Nobody likes this game, and yet we keep playing it - fight the LoL client and prepare to ruin friendships: Welcome to the Rift!</em><br>
+The tournament will be conducted in a bracket format, each being decided with a Best of One 5v5 on Summoners Rift using the Draft Pick mode.<br>
 You can sign up alone and will be assigned to a team, or give your team name on registration.<br>
-Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network.
+Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network and make sure that the client is running.
+
+### Curve Fever (aka. Achtung, die Kurve!) (LAN Area) - Friday, 11pm
+<em>You probably know this game from High School computer science classes. For once, the long hours of procrastination will bear fruit. Show your hard earned skills in this timeless classic. And above all, beware of the Curve.</em><br>
+The tournament will be played on high end hardware provided by us.
 
 ### Blobby Volley (LAN Area) - Saturday, 1am
 <em>Volleyball, but with green, slimy blobs - i.e. the perfect past-midnight game and all-time classic at the Games.</em><br>
@@ -60,36 +75,33 @@ We will provide you with your Floppy Disks.
 We will play in a bracket system consisting of several groups playing each other. First to get rid of their cards advances to the next round.<br>
 We will provide you with the game (and rules).
 
-### League Of Legends (LAN Area) - Saturday, 6pm
-<em>Nobody likes this game, and yet we keep playing it - fight the LoL client and prepare to ruin friendships: Welcome to the Rift!</em><br>
-The tournament will be conducted in a bracket format, each being decided with a Best of One 5v5 on Summoners Rift using the Draft Pick mode.<br>
-You can sign up alone and will be assigned to a team, or give your team name on registration.<br>
-Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network and make sure that the client is running.
-
 ### Super Smash Bros Ultimate (Console Area) - Saturday, 6pm
 <em>Smash your buttons and Brawl your way through Super combos in this Ultimate fighting game between Bros.</em><br>
 Depending on the amount of sign-ups, we will play 1v1s / 2v2s .. in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
 
-### Purble Place (LAN area) - Sunday, 0.15am
-<em>We will decide once and for all on the best cake baker in this weird, purple place.</em><br>
-Another game from the Windows XP times, this one might not be too well known, but that does not stop us from trying to make cake baking into a competition. The rules will be explained at the beginning.<br>
-The necessary software will be pre-installed on the tournament computers.
+### CS2 (LAN Area) - Saturday, 6pm
+<em>Battle it out with your friends and foes alike in a high-speed, heart-pumping first-person shooter game.</em><br>
+The tournament is a Best of One on Competitive Settings and will take ca. three hours in total, depending on the player count. The Map is chosen by the standard map ban system.<br>
+You can sign up alone and will be assigned to a team, or give your team name on registration.<br>
+Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network.
 
-### Staring Contest (DICE area) - Sunday, 2am
+### Cup Stacking (DICE Area) - Saturday, 10pm
+<em>A discipline easy to learn, but hard to master. - You’re gonna be stacking cups. It’s in the name. It’s not complicated, but that doesn’t mean it’s easy either.</em><br>
+You have to be fast to win. Faster than light. That may mean that you’ll have to live in the dark, but that’s what it takes to be the best.<br>
+Cups will be provided by us.
+
+### Staring Contest (DICE Area) - Sunday, 2am
 <em>Especially enticing for all that have stayed up throughout the whole event, this game will force you to stay awake.</em><br>
 In this bracket style tournament, you will be invited to get lost in your opponents eyes. If you blink, you lose!<br>
 Please bring the necessary eyes.
 
-## Promoted Games
-
-During the JKU Games, we want to promote a few games at specific timeslots. Mainly focused on the LAN section, this should help make it feel more coherent and communal. Furthermore, it makes finding allies and opponents to play with easier.<br>
-Games that are promoted have been decided in a community vote. Each will be promoted for a four-hour timeslot:
-
-| Start time | Game              |
-| ---------- | ----------------- |
-| Fr 19:00   | CS:GO / Valorant  |
-| Sa 18:00   | League of Legends |
+## Chess Tournament
+Dear chess enthusiasts,<br>
+We are delighted to announce that we will be hosting a chess tournament as part of the upcoming JKU Games. In light of logistical considerations regarding space and scheduling, we have devised a unique tournament format. The tournament will span the entire event, and each participant will receive two tokens - designated as either <em>amateur</em> or <em>advanced</em> - along with a button identifying them as a <em>Challenger.</em><br>
+Participants possessing a Challenger button can be challenged to a chess duel at any time during the event. Upon the conclusion of a match, the defeated player will surrender one of their tokens to the victor. The tournament concludes for a player when they have no tokens remaining. At this point, the Challenger button should be returned to the Games Rental section. Alternatively, if a participant wishes to conclude their challenge period before running out of tokens, they can return the tokens together with the Challenger button to the Games Rental section and only then the score will be recorded for evaluation at the conclusion of the tournament.<br>
+The announcement of the tournament winner is scheduled for 12am (midnight) on Sunday. In case that a winner is no longer present at the JKU Games location, we will contact them to convey their victory.<br>
+We look forward to an exciting and competitive chess tournament during the JKU Games!
 
 ## Two Rooms and a Boom
 
@@ -106,7 +118,7 @@ New rounds are planned to start every full hour (unless the room is needed other
 ## Game Store 
 
 During the JKU Games the Game Store Linz will hold Magic the Gathering Events in the Dice Area.<br>
-We have not yet received a schedule from them. These were last semester's tournaments:
+This is their schedule:
 
 | Start time | Tournament       |
 | ---------- | -----------------|
@@ -114,6 +126,4 @@ We have not yet received a schedule from them. These were last semester's tourna
 | Fr 18:00   | Legacy FNM	        |
 | Fr 18:00   | Lost Cave of Ixalan Draft	        |
 | Sa 11:00   | Modern RCQ		|
-| Sa 14:00   | One Piece OP-05 Tournament		|
-
 
