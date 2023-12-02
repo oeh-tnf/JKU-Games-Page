@@ -34,7 +34,8 @@ There might be more adventures added, but this is the schedule for now:
 
 ## Friday
 ### 16:00
-| Adventure |Turnier von Bahamut/Tournament of Bahamut (PvP Combat)|
+
+| Adventure | Turnier von Bahamut/Tournament of Bahamut (PvP Combat)|
 |---|---|
 | Language | English/Deutsch |
 | Game-Master | Nina [.dragonsoul123], Daniel [knightrave], Dylan [blue0ri0n], Oscar[Oscar3927], Andreas[allfreak], Alex[androctus]  |
@@ -47,6 +48,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | bring your own (Lvl 6, Point buy) - further Rules for creation on your ticket |
 
 ### 17:00
+
 | Adventure |Midnight Kiss|
 |---|---|
 | Language | English |
@@ -59,6 +61,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | premade, but you can bring your own if you contact the DM beforehand via Discord  |
 
 ### 18:00
+
 | Adventure |The Witch ist Dead|
 |---|---|
 | Language | English/German (Player Preference) |
@@ -70,19 +73,22 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 3-4 h |
 | Characters | created at the table together by two d20 Rolls |
 
-## Saturday|
+## Saturday
 ### 00:00
-| Adventure |Independence Day|
+
+| Adventure |Honey Heist|
 |---|---|
 | Language | German/English (Player Preference) |
 | Game-Master | Felix [itsafeh] |
-| Rules | Honey Heist x Roll for Shoes (This is a home brew merge of two very roleplay focused game engines centered around fun and the "rule of cool") |
-| Suitable for | Noobs and veterans (mostly roleplay)|
-| Description | We are a group of bears that try to steal the JKU's selfmade honey: Time for a real heist! |
+| Rules | <a href="https://www.docdroid.net/KJzmn5k/honey-heist-by-grant-howitt-pdf">Honey Heist</a> (This is a one-page rulebook centered around fun and the "rule of cool") |
+| Suitable for | Noobs and veterans (it's mostly roleplay after all)|
+| Description | We are a group of bears that try to steal JKU's selfmade honey: Time for a real heist! During the game, you will get to... <br>1) outsmart your opponents 2) eat a lot of honey and 3) wear a cute hat! So what are you waiting for? Assemble your team! |
 | Players | 4-5 |
-| Duration | 3h |
-| Characters | created together at the table |
+| Duration | 2-3h |
+| Characters | created together at the table - we are bears, what did you expect? |
+
 ### 10:00
+
 | Adventure |Local Legends|
 |---|---|
 | Language | English (can play in German if all Players want to)|
@@ -93,6 +99,8 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 2-5 |
 | Duration | 2-3 h |
 | Characters | premade by GM or created at the start of the session by you |
+
+---
 
 | Adventure |Character Creation Workshop|
 |---|---|
@@ -105,6 +113,7 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 2h |
 
 ### 12:00
+
 | Adventure |(Adventure) School Excursion|
 |---|---|
 | Language | English |
@@ -115,6 +124,8 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 4-8 |
 | Duration | 3-5 h |
 | Characters | pregenerated Characters by the DM, or visit the Charater Creation Workshop before |
+
+---
 
 | Adventure |We be Goblins!|
 |---|---|
@@ -129,6 +140,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | premade by DM |
 
 ### 14:00
+
 | Adventure |Das Phantom von Eldberg|
 |---|---|
 | Language | Deutsch |
@@ -140,7 +152,9 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 4h |
 | Characters | premade by DM or bring your own (contact DM for requirements) |
 
-| Adventure |Keplers Secret Society|
+---
+
+| Adventure |Kepler's Secret Society|
 |---|---|
 | Language | English/German (Player Preference) |
 | Game-Master | Daniel [kuta1999] |
@@ -150,6 +164,8 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 3-7 |
 | Duration | 3-5h |
 | Characters | created at the table |
+
+---
 
 | Adventure |Neverwhere in Ankh-Morpork|
 |---|---|
@@ -163,6 +179,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | made at the table, if you want to bring your own (and arrive later) contact DM beforehand |
 
 ### 16:00
+
 | Adventure | The Green Death |
 |---|---|
 | Language | English (German if needed)|
@@ -175,6 +192,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | premade, but you can bring your own if you ask your DM nicely beforehand |
 
 ### 17:00
+
 | Adventure | Die Wilde Jagd |
 |---|---|
 | Language | Deutsch |
@@ -187,6 +205,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | you have to create them in advance - DM will provide a Link to DnD Beyond |
 
 ### 18:00
+
 | Adventure |Masks of Nyarlathtep|
 |---|---|
 | Language | English|
@@ -199,6 +218,7 @@ There might be more adventures added, but this is the schedule for now:
 | Characters | premade by DM, selfmade characters are possible, please contact DM before for requirements |
 
 ### 22:00
+
 | Adventure |Bääähd People|
 |---|---|
 | Language | English |
