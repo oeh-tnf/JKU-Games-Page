@@ -70,7 +70,7 @@ There might be more adventures added, but this is the schedule for now:
 | Duration | 3-4 h |
 | Characters | created at the table together by two d20 Rolls |
 
-## Saturday|
+## Saturday
 ### 00:00
 | Adventure |Independence Day|
 |---|---|
@@ -146,7 +146,7 @@ There might be more adventures added, but this is the schedule for now:
 | Game-Master | Daniel [kuta1999] |
 | Rules | Kingdom |
 | Suitable for | Everyone - Noobs welcome! |
-| Description | You ever thought your phone is listening in to your conversations? Yep, it's true, we're the ones responsible for that. The latest elections? We rigged them. Chemtrails? We use them to control the weather. JFK-s death? Also our fault. Sorry champ, had to happen. Aliens? We're hiding them in our basement. The moon landing? Oh, that one has happened, actually. We have some pretty scenic facilities up there, on the dark side! - Who we are? The Kepler Secret Society, aka KSS, aka your friendly neighbourhood global deep state. Not to brag, but we have pretty much fingers in every pie. We have a crapton of money, illegal science projects, and even black magic! Furthermore, we control politicians, the media and the ""free"" market too! - Why haven't we managed to take over the world yet? That's a question. We don't like those. You don't want to mysteriously vanish, do you? Then stop that. Anyhow, you may be eager to hear that we're recruiting! We have several openings for low-level pawns, experts specialized in various branches of our business, and even for actual decision-makers! What can I say, corrupt secret organisations have a high turnover rate. Come join us, and be part of a better world order for everyone! (especially ourselves) - Pro Mundi Ordine! |
+| Description | You ever thought your phone is listening in to your conversations? Yep, it's true, we're the ones responsible for that. The latest elections? We rigged them. Chemtrails? We use them to control the weather. JFK-s death? Also our fault. Sorry champ, had to happen. Aliens? We're hiding them in our basement. The moon landing? Oh, that one has happened, actually. We have some pretty scenic facilities up there, on the dark side! - Who we are? The Kepler Secret Society, aka KSS, aka your friendly neighbourhood global deep state. Not to brag, but we have pretty much fingers in every pie. We have a crapton of money, illegal science projects, and even black magic! Furthermore, we control politicians, the media and the "free" market too! - Why haven't we managed to take over the world yet? That's a question. We don't like those. You don't want to mysteriously vanish, do you? Then stop that. Anyhow, you may be eager to hear that we're recruiting! We have several openings for low-level pawns, experts specialized in various branches of our business, and even for actual decision-makers! What can I say, corrupt secret organisations have a high turnover rate. Come join us, and be part of a better world order for everyone! (especially ourselves) - Pro Mundi Ordine! |
 | Players | 3-7 |
 | Duration | 3-5h |
 | Characters | created at the table |
@@ -209,6 +209,4 @@ There might be more adventures added, but this is the schedule for now:
 | Players | 2-4 |
 | Duration | 3-4 h |
 | Characters | premade by DM |
-
-
 

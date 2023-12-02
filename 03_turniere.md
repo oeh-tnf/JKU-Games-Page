@@ -37,6 +37,7 @@ To participate in a tournament, simply get yourself a free ticket using the butt
 | Sa 16:00   | Uno Flip!                  |
 | Sa 18:00   | Super Smash Bros. Ultimate |
 | Sa 18:00   | Counter-Strike 2           |
+| Sa 19:00   | Border Clash               |
 | Sa 22:00   | Cup Stacking               |
 | Su 00:00   | Chess Champion Announcement|
 | Su 02:00   | Staring Contest            |
@@ -56,7 +57,8 @@ You can sign up alone and will be assigned to a team, or give your team name on 
 Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network and make sure that the client is running.
 
 ### Curve Fever (aka. Achtung, die Kurve!) (LAN Area) - Friday, 11pm
-<em>You probably know this game from High School computer science classes. For once, the long hours of procrastination will bear fruit. Show your hard earned skills in this timeless classic. And above all, beware of the Curve.</em><br>
+<em>The multiplayer snake game that will make you hate colorful lines.</em><br>
+You probably know this game from High School computer science classes. For once, the long hours of procrastination will bear fruit. Show your hard earned skills in this timeless classic. And above all, beware of the Curve.<br>
 The tournament will be played on high end hardware provided by us.
 
 ### Blobby Volley (LAN Area) - Saturday, 1am
@@ -86,8 +88,15 @@ The tournament is a Best of One on Competitive Settings and will take ca. three 
 You can sign up alone and will be assigned to a team, or give your team name on registration.<br>
 Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network.
 
+### Border Clash (LAN Area) - Saturday, 7pm
+<em>Fortify your borders and unleash your armies in this epic online game.</em><br>
+The very first tournament of this game was brought to you by the GameDev Club.<br>
+Border Clash is a tactical, simultaneous turn-based, multiplayer strategy game where you manage resources, research technologies, build an army and invade countries to expand your territory.<br>
+If you’re not already familiar with the game, please arrive about an hour before the tournament starts, so you can get keys for the beta, install the game on your device, and familiarize yourself with the gameplay. (Or you can check it out even sooner at the GameDev area.)
+
 ### Cup Stacking (DICE Area) - Saturday, 10pm
-<em>A discipline easy to learn, but hard to master. - You’re gonna be stacking cups. It’s in the name. It’s not complicated, but that doesn’t mean it’s easy either.</em><br>
+<em>A discipline easy to learn, but hard to master.</em><br>
+You’re gonna be stacking cups. It’s in the name. It’s not complicated, but that doesn’t mean it’s easy either.<br>
 You have to be fast to win. Faster than light. That may mean that you’ll have to live in the dark, but that’s what it takes to be the best.<br>
 Cups will be provided by us.
 
