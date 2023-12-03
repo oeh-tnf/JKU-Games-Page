@@ -17,7 +17,7 @@ Welcome, Traveller!
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
 
-**Note: We are still adding new adventures, the ticket shop has therefore not yet opened. If you would like to host an adventure yourself, please contact us via games@oeh.jku.at!**
+**Note: There are still some free time slots left, so if you would like to host an adventure yourself, please contact us via games@oeh.jku.at!**
 
 <a href="https://pretix.eu/jkugames/WiSe23/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 

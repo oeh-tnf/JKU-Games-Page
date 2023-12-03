@@ -22,8 +22,6 @@ On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting per
 Compete for glory and fame (and a little goodie) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and guarantees you to get a spot. Left-over spots can also be booked during the event as well.
 
-**Note: We are still adding new tournaments, the ticket shop has therefore not yet opened. Below you find the preliminary schedule which is subject to change.**
-
 <a href="https://pretix.eu/jkugames/WiSe23/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 
@@ -90,9 +88,8 @@ Bring your computer with the installed game to the tournament. Please install th
 
 ### Border Clash (LAN Area) - Saturday, 7pm
 <em>Fortify your borders and unleash your armies in this epic online game.</em><br>
-The very first tournament of this game was brought to you by the GameDev Club.<br>
 Border Clash is a tactical, simultaneous turn-based, multiplayer strategy game where you manage resources, research technologies, build an army and invade countries to expand your territory.<br>
-If you’re not already familiar with the game, please arrive about an hour before the tournament starts, so you can get keys for the beta, install the game on your device, and familiarize yourself with the gameplay. (Or you can check it out even sooner at the GameDev area.)
+If you’re not already familiar with the game, please arrive about an hour before the tournament starts, so you can get keys for the beta, install the game on your device, and familiarize yourself with the gameplay. (Or you can check it out even sooner at the GameDev area, or directly on <a href="https://store.steampowered.com/app/2467480/Border_Clash">Steam</a>)
 
 ### Cup Stacking (DICE Area) - Saturday, 10pm
 <em>A discipline easy to learn, but hard to master.</em><br>
