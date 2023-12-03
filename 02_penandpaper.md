@@ -38,7 +38,7 @@ There might be more adventures added, but this is the schedule for now:
 | Adventure | Turnier von Bahamut/Tournament of Bahamut (PvP Combat)|
 |---|---|
 | Language | English/Deutsch |
-| Game-Master | Nina [.dragonsoul123], Daniel [knightrave], Dylan [blue0ri0n], Oscar[Oscar3927], Andreas[allfreak], Alex[androctus]  |
+| Game-Master | Nina [.dragonsoul123], Daniel [knightrave], Dylan [blue0ri0n], Oscar[Oscar3927], Andreas[allfreak], Alex[androctos]  |
 | Rules | DnD 5e - PvP Tournament System  |
 | Suitable for | All - but you might want a bit of experience to succeed |
 | Description [German] | Willkommen, willkommen, beim Turnier von Bahamut. Tretet näher, kommt heran. Stellt euch im Zweikampf zu Ehren Bahamuts, um euch Ruhm und Reichtum zu erkämpfen! Zum großen Abschluss treten alle Kämpfer im großen Buhurt an.
@@ -52,7 +52,7 @@ There might be more adventures added, but this is the schedule for now:
 | Adventure |Midnight Kiss|
 |---|---|
 | Language | English |
-| Game-Master | Sarah |
+| Game-Master | Sarah [starshine001]|
 | Rules | Vampire the Masquerade 5e |
 | Suitable for | Everyone - Noobs welcome!|
 | Description | You've been invited to a New Year's celebration at the temple of the Children of the Angel, a rare chance to see what goes on among the wealthiest and most beautiful Kindred of the city. As the night goes on, you'll have  chance to become something more, but the price to be paid is no small matter. Will you accept at the cost of your humanity or greet the new year with your principles intact? |
@@ -208,8 +208,8 @@ There might be more adventures added, but this is the schedule for now:
 
 | Adventure |Masks of Nyarlathtep|
 |---|---|
-| Language | English|
-| Game-Master | Sarah |
+| Language | English |
+| Game-Master | Sarah [starshine001] |
 | Rules | Call of Cthulu |
 | Suitable for | Everyone - Noobs welcome! |
 | Description | Peru 1921: Arriving from different parts of the globe, several individuals journey to Lima in Peru, South America. They are answering an advert of one Jackson Elias looking for brave souls to join an expedition to find a lost pyramid in the highlands of Peru. Much of archeological - and monetary - value is bound to be hidden there, surely... But the expedition may have bitten off more than they can chew. |
