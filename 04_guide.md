@@ -21,16 +21,18 @@ Throughout the event, we will provide free snacks, coffee and tea in the Kitchen
 A Microwave and a Fridge can be found there as well. Please sign all things you place in the fridge with your name and don't use the whole place for yourself. It should go without saying, but other people's stuff is off-limits.
 
 #### Pizza
-Periodically, we will also organize a Pizza delivery call to <a href="https://www.pleschinger-stube.at/">Pleschinger Stube</a> with special conditions.
-You will be informed about when the next order takes place at the event, we currently plan on taking orders at around these times: <br>
+Periodically, we will also organize a Pizza delivery call to <a href="https://bella-casa.at/">Bella Casa</a> with special conditions.
+You will be informed about when the next order takes place at the event, we currently plan on placing orders at around these times: <br>
 * FR, 18:00
-* FR, 20:00
+* FR, 19:30
+* FR, 21:00
 * SA, 12:00
 * SA, 18:00
-* SA, 20:00
+* SA, 19:30
+* SA, 21:00
 
 Note that this is just an approximate schedule subject to change. Check out the Pizza-Channel on <a href="{{ site.discord_url }}">Discord</a> to receive live updates.<br>
-There is an ATM nearby.
+You can only pay in cash, but don't worry, there is an ATM nearby.
 
 #### LUI
 The Linzer Uni Inn, the Student Union's bar, will be open through most of the event. They are conveniently located in the same building: You can get a drink and some snacks there as well, and play Billards or Darts. Check out their <a href="https://oeh.jku.at/abschnitte/lui">website</a> and <a href="https://www.facebook.com/LUI.LinzerUniInn">Facebook page</a> for more information.
