@@ -18,6 +18,7 @@ permalink: /dice/
 * Enjoy thrilling [Pen & Paper adventures](/./penandpaper).
 * Play intense Group-games like "Werewolf" or "Two Rooms and a Boom".
 * Puzzle to your heart's content or assist us in crafting decoration.
+* Meet external gaming clubs and play-test new games.
 * Compete in exciting [Tournaments](/./tournaments).
 
 <figure>
@@ -29,6 +30,7 @@ permalink: /dice/
 ## To Bring
 * Own games when needed.
 * Fun, Fairness and Friends.
+* Your old Werewolf Bingos if you still have them.
 
 <figure>
    <img src="/assets/images/dice/ww_deco_puzzle_chess.jpg" style="width: 95%; max-width: 1000px;"
