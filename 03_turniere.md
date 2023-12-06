@@ -102,12 +102,20 @@ Cups will be provided by us.
 In this bracket style tournament, you will be invited to get lost in your opponents eyes. If you blink, you lose!<br>
 Please bring the necessary eyes.
 
-## Chess Champion
+## Async Tournaments
+
+### Chess Champion
 <em>Make Magnus proud in this async tournament!</em><br>
 In light of logistical considerations regarding space and scheduling, we have devised a unique tournament format. The tournament will span the entire event, and each participant will receive two tokens - designated as either <em>amateur</em> or <em>advanced</em> - along with a button identifying them as a <em>Challenger.</em><br>
 Participants possessing a Challenger button can be challenged to a chess duel at any time during the event. Upon the conclusion of a match, the defeated player will surrender one of their tokens to the victor. The tournament concludes for a player when they have no tokens remaining. At this point, the Challenger button should be returned to the Games Rental section. Alternatively, if a participant wishes to conclude their challenge period before running out of tokens, they can return the tokens together with the Challenger button to the Games Rental section and only then the score will be recorded for evaluation at the conclusion of the tournament.<br>
 The announcement of the tournament winner is scheduled for 12am (midnight) on Sunday. In case that a winner is no longer present at the JKU Games location, we will contact them to convey their victory.<br>
 We look forward to an exciting and competitive chess tournament during the JKU Games!
+
+### Speed-Puzzle Challenge
+<em>You have as many tries as you want, but only one can be the fastest.</em><br>
+The quickest one to solve our 49 pieces JKU GAMES WS23-Puzzle will be awarded the title of "JKU GAMES WS23 Puzzle Champion" as well as this year's jigsaw puzzle itself.<br>
+That's really all there is to say about it. The challenge will be available at the games rental desk from Friday 4pm till Sunday 12am (midnight). After that we will contact the final record time holder and make sure you receive your prize.<br>
+During the Event we will keep you updated about the current record time in the "speed-puzzle-challenge" text channel on our discord.
 
 ## Two Rooms and a Boom
 
