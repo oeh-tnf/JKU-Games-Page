@@ -20,7 +20,8 @@ Like many of our events, the JKU Games makes use of Awareness Teams. Awareness T
 
 Awareness Teams are here to listen to you and ensure that everyone can enjoy the event. If you don't feel comfortable because of a specific person or about a certain situation in our control, or if you simply want to talk, you can always find a member of the Awareness Team. They will handle your request confidentially and bring up your problem anonymously with other relevant members of the Orga Team if necessary. We will then try to sort the issue out as quickly as possible.
 
-If you can't find an Awareness Team member, check in with the Infopoint and have them fetch one for you.
+If you can't find an Awareness Team member, check in with the Infopoint and have them fetch one for you.<br>
+You also reach the Awareness-Team via phone at +49 1567 9305877.
 
 ## Got some spare time?
 Are you a talented Game-Master looking to host a few games? Do you have an idea for the perfect tournament we are missing and want to organize it? Are you a huge fan of LAN cables and want to share your expertise? Would you like to help us at the event with smaller tasks at the Infopoint, Games Rental, etc.?
