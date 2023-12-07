@@ -41,7 +41,7 @@ Open on Friday, 17:00-02:00, and Saturday, 17:00-23:00 (only for the JKU GAMES).
 
 #### More Food
 Some selected other food opportunities nearby:
-* Spar JKU Campus: Friday 07:30-18:00
+<!-- * Spar JKU Campus: Friday 07:30-18:00 -->
 * Grüne Papaya (Thai): Friday 18:00-22:00
 * Winkler Markt: Friday 07:30-18:30, Saturday 07:30-17:00
 
