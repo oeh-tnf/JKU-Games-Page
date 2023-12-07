@@ -40,12 +40,12 @@ There might be more adventures added, but this is the schedule for now:
 | Language | English/Deutsch |
 | Game-Master | Nina [.dragonsoul123], Daniel [knightrave], Dylan [blue0ri0n], Oscar[Oscar3927], Andreas[allfreak], Alex[androctos]  |
 | Rules | DnD 5e - PvP Tournament System  |
-| Suitable for | All - but you might want a bit of experience to succeed |
+| Suitable for | Everyone - Noobs welcome!|
 | Description [German] | Willkommen, willkommen, beim Turnier von Bahamut. Tretet näher, kommt heran. Stellt euch im Zweikampf zu Ehren Bahamuts, um euch Ruhm und Reichtum zu erkämpfen! Zum großen Abschluss treten alle Kämpfer im großen Buhurt an.
 | Description [English] | Welcome, welcome, at the Tournament of Bahamut. Step closer, come by. Stand up to duel for glory and riches in honor of Bahamut. As a great finale, all fighters will content in a great battle royal! |
 | Players | 16-24 |
 | Duration | ~ 8 hours (you are not busy during the whole time, just for your fighting slots and at the end)|
-| Characters | bring your own (Lvl 6, Point buy) - further Rules for creation on your ticket |
+| Characters | bring your own (Lvl 6, Point buy) - further Rules for creation on your ticket - help on Discord available |
 
 ### 17:00
 
