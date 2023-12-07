@@ -41,9 +41,15 @@ Open on Friday, 17:00-02:00, and Saturday, 17:00-23:00 (only for the JKU GAMES).
 
 #### More Food
 Some selected other food opportunities nearby:
+
+**Note: Grocery stores are closed on Friday 8th of December due to it being a public holiday. The restaurants listed below should be opened, however, we reserve the right to be wrong.**
+
 <!-- * Spar JKU Campus: Friday 07:30-18:00 -->
-* Grüne Papaya (Thai): Friday 18:00-22:00
-* Winkler Markt: Friday 07:30-18:30, Saturday 07:30-17:00
+<!-- * Grüne Papaya (Thai): Friday 18:00-22:00 -->
+* Winkler Markt: Saturday 07:30-17:00 <!-- (Friday 07:30-18:30) -->
+* Penny: Saturday 07:15-18:00
+* Burgerista:  Friday + Saturday 10:30-22:00 Uhr
+* Uni Pizza: Friday 10:00-21:30
 
 For more inspiration, check out <a href="https://www.jku.at/en/campus/recreation/food-drink/">JKU's food guide</a>!
 
