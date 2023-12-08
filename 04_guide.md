@@ -34,10 +34,10 @@ You will be informed about when the next order takes place at the event, we curr
 Note that this is just an approximate schedule subject to change. Check out the Pizza-Channel on <a href="{{ site.discord_url }}">Discord</a> to receive live updates.<br>
 You can only pay in cash, but don't worry, there is an ATM nearby.
 
-#### LUI
+<!--#### LUI
 The Linzer Uni Inn, the Student Union's bar, will be open through most of the event. They are conveniently located in the same building: You can get a drink and some snacks there as well, and play Billards or Darts. Check out their <a href="https://oeh.jku.at/abschnitte/lui">website</a> and <a href="https://www.facebook.com/LUI.LinzerUniInn">Facebook page</a> for more information.
 
-Open on Friday, 17:00-02:00, and Saturday, 17:00-23:00 (only for the JKU GAMES).
+Open on Friday, 17:00-02:00, and Saturday, 17:00-23:00 (only for the JKU GAMES).-->
 
 #### More Food
 Some selected other food opportunities nearby:
