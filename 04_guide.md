@@ -34,27 +34,33 @@ You will be informed about when the next order takes place at the event, we curr
 Note that this is just an approximate schedule subject to change. Check out the Pizza-Channel on <a href="{{ site.discord_url }}">Discord</a> to receive live updates.<br>
 You can only pay in cash, but don't worry, there is an ATM nearby.
 
-<!--#### LUI
+#### LUI
 The Linzer Uni Inn, the Student Union's bar, will be open through most of the event. They are conveniently located in the same building: You can get a drink and some snacks there as well, and play Billards or Darts. Check out their <a href="https://oeh.jku.at/abschnitte/lui">website</a> and <a href="https://www.facebook.com/LUI.LinzerUniInn">Facebook page</a> for more information.
 
-Open on Friday, 17:00-02:00, and Saturday, 17:00-23:00 (only for the JKU GAMES).-->
+Open on Friday, 17:00-02:00, and Saturday, 17:00-23:00 (only for the JKU GAMES).
 
 #### More Food
 Some selected other food opportunities nearby:
 
-**Note: Grocery stores are closed on Friday 8th of December due to it being a public holiday. The restaurants listed below should be opened, however, we reserve the right to be wrong.**
-
-<!-- * Spar JKU Campus: Friday 07:30-18:00 -->
-<!-- * Grüne Papaya (Thai): Friday 18:00-22:00 -->
-* Winkler Markt: Saturday 07:30-17:00 <!-- (Friday 07:30-18:30) -->
+* Spar JKU Campus: Friday 07:30-18:00
+* Grüne Papaya (Thai): Friday 18:00-22:00
+* Winkler Markt: Friday 07:30-18:30, Saturday 07:30-17:00
 * Penny: Saturday 07:15-18:00
 * Burgerista:  Friday + Saturday 10:30-22:00 Uhr
 * Uni Pizza: Friday 10:00-21:30
 
 For more inspiration, check out <a href="https://www.jku.at/en/campus/recreation/food-drink/">JKU's food guide</a>!
 
-### Restarea
+### Resting-Area
 If you need a short break or want to recover from an intense Pen & Paper Adventure or a stressfull CS-Match, you can chill in our Resting-Area in the first floor. Please bring your own sleeping bags or mattresses. 
+
+## Awareness Team
+Like all of our bigger events, the JKU Games makes use of Awareness Teams. Awareness Team members wear magenta high-vis vests.
+
+Awareness Teams are here to listen to you and ensure that everyone can enjoy the event. If you don't feel comfortable because of a specific person or about a certain situation in our control, or if you simply want to talk, you can always contact a member of the Awareness Team. They will handle your request confidentially and bring up your problem anonymously with other relevant members of the Orga Team if necessary. We will then try to sort the issue out as quickly as possible.
+
+If you can't find an Awareness Team member, check in with the Infopoint and have them fetch one for you.<br>
+You also reach the Awareness-Team via phone. The phone number will be published here shortly before the event.
 
 ---
 
@@ -66,7 +72,7 @@ No, the JKU Games are a completely free event. We are entirely funded by sponsor
 ### Can I reserve a space?
 There are no general reservations for our event. Given our truly massive location, we usually have enough space for you all.
 
-This year, we will expand our ticket system (which we used for Pen and Papers and Tournaments last semester) for the LAN-Area. This way you can be sure that you will get a place for your PC. But you can also come by chance, maybe place has become available again. Naturally, tickets are free as well.
+Some of our activities (such as [Tournaments](/./tournaments) and [Pen and Papers](/./penandpaper)) require reservation however. Get a free ticket to reserve a slot, see the respective sections for more. If you want to make sure that you will get a place for your PC in the LAN-Area, you can also reserve a spot [there](/./lan).
 
 ### Do I need to bring anything?
 Depends on what you are up to: If you want to play Computer Games, you will have to bring your own PC and peripherals. We will hook you up with LAN and power - see the [LAN section](/./lan) for more details. If you are only here for the DICE area, you should be good, but you can bring your favorite games of course just in case we missed it.
@@ -102,7 +108,7 @@ Here are some common requests that we will most likely not be able to fulfill:
 ### I don't feel comfortable at the event
 If you don't feel comfortable because of a specific person or about a certain situation in our control, please inform us. We will try our best to help you out!
 
-You can contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our <a href="{{ site.discord_url }}">Discord Server</a>. If your situation is of a more private nature, please contact our Safety and Awareness Team directly - see the [About Page](/./about) for more. 
+You can contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our <a href="{{ site.discord_url }}">Discord Server</a>. If your situation is of a more private nature, please contact our Awareness Team directly - see above for more. 
 
 ### How can I help the organizers?
 Since we are a team of volunteers, we are happy for any help! Please check out the [About Page](/./about) for more.
@@ -111,13 +117,10 @@ You can also help us at the event by simply cleaning up after yourself and remin
 
 ### The Games are over, what do I do now?!
 We understand the sudden feeling of dread and despair once the JKU Games are edging closer towards their last hour. Fortunately, there are some other ways the spirit of the Games can stay with you until the next edition can be celebrated!
-* **Game and Dine**: If you like good food and games (both the classical and especially the electronic kind), [Game and Dine](https://www.instagram.com/game_and_dine) has got you covered with playing nights, regulars' tables etc.! We are huge fans, make sure to check them out!
-* **Game Store Linz**: If you enjoyed our MTG events, make sure to check out the [Game Store](https://magic-linz.at/) for more regular tournaments!
-* **Würfelkommando**: A Gaming Club from Linz who was at the JKU Games this year [Würfelkommando](https://www.wuerfelkommando.at/#/) - if you search for partners to share your gaming passion, check them out!
-* **TCG Steyr**: Our TableTop Games were organized by [TCG Steyr](https://www.mtg-steyr.at/) - if you are into Warhammer, MTG, Pen and Paper etc., check them out!
+* **Game and Dine**: If you like good food and games (both the classical and especially the electronic kind), [Game and Dine](https://www.instagram.com/game_and_dine) has got you covered with playing nights, regulars' tables etc.! They are not paying us, we are just fans - say hi from us!
+* **External Partners**: Some of our external partners who provided activities at the JKU Games also have their own events. [Check them out!](/./about/#external-partners)
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
 * **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: We are already planning to have the next Games on 17.-19.05.2023!
-
 
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our <a href="{{ site.discord_url }}">Discord Server</a>!

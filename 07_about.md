@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About us
-description: Join us // Awareness-Team
+description: Join us
 nav-menu: true
 permalink: /about/
 ---
@@ -15,14 +15,6 @@ We are a group of students from the technical faculty branch of the student unio
 
 You can find out more about the ÖH TNF and the other work we do by checking out <a href="https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften">our website</a>!
 
-## Awareness Team
-Like many of our events, the JKU Games makes use of Awareness Teams. Awareness Team members wear magenta high-vis vests.
-
-Awareness Teams are here to listen to you and ensure that everyone can enjoy the event. If you don't feel comfortable because of a specific person or about a certain situation in our control, or if you simply want to talk, you can always find a member of the Awareness Team. They will handle your request confidentially and bring up your problem anonymously with other relevant members of the Orga Team if necessary. We will then try to sort the issue out as quickly as possible.
-
-If you can't find an Awareness Team member, check in with the Infopoint and have them fetch one for you.<br>
-You also reach the Awareness-Team via phone at +49 1567 9305877.
-
 ## Got some spare time?
 Are you a talented Game-Master looking to host a few games? Do you have an idea for the perfect tournament we are missing and want to organize it? Are you a huge fan of LAN cables and want to share your expertise? Would you like to help us at the event with smaller tasks at the Infopoint, Games Rental, etc.?
 
@@ -30,3 +22,12 @@ We are always happy for your support!<br>
 If you can assist us at the event, simply hit us up via [games@oeh.jku.at](mailto:games@oeh.jku.at)!
 
 If you are thinking about joining your student union and organizing events like this more regularly (among many other interesting jobs), feel free to hit up your <a class='dotted' href="https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften">student union directly</a> or to contact us via [tnf@oeh.jku.at](mailto:tnf@oeh.jku.at) - we will forward you to the right people!
+
+## External Partners
+We usually have cooperations with external partners at our events who bring their own expertise and gaming spirit. Many of them also host their own events and activities, so please check them out!
+
+* **Würfelkommando**: A Gaming Club from Linz who was at the JKU Games this year [Würfelkommando](https://www.wuerfelkommando.at/#/) - if you search for partners to share your gaming passion, check them out!
+* **JKU Chess Club**: If you are into chess, check out the [JKU Chess Club](https://discord.gg/q2aHA7gPp3) and visit their regular meetups!
+* **Game Dev Linz**: At this JKU Games, some Game Developers gave you a chance to try their current projects - if you are interested in game development, you can join the [Game Dev Linz](https://www.meetup.com/gamedev-linz/) meetups!
+* **Game Store Linz**: If you enjoyed our MTG events, make sure to check out the [Game Store](https://magic-linz.at/) for more regular tournaments!
+* **TCG Steyr**: In the past, our TableTop Games were organized with [TCG Steyr](https://www.mtg-steyr.at/) - if you are into Warhammer, MTG, Pen and Paper etc., check them out!

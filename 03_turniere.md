@@ -7,9 +7,15 @@ nav-menu: true
 permalink: /tournaments/
 ---
 
+## CONTENT NOTICE
+Content on this page is about the JKU Games 2023W in December of 2023. It should give you an idea of what to expect at the JKU Games 2024S, we'll update it with more current content as planning progresses.
+
+The JKU Games 2024S are planned to take place on the weekend of **17.05-19.05.2024**.
+
 ## Event time and Resting Period
-The JKU Games will take place from Friday, 08.12. (16:00) until Sunday, 10.12. (06:00).<br>
-On Saturday from 04:00 to 10:00, the JKU Games Orga team will have a resting period. During this time, you can stay at the event and play games but won't be able to get new ones from our Games Rental section.
+The JKU Games 2023W will take place from Friday, 08.12. (16:00) until Sunday, 10.12. (06:00), for 38 hours non-stop.<br>
+On Saturday from **04:00 to 10:00**, the JKU Games Orga team will have a **resting period** and operate at limited capacity. We'll use this time to clean up and prepare the next day, and might even catch an hour of sleep or two as well. <br>
+During this time, you can stay at the event and play games but you won't be able to get new ones from our Games Rental section. Our Infopoint will be staffed, but outages in our technical infrastructure might not be fixed as quickly. In other words: This is the perfect time to test our resting area or work on our giant puzzle.
 
 ## Tournaments
 

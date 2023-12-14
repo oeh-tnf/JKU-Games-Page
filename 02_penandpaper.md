@@ -13,6 +13,11 @@ permalink: /penandpaper/
    <figcaption></figcaption>
 </figure>
 
+## CONTENT NOTICE
+Content on this page is about the JKU Games 2023W in December of 2023. It should give you an idea of what to expect at the JKU Games 2024S, we'll update it with more current content as planning progresses.
+
+---
+
 Welcome, Traveller!
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
@@ -30,7 +35,7 @@ You can also contact some of the Game-Masters beforehand via <a class="dotted" h
    <figcaption></figcaption>
 </figure>
 
-There might be more adventures added, but this is the schedule for now:
+This is our schedule - check out our Discord server for spontaneous adventures and updates:
 
 ## Friday
 ### 16:00
