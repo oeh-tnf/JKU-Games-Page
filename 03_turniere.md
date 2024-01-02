@@ -7,10 +7,7 @@ nav-menu: true
 permalink: /tournaments/
 ---
 
-## CONTENT NOTICE
-Content on this page is about the JKU Games 2023W in December of 2023. It should give you an idea of what to expect at the JKU Games 2024S, we'll update it with more current content as planning progresses.
-
-The JKU Games 2024S are planned to take place on the weekend of **17.05-19.05.2024**.
+{% include notice.html %}
 
 ## Event time and Resting Period
 The JKU Games 2023W will take place from Friday, 08.12. (16:00) until Sunday, 10.12. (06:00), for 38 hours non-stop.<br>
