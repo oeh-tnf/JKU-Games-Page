@@ -9,11 +9,18 @@ permalink: /lan/
 ## Highlights of the LAN-Area
 * Room for up to 100 PCs
 * An ever-growing VR- and Console-Area
-* Test our massive Space Ship Simulator
 * Try new games in the Game Dev Area
-* Fight for glory in [Tournaments](/./tournaments)
+<!-- * Test our massive Space Ship Simulator
+* Fight for glory in [Tournaments](/./tournaments) -->
 
 We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have reserved a spot will be prioritized if spots run out. 
+
+<section id="notice">
+    <div class="inner">
+        <h2>Disclaimer</h2>
+        <p>The ticket shop has not yet opened. The link currently still brings you to last semester's shop. Please check back later.</p>
+    </div>
+</section>
 
 <a href="https://pretix.eu/jkugames/WiSe23/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
@@ -25,7 +32,7 @@ We usually have enough space for all PC players, so you do not need to reserve a
 
 ## Promoted Games
 During the JKU Games, we want to promote a few games in the LAN section at specific timeslots. This should help make it feel more coherent and communal. Furthermore, it makes finding allies and opponents to play with easier.<br>
-Each game will be promoted for a four-hour timeslot:
+Each game will be promoted for a four-hour timeslot. See last Game's schedule here:
 
 | Start time | Game              |
 | ---------- | ----------------- |
@@ -40,7 +47,8 @@ Each game will be promoted for a four-hour timeslot:
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
 * You have to bring your own PC and gaming equipment!
 * Make sure to install large games you plan on playing beforehand to limit the strain on our infrastructure.
-* Your own powerstrip (Verteiler) might come in handy as well. 
+* Your own powerstrip (Verteiler) might come in handy as well.
+* No need to bring anything for our VR- and Console-Area.
 
 <figure>
    <img src="/assets/images/lan/consoles.JPG" style="width: 95%; max-width: 1000px;"
