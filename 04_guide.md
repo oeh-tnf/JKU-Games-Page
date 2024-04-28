@@ -31,6 +31,7 @@ You will be informed about when the next order takes place at the event, we curr
 * SA, 19:30
 * SA, 21:00
 
+Please keep in mind that these pizza orders usually take about an hour to arrive.
 Note that this is just an approximate schedule subject to change. Check out the Pizza-Channel on <a href="{{ site.discord_url }}">Discord</a> to receive live updates.<br>
 You can only pay in cash, but don't worry, there is an ATM nearby.
 
