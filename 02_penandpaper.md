@@ -17,7 +17,7 @@ permalink: /penandpaper/
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
 
-**Note: There are still few free time slots left, so if you would like to host an adventure yourself, please contact us via games@oeh.jku.at!**
+**Note: There are still a few free time slots left, so if you would like to host an adventure yourself, please contact us via games@oeh.jku.at!**
 
 <a href="https://pretix.eu/jkugames/SoSe24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
@@ -41,12 +41,8 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Nina [.dragonsoul123] |
 | Rules | DnD 5e |
 | Suitable for | Everyone - Noobs welcome!|
-| Description [German] | Venedig, Rennaisance (mit Fantasy-Elementen).
-In letzter Zeit wird die Stadt von mysteriösen Ereignissen heimgesucht. Kinder verschwinden, ein mysteriöser Nebel soll gesunden Menschen den letzten Atemzug aus der Lunge saugen und ein unheilvolles Licht führt Schiffe in die Irre und zum Untergang. Mythen, Legenden, Gerüchte und Umstände vermischen sich und machen es schwer, Wahrheit von Lüge zu unterscheiden. 
-Die Zeiten sind hart und die Stadt braucht dringend Hilfe.|
-| Description [English] | Venice, Rennaisance (with fantasy elements).
-Lately, the city has been haunted by mysterious happenstances. Children disppear, a mysterious fog is said to draw the last breath out of perfectly healthy people's lungs and an ominous light misleads ships and leads to their downfall. Myths, legends, rumors and circumstances mix, making it hard to tell truth from lies. 
-Times are rough and the city is in desperate need of help. |
+| Description [German] | Venedig, Rennaisance (mit Fantasy-Elementen). In letzter Zeit wird die Stadt von mysteriösen Ereignissen heimgesucht. Kinder verschwinden, ein mysteriöser Nebel soll gesunden Menschen den letzten Atemzug aus der Lunge saugen und ein unheilvolles Licht führt Schiffe in die Irre und zum Untergang. Mythen, Legenden, Gerüchte und Umstände vermischen sich und machen es schwer, Wahrheit von Lüge zu unterscheiden.  Die Zeiten sind hart und die Stadt braucht dringend Hilfe.|
+| Description [English] | Venice, Rennaisance (with fantasy elements). Lately, the city has been haunted by mysterious happenstances. Children disppear, a mysterious fog is said to draw the last breath out of perfectly healthy people's lungs and an ominous light misleads ships and leads to their downfall. Myths, legends, rumors and circumstances mix, making it hard to tell truth from lies. Times are rough and the city is in desperate need of help. |
 | Players | 3-5 |
 | Duration | 3-4 h |
 | Characters | bring your own level 5, contact GM for details |
@@ -59,7 +55,7 @@ Times are rough and the city is in desperate need of help. |
 | Game-Master | Dorian [doxi8849]|
 | Rules | Dungeonslayers |
 | Suitable for | Keine Vorerfahrung notwendig|
-| Description | Mehrere Abenteuer wurde angeworben um den Bürgermeister aus einen Kleinen Dorf zu Hilfe zu eilen. Goblins haben sich in einen Wald niedergelassen welcher ein wichtiger Pfad für viele Händler ist. Helft den Dorfbewohnern den Wald zu säubern sodass wieder Frieden einkehren kann.? |
+| Description | Mehrere Abenteurer wurden angeworben, um den Bürgermeister aus einem kleinen Dorf zu Hilfe zu eilen. Goblins haben sich in einem Wald niedergelassen, welcher ein wichtiger Pfad für viele Händler ist. Helft den Dorfbewohnern, den Wald zu säubern, sodass wieder Frieden einkehren kann.? |
 | Players | 3-5 |
 | Duration | 3-5 h |
 | Characters | sind vorgefertigt, aber können auch selbst erstellt werden, kontaktiere dafür deinen Game-Master |
@@ -83,7 +79,7 @@ Times are rough and the city is in desperate need of help. |
 |---|---|
 | Language | Deutsch |
 | Game-Master |  Dorian [doxi8849]]|
-| Description | Wie schreibe ich einen sauberen One shot in kurzer Zeit und was sind die Tücken und Tricks die man Anwenden kann das es spannend bleibt. |
+| Description | Wie schreibe ich einen sauberen One-Shot in kurzer Zeit und was sind die Tücken und Tricks die man anwenden kann, damit es spannend bleibt. |
 | Players | 2-10 |
 | Duration | 2-3h |
 
@@ -284,7 +280,7 @@ Times are rough and the city is in desperate need of help. |
 | Duration | 3 h |
 | Characters | Zusammen am Beginn aus Tabellen gewürfelt |
 
-### 21:00
+### 22:00
 
 | Adventure | Shell shocked|
 |---|---|
