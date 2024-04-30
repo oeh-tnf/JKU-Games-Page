@@ -112,6 +112,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 
 ## Saturday
 ### 10:00
+
 | Adventure |We be Goblins!|
 |---|---|
 | Language | Deutsch/English |
