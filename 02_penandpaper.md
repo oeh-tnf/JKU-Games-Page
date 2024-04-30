@@ -8,9 +8,11 @@ permalink: /penandpaper/
 ---
 
 <figure>
-   <img src="/assets/images/dice/pen_and_paper_people.JPG" style="width: 95%; max-width: 1000px;"
-      alt="How a Pen and Paper session could look like" />
-   <figcaption></figcaption>
+  <a class="img" href="/assets/images/dice/pen_and_paper_people.JPG">
+    <img src="/assets/images/dice/pen_and_paper_people.JPG" style="width: 95%; max-width: 1000px;"
+      alt="How a Pen and Paper session could look like." />
+  </a>
+    <figcaption></figcaption>
 </figure>
 
 ## Welcome, Traveller!
@@ -25,9 +27,11 @@ Please sign up for only one game at this time, remaining spots will be available
 You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)
 
 <figure>
-   <img src="/assets/images/dice/pen_and_paper.jpg" style="width: 95%; max-width: 1000px;"
-      alt="Some of our games offered in the past" />
-   <figcaption></figcaption>
+  <a class="img" href="/assets/images/dice/pen_and_paper.jpg">
+    <img src="/assets/images/dice/pen_and_paper.jpg" style="width: 95%; max-width: 1000px;"
+      alt="Some of our games offered in the past." />
+  </a>
+    <figcaption></figcaption>
 </figure>
 
 This is our schedule - check out our Discord server for spontaneous adventures and updates:
@@ -42,7 +46,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Dorian [doxi8849]|
 | Rules | Dungeonslayers |
 | Suitable for | Keine Vorerfahrung notwendig|
-| Description | Mehrere Abenteurer wurden angeworben, um den Bürgermeister aus einem kleinen Dorf zu Hilfe zu eilen. Goblins haben sich in einem Wald niedergelassen, welcher ein wichtiger Pfad für viele Händler ist. Helft den Dorfbewohnern, den Wald zu säubern, sodass wieder Frieden einkehren kann.? |
+| Description | Mehrere Abenteurer wurden angeworben, um dem Bürgermeister aus einem kleinen Dorf zu Hilfe zu eilen. Goblins haben sich in einem Wald niedergelassen, welcher ein wichtiger Pfad für viele Händler ist. Helft den Dorfbewohnern, den Wald zu säubern, sodass wieder Frieden einkehren kann.? |
 | Players | 3-5 |
 | Duration | 3-5 h |
 | Characters | sind vorgefertigt, aber können auch selbst erstellt werden, kontaktiere dafür deinen Game-Master |
@@ -92,7 +96,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Adventure | Workshop - Wie schreibe ich meinen eigenen One-Shot?|
 |---|---|
 | Language | Deutsch |
-| Game-Master |  Dorian [doxi8849]]|
+| Game-Master |  Dorian [doxi8849] |
 | Description | Wie schreibe ich einen sauberen One-Shot in kurzer Zeit und was sind die Tücken und Tricks die man anwenden kann, damit es spannend bleibt. |
 | Players | 2-10 |
 | Duration | 2-3h |

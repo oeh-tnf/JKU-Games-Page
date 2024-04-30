@@ -8,9 +8,11 @@ permalink: /dice/
 ---
 
 <figure>
-   <img src="/assets/images/dice/people_new.JPG" style="width: 95%; max-width: 1000px;"
+  <a class="img" href="/assets/images/dice/people_new.JPG">
+    <img src="/assets/images/dice/people_new.JPG" style="width: 95%; max-width: 1000px;"
       alt="A lot of people playing board games in the Uni Center" />
-   <figcaption></figcaption>
+  </a>
+    <figcaption></figcaption>
 </figure>
 
 ## Highlights of the DICE-Area
@@ -22,9 +24,11 @@ permalink: /dice/
 * Compete in exciting [Tournaments](/./tournaments).
 
 <figure>
-   <img src="/assets/images/dice/games_collection_new.jpg" style="width: 95%; max-width: 1000px;"
+  <a class="img" href="/assets/images/dice/games_collection_new.jpg">
+    <img src="/assets/images/dice/games_collection_new.jpg" style="width: 95%; max-width: 1000px;"
       alt="Some of our games" />
-   <figcaption></figcaption>
+  </a>
+    <figcaption></figcaption>
 </figure>
 
 ## To Bring
@@ -33,7 +37,9 @@ permalink: /dice/
 * Your old Werewolf Bingos if you still have them.
 
 <figure>
-   <img src="/assets/images/dice/ww_deco_puzzle_chess.jpg" style="width: 95%; max-width: 1000px;"
+  <a class="img" href="/assets/images/dice/ww_deco_puzzle_chess.jpg">
+    <img src="/assets/images/dice/ww_deco_puzzle_chess.jpg" style="width: 95%; max-width: 1000px;"
       alt="Collage of Werwolf group game, decorations, puzzle and chess" />
-   <figcaption></figcaption>
+  </a>
+    <figcaption></figcaption>
 </figure>

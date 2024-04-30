@@ -17,11 +17,11 @@ During this time, you can stay at the event and play games but you won't be able
 ## Tournaments
 
 <figure>
-   <a class="img" href="/assets/images/dice/tournaments.JPG">
-      <img src="/assets/images/dice/tournaments.JPG" style="width: 95%; max-width: 1000px;"
-      alt="Two people competing in a tournament while having spectators" />
-   </a>
-      <figcaption></figcaption>
+  <a class="img" href="/assets/images/dice/tournaments.JPG">
+    <img src="/assets/images/dice/tournaments.JPG" style="width: 95%; max-width: 1000px;"
+      alt="Two people competing in a tournament while having spectators." />
+  </a>
+    <figcaption></figcaption>
 </figure>
 
 Compete for glory and fame (and a little goodie) in one of our tournaments.<br>
