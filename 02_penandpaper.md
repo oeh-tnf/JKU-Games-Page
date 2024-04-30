@@ -33,6 +33,20 @@ You can also contact some of the Game-Masters beforehand via <a class="dotted" h
 This is our schedule - check out our Discord server for spontaneous adventures and updates:
 
 ## Friday
+
+### 17:00
+
+| Adventure | Der Goblinhort |
+|---|---|
+| Language | Deutsch |
+| Game-Master | Dorian [doxi8849]|
+| Rules | Dungeonslayers |
+| Suitable for | Keine Vorerfahrung notwendig|
+| Description | Mehrere Abenteurer wurden angeworben, um den Bürgermeister aus einem kleinen Dorf zu Hilfe zu eilen. Goblins haben sich in einem Wald niedergelassen, welcher ein wichtiger Pfad für viele Händler ist. Helft den Dorfbewohnern, den Wald zu säubern, sodass wieder Frieden einkehren kann.? |
+| Players | 3-5 |
+| Duration | 3-5 h |
+| Characters | sind vorgefertigt, aber können auch selbst erstellt werden, kontaktiere dafür deinen Game-Master |
+
 ### 18:00
 
 | Adventure | Venice in Blood |
@@ -46,19 +60,6 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Players | 3-5 |
 | Duration | 3-4 h |
 | Characters | bring your own level 5, contact GM for details |
-
----
-
-| Adventure | Der Goblinhort |
-|---|---|
-| Language | Deutsch |
-| Game-Master | Dorian [doxi8849]|
-| Rules | Dungeonslayers |
-| Suitable for | Keine Vorerfahrung notwendig|
-| Description | Mehrere Abenteurer wurden angeworben, um den Bürgermeister aus einem kleinen Dorf zu Hilfe zu eilen. Goblins haben sich in einem Wald niedergelassen, welcher ein wichtiger Pfad für viele Händler ist. Helft den Dorfbewohnern, den Wald zu säubern, sodass wieder Frieden einkehren kann.? |
-| Players | 3-5 |
-| Duration | 3-5 h |
-| Characters | sind vorgefertigt, aber können auch selbst erstellt werden, kontaktiere dafür deinen Game-Master |
 
 ### 19:00
 
@@ -74,6 +75,19 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Characters | made at the table, if you want to work on it beforehand contact DM beforehand |
 
 ### 21:00
+
+| Adventure | To be announced |
+|---|---|
+| Language | Deutsch |
+| Game-Master | Michi [michi2377] |
+| Rules | Pathfinder 2E |
+| Suitable for | Beginners in the system with some Pen&Paper Knowledge |
+| Description | TBA |
+| Players | 3-5 |
+| Duration | 3-4h |
+| Characters | selfmade |
+
+---
 
 | Adventure | Workshop - Wie schreibe ich meinen eigenen One-Shot?|
 |---|---|
