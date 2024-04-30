@@ -106,16 +106,6 @@ The quickest one to solve our 49 pieces JKU GAMES SS24-Puzzle will be awarded th
 That's really all there is to say about it. The challenge will be available at the games rental desk from Friday 4pm till Sunday 12am (midnight). After that we will contact the final record time holder and make sure you receive your prize.<br>
 During the Event we will keep you updated about the current record time in the "speed-puzzle-challenge" text channel on our discord.
 
-## Group Games
-
-### Two Rooms and a Boom
-
-This group game will have you protect the president, assassinate him, or sow chaos doing an entirely different task. Of course, not knowing the roles of others, being split up into two rooms without means of communication, and having people sent back and forth between them does not make succeeding any simpler. That's why communication is key.<br>
-Two Rooms and a Boom will be played on Friday starting at 19:00 in the Group Games room, where you will get a more in-depth explanation of the rules and roles.
-After that, new rounds will start approximately every half hour until 22:30.
-
-### Werewolf
-
-Werewolves are hiding in the peaceful village and are trying to eat all its residents, but the villagers won't just let them do as they please. Meanwhile, some are scheming entirely different plans in secret to use the chaos to their advantage. The question is, can you trust others and their claims of who and what they are?<br>
-Werewolf is played almost constantly in the Group Games room, where you will get a more in-depth explanation of the rules and roles.
-New rounds are planned to start every two hours on the hour (unless the room is needed otherwise) and will be announced via <a href="{{ site.discord_url }}">Discord</a> in the werewolf channel.
+## Promoted Games
+During the event, we will promote specific games at specific times to help you find players and opponents. You can find them in the [LAN](/./lan) and [DICE](/./dice) area respectively.<br>
+Promoted games (as all tournaments seen above) will also receive their own Discord event, so make sure to join our <a href="{{ site.discord_url }}">Discord server</a> and mark yourself interested: This way, you will always receive a notification when a new game starts. 
