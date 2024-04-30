@@ -13,19 +13,14 @@ permalink: /lan/
 
 We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have reserved a spot will be prioritized if spots run out. 
 
-<section id="notice">
-    <div class="inner">
-        <h2>Disclaimer</h2>
-        <p>The ticket shop has not yet opened. The link currently still brings you to last semester's shop. Please check back later.</p>
-    </div>
-</section>
-
-<a href="https://pretix.eu/jkugames/WiSe23/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
+<a href="https://pretix.eu/jkugames/SoSe24/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
 <figure>
-   <img src="/assets/images/lan/lan_new.JPG" style="width: 95%; max-width: 1000px;"
+  <a class="img" href="/assets/images/lan/lan_new.JPG">
+    <img src="/assets/images/lan/lan_new.JPG" style="width: 95%; max-width: 1000px;"
       alt="Panorama of the lan area 2023" />
-   <figcaption></figcaption>
+  </a>
+    <figcaption></figcaption>
 </figure>
 
 ## Promoted Games
@@ -49,9 +44,11 @@ Each game will be promoted for a four-hour timeslot. See last Game's schedule he
 * No need to bring anything for our VR- and Console-Area.
 
 <figure>
-   <img src="/assets/images/lan/consoles.JPG" style="width: 95%; max-width: 1000px;"
+  <a class="img" href="/assets/images/lan/consoles.JPG">
+    <img src="/assets/images/lan/consoles.JPG" style="width: 95%; max-width: 1000px;"
       alt="People playing in the console area" />
-   <figcaption></figcaption>
+  </a>
+    <figcaption></figcaption>
 </figure>
 
 ## Discord
