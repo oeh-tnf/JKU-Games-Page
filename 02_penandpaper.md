@@ -197,16 +197,17 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 
 ### 14:00
 
-| Adventure | To be announced |
+| Adventure | Goblin Heist - a clever scheme |
 |---|---|
 | Language | Deutsch/English |
 | Game-Master | Daniel [kuta1999] |
-| Rules | TBA |
-| Suitable for | TBA |
-| Description | TBA |
-| Players | TBA |
+| Rules | DnD 5e |
+| Suitable for | Everyone - Noobs welcome |
+| Description | The fair city of Shallowsea is truly the jewel of the Rapier Coast. It's the home of fancy noble families, wealthy merchant guilds, grand fleets, bright festivals... and the infamous Goblin Mafia.
+One of the local Gobsters (goblin mobster, get it? Uhh, anyway...) One of the local crime bosses, Clever Tony, has devised another one of those treacherous schemes he's known for. However, he will need to hire an elite team of gobbo specialists to pull it off successfully. That's where you enter the picture. (This one-shot may or may not be based on a meme i once saw. Whitout doubt, it does not take itself all too seriously. However, do not let that deceive you; you will need plenty of wit, charm, sneakyness and stabbyness to succeed. The game is a bit silly, but it should still offer a decent gameplay challenge.) |
+| Players | 4-5|
 | Duration | 3-4h |
-| Characters | TBA |
+| Characters | premade by DM |
 
 ### 15:00
 
