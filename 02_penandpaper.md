@@ -65,6 +65,17 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Duration | 3-4 h |
 | Characters | bring your own level 5, contact GM for details |
 
+| Adventure | Blut auf der Weide|
+|---|---|
+| Language | Deutsch |
+| Game-Master | Simon [callmecyman] |
+| Rules | Savage Worlds Adventure Edition - Deadlands Setting |
+| Suitable for | for SWADE-Noobs - general Pen&Paper Experience prefered |
+| Description | Wir schreiben das Jahr 1884, aber es ist nicht wie es in den Geschichtsbüchern steht. Das Böse gedeiht in den Weiten des Wilden Westens. Manche sagen, es gäbe Monster - Wesen, die aus den dunkelsten Ängsten geboren und von einem heimtückischen und überwältigenden Bösen zum Leben erweckt werden. Die meisten halten das für abergläubisches Gewäsch, aber ihr wisst es besser. Ihr habt das Böse gesehen, seid ihm entgegen getreten und habt es sogar überlebt. Diesmal. Vielleicht habt ihr es euch sogar zur Aufgabe gemacht, die armen Schäfchen des Westens vor dem Bösen zu schützen. Oder es treibt euch die Aussicht auf Ruhm und Reichtum an, immer wieder euer Leben auf's Spiel zu setzen gegen das, was auf dem nächsten Ausritt lauert. Oder ist es schlicht der Nervenkitzel der Jagd? Das Wissen, dass ihr Dingen und Wesen gegenübertretet, die andere nur für Lagerfeuergeschichten halten? Was auch immer euch antreibt hat euch und ein paar ähnlich Gesinnte auf die Farm von Heath Crittenden verschlagen, einige Meilen südöstlich der Stadt Heaston Hill im Uinta County, Wyoming. Erst ward ihr nur auf der Suche nach einer warmen Mahlzeit und einer Rast auf eurem Weg nach Heaston Hill. Doch als Heath euch erzählt, dass neben dem Ding, das ständig seine Mastrinder frisst, und den Viehdieben wie der Ghost-Steel-Gang jetzt auch noch einer seiner Farmarbeiter unter mysteriösen Umständen umgebracht wurde, weckt das euren Abenteuergeist... |
+| Players | 3-6 |
+| Duration | 4 h |
+| Characters | premade by GM |
+
 ### 19:00
 
 | Adventure | Neverwhere in Ankh-Morpork |
@@ -207,19 +218,6 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Players | 4-5|
 | Duration | 3-4h |
 | Characters | premade by DM |
-
-### 15:00
-
-| Adventure | A wild sheep chase |
-|---|---|
-| Language | Deutsch |
-| Game-Master | Gandalf [noctavian] |
-| Rules | DnD 5e |
-| Suitable for | Anfänger bis mittelmäßig erfahrene Spieler:innen |
-| Description | "When the party’s attempt to grab a rare afternoon of downtime is interrupted by a frantic sheep equipped with a Scroll of Speak to Animals, they’re dragged into a magical grudge match that will test their strength, courage and willingness to endure baa’d puns. - Will our heroes be able to overcome a band of transmuted assassins and an extremely bitter apprentice packing dangerously unstable magic items? There’s only one way to find out…" |
-| Players | 4-6 |
-| Duration | 3-4h |
-| Characters | sind vorgefertigt |
 
 ---
 
