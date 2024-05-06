@@ -156,19 +156,6 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 
 ---
 
-| Adventure | Froschkönig |
-|---|---|
-| Language | Deutsch |
-| Game-Master | Dorian [doxi8849] |
-| Rules | Mausritter |
-| Suitable for | Keine Vorerfahrung notwendig! |
-| Description | Der große Froschkönig feiert seinen Geburtstag ihr wurdet herbeigezogen als Security/Clowns/Kellner für ihn zu arbeiten jedoch wegen der Verrücktheit des Königs werdet ihr vor mehreren verrückten und scheinbar unmöglichen Herausforderungen gestellt nur das der König am Schluss vergessen hat das er sie euch aufgetragen hat. |
-| Players | 3-4 |
-| Duration | 2-3h |
-| Characters | sind vorgefertigt, aber können auch selbst erstellt werden, kontaktiere dafür deinen Game-Master  |
-
-### 10:00
-
 | Adventure |Local Legends|
 |---|---|
 | Language | English (can play in German if all Players want to)|
@@ -205,6 +192,19 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Players | 4-6 |
 | Duration | 5-6h |
 | Characters | Make yourself, Contact DM for Details |
+
+---
+
+| Adventure | Froschkönig |
+|---|---|
+| Language | Deutsch |
+| Game-Master | Dorian [doxi8849] |
+| Rules | Mausritter |
+| Suitable for | Keine Vorerfahrung notwendig! |
+| Description | Der große Froschkönig feiert seinen Geburtstag ihr wurdet herbeigezogen als Security/Clowns/Kellner für ihn zu arbeiten jedoch wegen der Verrücktheit des Königs werdet ihr vor mehreren verrückten und scheinbar unmöglichen Herausforderungen gestellt nur das der König am Schluss vergessen hat das er sie euch aufgetragen hat. |
+| Players | 3-4 |
+| Duration | 2-3h |
+| Characters | sind vorgefertigt, aber können auch selbst erstellt werden, kontaktiere dafür deinen Game-Master  |
 
 ### 14:00
 
