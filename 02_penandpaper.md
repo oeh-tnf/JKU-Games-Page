@@ -89,19 +89,6 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Duration | 5h (~1h Character Creation) |
 | Characters | made at the table, if you want to work on it beforehand contact DM beforehand |
 
-### 21:00
-
-| Adventure | To be announced |
-|---|---|
-| Language | Deutsch |
-| Game-Master | Michi [michi2377] |
-| Rules | Pathfinder 2E |
-| Suitable for | Beginners in the system with some Pen&Paper Knowledge |
-| Description | TBA |
-| Players | 3-5 |
-| Duration | 3-4h |
-| Characters | selfmade |
-
 ---
 
 | Adventure | Workshop - Wie schreibe ich meinen eigenen One-Shot?|
