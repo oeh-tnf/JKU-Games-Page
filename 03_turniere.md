@@ -95,8 +95,8 @@ Please bring the necessary eyes.
 
 ### Chess Champion
 <em>Make Magnus proud in this async tournament!</em><br>
-In light of logistical considerations regarding space and scheduling, we have devised a unique tournament format. The tournament will span the entire event, and each participant will receive two buttons identifying them as a <em>Challenger.</em><br>
-Participants possessing a Challenger button can be challenged to a chess duel at any time during the event. Upon the conclusion of a match, the defeated player will surrender one of their buttons to the victor. The tournament concludes for a player when they have no buttons remaining. Alternatively, if a participant wishes to conclude their challenge period before running out of buttons, they can return their remaining buttons to the Games Rental section and only then the score will be recorded for evaluation at the conclusion of the tournament.<br>
+In light of logistical considerations regarding space and scheduling, we have devised a unique tournament format. The tournament will span the entire event, and each participant will receive three buttons identifying them as a <em>Challenger.</em><br>
+Participants possessing a <em>Challenger</em> button can be challenged to a chess duel at any time during the event. Upon the conclusion of a match, the defeated player will surrender one of their buttons to the victor. The tournament concludes for a player when they have no buttons remaining. Alternatively, if a participant wishes to conclude their challenge period before running out of buttons, they can return their remaining buttons to the Games Rental section and only then the score will be recorded for evaluation at the conclusion of the tournament.<br>
 The announcement of the tournament winner is scheduled for 12am (midnight) on Sunday. In case that a winner is no longer present at the JKU Games location, we will contact them to convey their victory.<br>
 We look forward to an exciting and competitive chess tournament during the JKU Games!
 

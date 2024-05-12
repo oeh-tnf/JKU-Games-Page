@@ -12,15 +12,16 @@ permalink: /guide/
 <figure>
   <a class="img" href="/assets/images/Roomplan JKU Games 2024S.png">
     <img src="/assets/images/Roomplan JKU Games 2024S.png" style="width: 95%; max-width: 1000px;"
-      alt="Roomplan JKU Games 2023S" />
+      alt="Roomplan JKU Games 2024S" />
   </a>
     <figcaption></figcaption>
 </figure>
 
 ### Kitchen
-
 Throughout the event, we will provide free snacks, coffee and tea in the Kitchen.<br>
 A Microwave and a Fridge can be found there as well. Please sign all things you place in the fridge with your name and don't use the whole place for yourself. It should go without saying, but other people's stuff is off-limits.
+
+Coffee is not for you but you could still use a boost? <em>Red Bull</em> has supplied us with free drinks to keep your energy up! Cans will be restocked at the <em>RedBull Power Hour</em> at 8pm.
 
 #### Pizza
 Periodically, we will also organize a Pizza delivery call to <a href="https://bella-casa.at/">Bella Casa</a> with special conditions.
