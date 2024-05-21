@@ -7,7 +7,6 @@ nav-menu: true
 permalink: /guide/
 ---
 
-
 ## Roomplan
 <figure>
   <a class="img" href="/assets/images/Roomplan JKU Games 2024S.png">
@@ -29,11 +28,13 @@ Coffee is not for you but you could still use a boost?<br>
 Periodically, we will also organize a Pizza delivery call to <a href="https://bella-casa.at/">Bella Casa</a> with special conditions.
 You will be informed about when the next order takes place at the event, we currently plan on placing orders at around these times: <br>
 * FR, 18:00
-* FR, 19:30
+* FR, 19:00
+* FR, 20:00
 * FR, 21:00
 * SA, 12:00
 * SA, 18:00
-* SA, 19:30
+* SA, 19:00
+* SA, 20:00
 * SA, 21:00
 
 Please keep in mind that these pizza orders usually take about an hour to arrive.
@@ -125,7 +126,7 @@ We understand the sudden feeling of dread and despair once the JKU Games are edg
 * **Game and Dine**: If you like good food and games (both the classical and especially the electronic kind), [Game and Dine](https://www.instagram.com/game_and_dine) has got you covered with playing nights, regulars' tables etc.! They are not paying us, we are just fans - say hi from us!
 * **External Partners**: Some of our external partners who provided activities at the JKU Games also have their own events. [Check them out!](/./about/#external-partners)
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
-* **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: We are already planning to have the next Games on 17.-19.05.2024!
+* **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: We are already planning to have the next Games on 15.-17.11.2024!
 
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our <a href="{{ site.discord_url }}">Discord Server</a>!
