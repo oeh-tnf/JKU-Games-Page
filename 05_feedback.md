@@ -15,10 +15,10 @@ We are always looking to improve our events and appreciate any feedback we get: 
 These are some of the more recent pieces of advice we received in the past and how we have tried to implement them. The date always indicates when we last changed stuff to address an issue.
 
 ### More chairs in the LAN area | 2024 SoSe
-We have frequently received the feedback that the LAN area could use more chairs. We get the sentiment, sitting on a bench for hours can be quite unconfortable. We have been in talks with JKU who unfortunately do not have more chairs we can borrow, so we are now getting offers from external companies.
+We have frequently received the feedback that the LAN area could use more chairs. We get the sentiment, sitting on a bench for hours can be quite uncomfortable. We have been in talks with JKU and were able to find some more chairs we can borrow. Now there is nothing stopping you from playing 36-hours of Blobby Volley in one sitting!
 
 ### More cups in the kitchen | 2024 SoSe
-With an increasing number of participants at our Games, we've been running out of cups a few time and had to offer one-way plastic cups. To reduce the amount of plastic waste, we'll now borrow thermo cups if budget permits. 
+With an increasing number of participants at our Games, we've been running out of cups a few time and had to offer one-way plastic cups. To reduce the amount of plastic waste, we'll now borrow thermo cups from an external contractor. 
 
 ### I wasn't sure if you still had any free LAN slots | 2023 WiSe
 We usually have more than enough space for all, but we understand that some would still like a guarantee to ensure that they don't transport all their equipment for nothing. That's why we now include LAN places in our ticket system. 
