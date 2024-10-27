@@ -20,9 +20,11 @@ permalink: /guide/
 Throughout the event, we will provide free snacks, coffee and tea in the Kitchen.<br>
 A Microwave and a Fridge can be found there as well. Please sign all things you place in the fridge with your name and don't use the whole place for yourself. It should go without saying, but other people's stuff is off-limits.
 
+<!--
 #### Red Bull
 Coffee is not for you but you could still use a boost?<br> 
 <em>Red Bull</em> has supplied us with free drinks to keep your energy up! Cans will be restocked on Saturday at the <em>Red Bull Power Hour</em> at 8pm.
+-->
 
 #### Pizza
 Periodically, we will also organize a Pizza delivery call to <a href="https://bella-casa.at/">Bella Casa</a> with special conditions.
@@ -42,7 +44,7 @@ Note that this is just an approximate schedule subject to change. Check out the 
 You can only pay in cash, but don't worry, there is an ATM nearby.
 
 #### LUI
-The Linzer Uni Inn, the Student Union's bar, will be open through most of the event. They are conveniently located in the same building: You can get a drink and some snacks there as well, and play Billards or Darts. Check out their <a href="https://oeh.jku.at/abschnitte/lui">website</a> and <a href="https://www.facebook.com/LUI.LinzerUniInn">Facebook page</a> for more information.
+The Linzer Uni Inn, the Student Union's bar, will be open on Friday. They are conveniently located in the same building: You can get a drink and some snacks there as well, and play Billards or Darts. Check out their <a href="https://oeh.jku.at/abschnitte/lui">website</a> and <a href="https://www.facebook.com/LUI.LinzerUniInn">Facebook page</a> for more information.
 
 Open on Friday, 17:00-02:00.
 
