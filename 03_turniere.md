@@ -7,7 +7,9 @@ nav-menu: true
 permalink: /tournaments/
 ---
 
+<!--
 {% include notice.html %}
+-->
 
 ## Event time and Resting Period
 The JKU Games 2024S will take place from **Friday, 17.05. (16:00)** until **Sunday, 19.05. (06:00)**, for 38 hours non-stop.<br>
@@ -27,19 +29,21 @@ During this time, you can stay at the event and play games but you won't be able
 Compete for glory and fame (and a little goodie) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and guarantees you to get a spot. Left-over spots can also be booked during the event as well.
 
+**Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
+
 <a href="https://pretix.eu/jkugames/SoSe24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 
 | Start time | Game                       |
-| ---------- | -------------------------- |
+|------------|----------------------------|
 | Fr 18:00   | Mario Kart                 |
-| Fr 22:00   | Agar.io                    |
 | Fr 23:00   | Curve Fever                |
 | Sa 01:00   | Blobby Volley              |
 | Sa 13:00   | Floppy Disk                |
 | Sa 16:00   | Uno Flip!                  |
+| Sa 17:30   | Phase 10                   |
 | Sa 18:00   | Super Smash Bros. Ultimate |
-| Sa 22:00   | Wormax (Slither.io)        |
+| Sa 20:00   | Minecraft Hunger Games     |
 | Su 02:00   | Staring Contest            |
 
 Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes before, you may be substituted from the tournament.
@@ -49,11 +53,6 @@ Please ensure that you arrive at least 5 minutes before the tournament starts. I
 A new Grand Prix will take place every 20 Minutes, starting at 18:00 - the timeslots of the individual players will be announced on Discord, lists are also available at the Info-Point.<br>
 At 20:00, we will have the grand finale of all group winners.<br>
 A switch console, controllers and the game are provided.
-
-### Agar.io (LAN Area) - Friday, 10pm
-<em>Eat your oponents, grow big, become unstoppable.</em><br>
-Maneuver your cell to eat pellets and smaller cells while avoiding bigger ones. Grow wisely to reign supreme in this online multiplayer battle! The player which grows biggest wins the tournament!<br>
-Please bring your own device.
 
 ### Curve Fever (aka. Achtung, die Kurve!) (Console Area) - Friday, 11pm
 <em>The multiplayer snake game that will make you hate colorful lines.</em><br>
@@ -71,22 +70,23 @@ The necessary software will therefore be pre-installed on the tournament compute
 If the weather allows it, we will practice frisbee-ing Floppy Disks. The person closest to the target (disk drive) wins!<br>
 We will provide you with your Floppy Disks.
 
-### UNO Flip! (DICE Area) - Saturday, 4pm
+### UNO Flip! (Dice Area) - Saturday, 4pm
 <em>UNO, but they accidentally printed both sides of the cards. It's the classical game, but with a little twist (or dare I say "Flip"?)</em><br>
 We will play in a bracket system consisting of several groups playing each other. First to get rid of their cards advances to the next round.<br>
 We will provide you with the game (and rules).
+
+### Phase 10 (Dice Area) - Saturday, 5.30pm
+<em>Details coming soon</em><br>
 
 ### Super Smash Bros Ultimate (Console Area) - Saturday, 6pm
 <em>Smash your buttons and Brawl your way through Super combos in this Ultimate fighting game between Bros.</em><br>
 Depending on the amount of sign-ups, we will play 1v1s / 2v2s .. in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
 
-### Wormax.io / Slither.io (LAN Area) - Saturday, 10pm
-<em>Curve Fever, but add a little bit of spice.</em><br>
-Welcome to the Wormax.io Tournament! Navigate your worm through the arena, gobbling up food and defeating opponents. Grow longer, outsmart your rivals, and become the ultimate worm champion! The player that grows the longest worm wins the tournament!<br>
-Please bring your own device.
+### Minecraft Hunger Games (LAN Area) - Saturday, 8pm
+<em>Details coming soon</em><br>
 
-### Staring Contest (DICE Area) - Sunday, 2am
+### Staring Contest (Dice Area) - Sunday, 2am
 <em>Especially enticing for all that have stayed up throughout the whole event, this game will force you to stay awake.</em><br>
 In this bracket style tournament, you will be invited to get lost in your opponents eyes. If you blink, you lose!<br>
 Please bring the necessary eyes.

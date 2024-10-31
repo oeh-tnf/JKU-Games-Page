@@ -30,13 +30,11 @@ Coffee is not for you but you could still use a boost?<br>
 Periodically, we will also organize a Pizza delivery call to <a href="https://bella-casa.at/">Bella Casa</a> with special conditions.
 You will be informed about when the next order takes place at the event, we currently plan on placing orders at around these times: <br>
 * FR, 18:00
-* FR, 19:00
-* FR, 20:00
+* FR, 19:30
 * FR, 21:00
 * SA, 12:00
 * SA, 18:00
-* SA, 19:00
-* SA, 20:00
+* SA, 19:30
 * SA, 21:00
 
 Please keep in mind that these pizza orders usually take about an hour to arrive.
