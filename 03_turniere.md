@@ -31,7 +31,7 @@ To participate in a tournament, simply get yourself a free ticket using the butt
 
 **Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
 
-<a href="https://pretix.eu/jkugames/SoSe24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
+<a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 
 | Start time | Game                       |

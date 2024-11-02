@@ -22,7 +22,7 @@ In this year’s JKU Games you will get a chance to try out several Pen & Paper 
 
 **Note: We are still adding new adventures, the ticket shop has therefore not yet opened. If you would like to host an adventure yourself, please contact us via games@oeh.jku.at!**
 
-<a href="https://pretix.eu/jkugames/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
+<a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 Please sign up for only one game at this time, remaining spots will be available at the Infopoint on the Event.<br>
 You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)

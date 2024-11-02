@@ -19,7 +19,7 @@ We usually have enough space for all PC players, so you do not need to reserve a
 
 **Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
 
-<a href="https://pretix.eu/jkugames/SoSe24/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
+<a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
 <figure>
   <a class="img" href="/assets/images/lan/lan_new.JPG">
