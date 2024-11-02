@@ -52,16 +52,16 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Duration | 3-4 h |
 | Characters | vorgefertigt |
 
-| Adventure | Das Auge der Echse |
+| Adventure | Tyranny in Phlan |
 |---|---|
-| Language | English/Deutsch |
-| Game-Master | Daniel [knightRave] |
-| Rules | DnD 5e |
-| Suitable for | Everyone - Noobs welcome!|
-| Description | lighthearted pirate adventure - more to be announced soon |
-| Players | 5 |
+| Language | Deutsch |
+| Game-Master | Gandalf [noctavian] |
+| Rules | DnD 5e  - Adventures League |
+| Suitable for | mid to highly experienced players |
+| Description | "The Maimed Virulence has come. The future of the Cinnabar Throne and the lives of the denizens of Phlan are in jeopardy. The Cult of the Dragon rejoices, and the Black Fist is powerless to stop them. How will the factions of the city respond to this threat? Can Phlan be saved this time?" |
+| Players | 4-6 |
 | Duration | 4-6 h |
-| Characters | you can bring your own pirate contact GM for details |
+| Characters | bring your own Adventures League Charakter - Level 6 |
 
 | Adventure | The Frozen Veil |
 |---|---|
@@ -193,17 +193,17 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Characters | prepare in advance with sheet provided by DM                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 ### 15:00
-
-| Adventure | Tyranny in Phlan |
+| Adventure | Das Auge der Echse |
 |---|---|
-| Language | Deutsch |
-| Game-Master | Gandalf [noctavian] |
-| Rules | DnD 5e  - Adventures League |
-| Suitable for | mid to highly experienced players |
-| Description | "The Maimed Virulence has come. The future of the Cinnabar Throne and the lives of the denizens of Phlan are in jeopardy. The Cult of the Dragon rejoices, and the Black Fist is powerless to stop them. How will the factions of the city respond to this threat? Can Phlan be saved this time?" |
-| Players | 4-6 |
+| Language | English/Deutsch |
+| Game-Master | Daniel [knightRave] |
+| Rules | DnD 5e |
+| Suitable for | Everyone - Noobs welcome!|
+| Description | lighthearted pirate adventure - more to be announced soon |
+| Players | 5 |
 | Duration | 4-6 h |
-| Characters | bring your own Adventures League Charakter - Level 6 |
+| Characters | you can bring your own pirate contact GM for details |
+
 
 ### 16:00
 
