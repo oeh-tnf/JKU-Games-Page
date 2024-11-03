@@ -47,7 +47,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Kneidi [Templar42] |
 | Rules | HeXXen1733 |
 | Suitable for | Neulinge und Veteranen |
-| Description |D ie Welt von HeXXen 1733 ist wie die unsere – und doch ganz anders. Grausame Kreaturen aus Märchen und Sagen sind Realität im Jahr 1733 n. Chr. denn Jahrzehnte zuvor öffnete sich ein Portal zur Hölle. Schrecken aus Mythen und Märchen bedrohen die Menschheit und nur wenige sogenannte Jäger stellen sich der Gefahr. Übernimm einen vorgefertigten Charakter und begib dich durch in die Residenzstadt Waldenau, um die Nachwirkungen eines Hexenangriffs zu erleben.|
+| Description | Die Welt von HeXXen 1733 ist wie die unsere – und doch ganz anders. Grausame Kreaturen aus Märchen und Sagen sind Realität im Jahr 1733 n. Chr. denn Jahrzehnte zuvor öffnete sich ein Portal zur Hölle. Schrecken aus Mythen und Märchen bedrohen die Menschheit und nur wenige sogenannte Jäger stellen sich der Gefahr. Übernimm einen vorgefertigten Charakter und begib dich durch in die Residenzstadt Waldenau, um die Nachwirkungen eines Hexenangriffs zu erleben.|
 | Players | 3-5 |
 | Duration | 3-4 h |
 | Characters | vorgefertigt |
@@ -58,7 +58,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Gandalf [noctavian] |
 | Rules | DnD 5e  - Adventures League |
 | Suitable for | mid to highly experienced players |
-| Description | "The Maimed Virulence has come. The future of the Cinnabar Throne and the lives of the denizens of Phlan are in jeopardy. The Cult of the Dragon rejoices, and the Black Fist is powerless to stop them. How will the factions of the city respond to this threat? Can Phlan be saved this time?" |
+| Description | The Maimed Virulence has come. The future of the Cinnabar Throne and the lives of the denizens of Phlan are in jeopardy. The Cult of the Dragon rejoices, and the Black Fist is powerless to stop them. How will the factions of the city respond to this threat? Can Phlan be saved this time? |
 | Players | 4-6 |
 | Duration | 4-6 h |
 | Characters | bring your own Adventures League Charakter - Level 6 |
@@ -82,7 +82,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Cyman [callmecyman] |
 | Rules | Savage Worlds Adventure Edition" (SWADE)  |
 | Suitable for | The adventure is designed to introduce people with some prior TTRPG experience to the Savage Worlds system |
-| Description | You have just settled into your seat at “The Dysc”, a small and shabby theatre in the city of Ankh-Morpork. You are not much of a theatre person generally but look forward to throwing vegetables at your close friend, or well maybe more of an acquaintance, in fact you just met him yesterday, the famous Oswald Otterstrike, who is playing the king. Like any proper king in a play, he will eventually get stabbed, of course. And DAMN his acting is fine. Or is it? The other actors seem quite befuzzled by the ferocious scream and groaning noises he makes. Best to check out if the murder is real … |
+| Description | It’s the year 1884, but things are different from what you read in history books. Folks from all over the world journey to the American frontier looking for opportunity, freedom, and open spaces. But danger awaits. Evil is rising in the Wild West. Some say there are more than just wild animals on those lonely trails. Some say there are monsters, created from our deepest fears and brought to life by a powerful evil. Most people think this is just superstitious nonsense — stories told around the campfire to scare children. But you know better. Out here, the nights feel darker, the distance between towns seems longer, and something changes the land itself. You have seen the evil, faced it, and even survived. Maybe you have made it your mission to protect the innocent people of the West from this evil. Or maybe you’re drawn to fame and fortune, risking your life time and again against what waits in the shadows. Or maybe it’s just the excitement of the hunt, knowing you’re facing things others think are just stories. Whatever your reason, you and a few like-minded people have found yourselves on Heath Crittenden's farm, a few miles southeast of Heaston Hill in Uinta County, Wyoming. At first, you were just looking for a hot meal and a place to rest on your way to town. But when Heath tells you that something is killing his cattle and that the Ghost Steel gang is causing trouble, plus one of his farm workers has been killed under strange circumstances, it sparks your sense of adventure... |
 | Players | 2-5 |
 | Duration |4h|
 | Characters | pregenerated |
@@ -97,14 +97,14 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Sarah [starshine001] |
 | Rules | Vampire the Masquerade |
 | Suitable for | Noobs to VtM are very much welcome as this is a oneshot designed to introduce you to the system and the setting. Noobs to TTRPGs in general are also welcome, though some prior experience would be best.|
-| Description | "There is no fear as your life is fading away. You feel an unexpected comfort in the arms of the being that is taking your life. You experience a surprising calm as it all disappears. Drop by drop, it takes your fears, your worries, your dreams, your joy. - Then, your conscience vanishes, and all that’s left is blackness. - You open your eyes. There is a lingering feeling that something is missing, but something else immediately overrides it. It is an electric purr that stirs your senses awake. Coming back from Death is slow. You feel sluggish as you become aware of the room you are in, the company you share. Above and around you are slow swinging hunks of meat, like the bodies of that deathly migration. Beside you are others, also escaping Death’s shore. As you begin to sit up, you feel it for the first time: Hunger. And you know, somehow, as you experience the terrible pangs of this Hunger, that you are no longer human. -This is an introductory oneshot to Vampire the Masquerade, a system about personal and political horror where you play vampires in the modern world. As such, expect sensitive subject matter."|
+| Description | There is no fear as your life is fading away. You feel an unexpected comfort in the arms of the being that is taking your life. You experience a surprising calm as it all disappears. Drop by drop, it takes your fears, your worries, your dreams, your joy. - Then, your conscience vanishes, and all that’s left is blackness. - You open your eyes. There is a lingering feeling that something is missing, but something else immediately overrides it. It is an electric purr that stirs your senses awake. Coming back from Death is slow. You feel sluggish as you become aware of the room you are in, the company you share. Above and around you are slow swinging hunks of meat, like the bodies of that deathly migration. Beside you are others, also escaping Death’s shore. As you begin to sit up, you feel it for the first time: Hunger. And you know, somehow, as you experience the terrible pangs of this Hunger, that you are no longer human. -This is an introductory oneshot to Vampire the Masquerade, a system about personal and political horror where you play vampires in the modern world. As such, expect sensitive subject matter.|
 | Players | 2-5 |
 | Duration | 4 h |
 | Characters | bring your own level 5, contact GM for details |
 
 ### 22:00
 
-| Adventure | Dämonenbrut |
+| Adventure | Nacht der Hekate |
 |---|---|
 | Language | Deutsch |
 | Game-Master | Kneidi [Templar42] |
@@ -124,7 +124,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Magdalena [Felsilvae#0157] |
 | Rules | Cyberpunk Red |
 | Suitable for | Noobs welcome, pre-experience with Cyberpunk Genre makes it even more fun |
-| Description |  The world of Cyberpunk Red is a dystopian future set in the year 2045, where mega-corporations wield immense power, cities are ruled by gangs, and advanced technology blurs the line between human and machine. Night City, the heart of this world, is a sprawling, chaotic metropolis filled with neon lights, cybernetic enhancements, and constant danger. Society is on the brink, with everyone struggling to survive amidst a shattered economy, environmental collapse, and rampant violence.) "The Forlorn Hope" is the most popular veteran bar in Night City. So when Marianne Freeman, the co-owner of the bar, asks you for a favor, you don’t hesitate for long. You and your crew are supposed to help her with a persistent XBD dealer problem. No big deal for you.|
+| Description | The world of Cyberpunk Red is a dystopian future set in the year 2045, where mega-corporations wield immense power, cities are ruled by gangs, and advanced technology blurs the line between human and machine. Night City, the heart of this world, is a sprawling, chaotic metropolis filled with neon lights, cybernetic enhancements, and constant danger. Society is on the brink, with everyone struggling to survive amidst a shattered economy, environmental collapse, and rampant violence.) "The Forlorn Hope" is the most popular veteran bar in Night City. So when Marianne Freeman, the co-owner of the bar, asks you for a favor, you don’t hesitate for long. You and your crew are supposed to help her with a persistent XBD dealer problem. No big deal for you.|
 | Players | 3-5 |
 | Duration | 3-5 h |
 | Characters | premade by DM |
@@ -136,8 +136,8 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Max [minermax555] |
 | Rules | Easy to learn d20based homebrew rules |
 | Suitable for | Designed as a first Pen & Paper Experience, Veteranen sind aber auch gerne willkommen |
-| Description | "Victorian London, 1855. A year has passed since you and your companions unraveled a grim case of illness, death, and conspiracy. Your investigative talents, highly praised by the press, have not gone unnoticed. A cryptic letter from a solicitor reaches you, urging your presence at Addington Palace. You are tasked with safeguarding a priceless inheritance during the proceedings following the death of the esteemed aristocrat, Margaret Mallan. Drawn in by curiosity, you soon find yourself at the heart of a complex criminal investigation—one filled with the hunt for clues, intense interrogations, sharp deductions, and, ultimately, delivering justice to those who deserve it.|
-| Note: | this is a soft sequel to my adventure ""The Green Death"" I previously ran at 3 past JKU Games. The plot is not connected to the old adventure, but it follows the same playable characters. Both new and returning players are welcome!" |
+| Description | Victorian London, 1855. A year has passed since you and your companions unraveled a grim case of illness, death, and conspiracy. Your investigative talents, highly praised by the press, have not gone unnoticed. A cryptic letter from a solicitor reaches you, urging your presence at Addington Palace. You are tasked with safeguarding a priceless inheritance during the proceedings following the death of the esteemed aristocrat, Margaret Mallan. Drawn in by curiosity, you soon find yourself at the heart of a complex criminal investigation—one filled with the hunt for clues, intense interrogations, sharp deductions, and, ultimately, delivering justice to those who deserve it.|
+| Note: | this is a soft sequel to my adventure "The Green Death" I previously ran at 3 past JKU Games. The plot is not connected to the old adventure, but it follows the same playable characters. Both new and returning players are welcome!" |
 | Players | 3-6 |
 | Duration | 4-6 h |
 | Characters | premade by GM |
@@ -155,7 +155,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Duration | 3-5 h |
 | Characters | premade by GM |
 
-| Adventure | Charakter Creation Workshop|
+| Adventure | Character Creation Workshop|
 |---|---|
 | Language | English |
 | Game-Master | Franz [theplatters] |
@@ -187,7 +187,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Erik [dragonmaid_bomb] |
 | Rules | homebrew rules d20 |
 | Suitable for | Anfänger bis weit fortgeschritten |
-| Description | "Willkommen in Triodon, eine Welt , die von Magie durchzogen ist, wo dichte Wälder Geheimnisse flüstern und uralte Kräfte entdeckt werden. In einer einst blühenden Zivilisation ist alles zerbrochen – und es liegt an dir und deiner Gruppe, die Wahrheit über die vergessene Vergangenheit ans Licht zu bringen. Du erwachst ohne Erinnerung, irgendwo im Herzen des Mystischen Waldes, voller gefährlicher Kreaturen. Die Überreste eines uralten Kaisers drohen die Welt ins Chaos zu stürzen. Löse knifflige Rätsel und erlebe packende Kämpfe. Decke deine verlorene Vergangenheit auf und finde heraus, was wirklich in Triodon geschehen ist. Egal, ob du Anfänger oder fortgeschrittener Spieler bist – dein Abenteuer beginnt hier." |
+| Description | Willkommen in Triodon, eine Welt , die von Magie durchzogen ist, wo dichte Wälder Geheimnisse flüstern und uralte Kräfte entdeckt werden. In einer einst blühenden Zivilisation ist alles zerbrochen – und es liegt an dir und deiner Gruppe, die Wahrheit über die vergessene Vergangenheit ans Licht zu bringen. Du erwachst ohne Erinnerung, irgendwo im Herzen des Mystischen Waldes, voller gefährlicher Kreaturen. Die Überreste eines uralten Kaisers drohen die Welt ins Chaos zu stürzen. Löse knifflige Rätsel und erlebe packende Kämpfe. Decke deine verlorene Vergangenheit auf und finde heraus, was wirklich in Triodon geschehen ist. Egal, ob du Anfänger oder fortgeschrittener Spieler bist – dein Abenteuer beginnt hier. |
 | Players | 3-7 |
 | Duration | 4 h |
 | Characters | prepare in advance with sheet provided by DM |
@@ -200,7 +200,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Daniel [knightRave] |
 | Rules | DnD 5e |
 | Suitable for | Everyone - Noobs welcome!|
-| Description | lighthearted pirate adventure - more to be announced soon |
+| Description | lighthearted pirate adventure |
 | Players | 5 |
 | Duration | 4-6 h |
 | Characters | you can bring your own pirate contact GM for details |
@@ -239,10 +239,21 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Julian [SeWiesa] |
 | Rules | DnD 5e |
 | Suitable for | Everyone - Noobs welcome! |
-| Description | "The fair city of Shallowsea is truly the jewel of the Rapier Coast. It's the home of fancy noble families, wealthy merchant guilds, grand fleets, bright festivals... and the infamous Goblin Mafia. One of the local Gobsters (goblin mobster, get it? Uhh, anyway...) One of the local crime bosses, Clever Tony, has devised another one of those treacherous schemes he's known for. However, he will need to hire an elite team of gobbo specialists to pull it off successfully. That's where you enter the picture."|
+| Description | The fair city of Shallowsea is truly the jewel of the Rapier Coast. It's the home of fancy noble families, wealthy merchant guilds, grand fleets, bright festivals... and the infamous Goblin Mafia. One of the local Gobsters (goblin mobster, get it? Uhh, anyway...) One of the local crime bosses, Clever Tony, has devised another one of those treacherous schemes he's known for. However, he will need to hire an elite team of gobbo specialists to pull it off successfully. That's where you enter the picture.|
 | Players | 4-5 |
 | Duration | 5 h|
 | Characters | Lvl 2 Goblins premade by DM |
+
+| Adventure | The City of Gold |
+|---|---|
+| Language | English |
+| Game-Master | Oscar |
+| Rules | DnD 5e |
+| Suitable for | bit of experience is advised, as characters are level 8 |
+| Description | The salt jungle has hidden many old ruins and forgotten treasures, but now a new rumour is spreading. A literal city of gold has supposedly been found. Even among the enlightened pupulace of the surrounding area, this lead to a gold rush. But there are several problems with this. For one, the danger of the area means that only experienced adventurers even have a chance. Secondly an enchantment around the city ensures that anyone can only ever find the city once, making not just repeat visits, but also guides an impossibility. And lastly, most that have visited the city simply pocketed the riches and fled the country rather return it to the nobles that organised the trip. This is where you come in: As part of a bet of who can retrieve the biggest treasure, a group of nobles each found an adventurer (you) that is not interested in the riches at all and will dutifully return the gold to them as part of the newest expedition.|
+| Players | 4-5 |
+| Duration | 5h |
+| Characters | Lvl 8 - either bring your own after contacting DM (at least 1 day in advance) or get a premade one |
 
 ### 21:00
 
@@ -252,12 +263,12 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Game-Master | Michi [Michi#2377] |
 | Rules | DnD 5e |
 | Suitable for | those who already know the basic rules |
-| Description | In einem Gasthaus einer kleinen Siedlung am Waldrand gehen Gerüchte um einen versteckten Tempel um. Er soll tief im Wald schlummern und Schätze für mutige Abenteuer:Innen enthalten. Doch der Weg dort hin ist verborgen und birgt gefährliche Geheimnisse |
+| Description | In einem Gasthaus einer kleinen Siedlung am Waldrand gehen Gerüchte um einen versteckten Tempel um. Er soll tief im Wald schlummern und Schätze für mutige Abenteuer:Innen enthalten. Doch der Weg dort hin ist verborgen und birgt gefährliche Geheimnisse. |
 | Players | 4-6 |
 | Duration | 5 h|
 | Characters | selbst mitbringen. Einschränkung: Charaktere können nicht fliegen. Rassen die normalerweise fliegen können, z.b. Aarakocra, verlieren diese Fähigkeit, sind aber grundsätzlich erlaubt. |
 
-| Adventure | Ein Jahr ohne Regen |
+| Adventure | Das Grauen vor dem Morgen |
 |---|---|
 | Language | Deutsch |
 | Game-Master | Kneidi [Templar42] |
