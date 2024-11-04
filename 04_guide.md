@@ -107,7 +107,7 @@ Since our resources are limited, we always have to choose carefully what to offe
 The chances are even higher if you are willing to organize it yourself, so please mention this in your request as well!
 
 Here are some common requests that we will most likely not be able to fulfill:
-* Karaoke / SingStar: Too noisy
+* Karaoke / SingStar / JustDance: Too noisy
 * Drinking Games: Not really in the spirit of the event
 * More free snacks: We understand the desire, but we are working with a limited budget, sorry! 
 
