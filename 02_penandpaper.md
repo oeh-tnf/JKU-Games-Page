@@ -20,9 +20,7 @@ permalink: /penandpaper/
 
 In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
 
-**Note: We are still adding new adventures, the ticket shop has therefore not yet opened. If you would like to host an adventure yourself, please contact us via games@oeh.jku.at!**
-
-<a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
+<a href="[https://pretix.eu/gamesjku/W24/](https://pretix.eu/gamesjku/W24/)" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 Please sign up for only one game at this time, remaining spots will be available at the Infopoint on the Event.<br>
 You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)
@@ -87,8 +85,6 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Duration |4h|
 | Characters | pregenerated |
 
-
-
 ### 19:00
 
 | Adventure | New Blood |
@@ -116,6 +112,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Characters | vorgefertigt |
 
 ## Saturday
+
 ### 09:00
 
 | Adventure | The Angel's Share |
@@ -141,6 +138,17 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Players | 3-6 |
 | Duration | 4-6 h |
 | Characters | premade by GM |
+
+| Adventure | Local Legends |
+|---|---|
+| Language | English |
+| Game-Master | Wolfgang [wolfgang2703] |
+| Rules | DnD 5e |
+| Suitable for | Everyone - Noobs welcome!|
+| Description | A friendly wizard has hired you to travel to a remote town in order to investigate a local legend. However, shortly after your arrive you are summoned to the courthouse and accused of stealing a historic stone slate. Help clear up the confusion and recover the artifact! |
+| Players | 2-5 |
+| Duration | 2-3 h |
+| Characters | are made at the table |
 
 ### 10:00
 
@@ -191,19 +199,6 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Players | 3-7 |
 | Duration | 4 h |
 | Characters | prepare in advance with sheet provided by DM |
-
-### 15:00
-
-| Adventure | Das Auge der Echse |
-|---|---|
-| Language | English/Deutsch |
-| Game-Master | Daniel [knightRave] |
-| Rules | DnD 5e |
-| Suitable for | Everyone - Noobs welcome!|
-| Description | lighthearted pirate adventure |
-| Players | 5 |
-| Duration | 4-6 h |
-| Characters | you can bring your own pirate contact GM for details |
 
 
 ### 16:00
