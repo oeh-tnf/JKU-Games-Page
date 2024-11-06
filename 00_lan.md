@@ -12,12 +12,11 @@ permalink: /lan/
 
 ## Highlights of the LAN-Area
 * Room for up to 100 PCs
-* An ever-growing VR- and Console-Area
+* An ever-growing <!-- VR- and -->Console-Area
 * Try new games in the Game Dev Area
 
-We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have reserved a spot will be prioritized if spots run out. 
-
-**Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
+We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely 
+sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have reserved a spot will be prioritized if spots run out.
 
 <a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
@@ -30,7 +29,8 @@ We usually have enough space for all PC players, so you do not need to reserve a
 </figure>
 
 ## Promoted Games
-During the JKU Games, we want to promote a few games in the LAN section at specific timeslots. This should help make it feel more coherent and communal. Furthermore, it makes finding allies and opponents to play with easier.<br>
+During the JKU Games, we want to promote a few games in the LAN section at specific timeslots. This should help make it feel more coherent and communal. 
+Furthermore, it makes finding allies and opponents to play with easier.<br>
 Each game will be promoted for a four-hour timeslot. This is the planned schedule:
 
 | Start time | Game              |

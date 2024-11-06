@@ -29,8 +29,6 @@ During this time, you can stay at the event and play games but you won't be able
 Compete for glory and fame (and a little goodie) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and guarantees you to get a spot. Left-over spots can also be booked during the event as well.
 
-**Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
-
 <a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 
@@ -76,15 +74,22 @@ We will play in a bracket system consisting of several groups playing each other
 We will provide you with the game (and rules).
 
 ### Phase 10 (Dice Area) - Saturday, 5.30pm
-<em>Details coming soon</em><br>
+<em>Prepare for a game of wits, luck, and strategic cardplay in the Phase 10 Tournament! Will you advance swiftly through the phases, or be left scrambling to catch up?</em><br>
+We will play one round, depending on the amount of players with two decks at once.<br>
+We will provide you with the game (and rules).
 
 ### Super Smash Bros Ultimate (Console Area) - Saturday, 6pm
 <em>Smash your buttons and Brawl your way through Super combos in this Ultimate fighting game between Bros.</em><br>
-Depending on the amount of sign-ups, we will play 1v1s / 2v2s .. in a bracket system.<br>
+Depending on the amount of sign-ups, we will play 1v1s / 2v2s ... in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
 
 ### Minecraft Hunger Games (LAN Area) - Saturday, 8pm
-<em>Details coming soon</em><br>
+<em>Happy Hunger Games! And may the odds be ever in your favour.</em><br>
+In the world of Minecraft Hunger Games, there’s only one rule: survive. Gather resources, set traps, and fight for your life as you 
+go up against other players with the same goal. But beware — the arena is unforgiving, and only the best will emerge victorious! 
+Do you have what it takes to be the last one standing?<br>
+Three rounds will be played. In the first two rounds, the top half of players will advance to the next round. The final round will determine the winner of the tournament.<br>
+Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load on our network.
 
 ### Staring Contest (Dice Area) - Sunday, 2am
 <em>Especially enticing for all that have stayed up throughout the whole event, this game will force you to stay awake.</em><br>
@@ -95,9 +100,15 @@ Please bring the necessary eyes.
 
 ### Chess Champion
 <em>Make Magnus proud in this async tournament!</em><br>
-In light of logistical considerations regarding space and scheduling, we have devised a unique tournament format. The tournament will span the entire event, and each participant will receive three buttons identifying them as a <em>Challenger.</em><br>
-Participants possessing a <em>Challenger</em> button can be challenged to a chess duel at any time during the event. Upon the conclusion of a match, the defeated player will surrender one of their buttons to the victor. The tournament concludes for a player when they have no buttons remaining. Alternatively, if a participant wishes to conclude their challenge period before running out of buttons, they can return their remaining buttons to the Games Rental section and only then the score will be recorded for evaluation at the conclusion of the tournament.<br>
-The announcement of the tournament winner is scheduled for 12am (midnight) on Sunday. In case that a winner is no longer present at the JKU Games location, we will contact them to convey their victory.<br>
+In light of logistical considerations regarding space and scheduling, we have devised a unique tournament format. The tournament will span 
+the entire event, and each participant will receive three buttons identifying them as a <em>Challenger.</em><br>
+Participants possessing a <em>Challenger</em> button can be challenged to a chess duel at any time during the event. 
+Upon the conclusion of a match, the defeated player will surrender one of their buttons to the victor. The tournament concludes 
+for a player when they have no buttons remaining. Alternatively, if a participant wishes to conclude their challenge period 
+before running out of buttons, they can return their remaining buttons to the Games Rental section and only then the score will 
+be recorded for evaluation at the conclusion of the tournament.<br>
+The announcement of the tournament winner is scheduled for 12am (midnight) on Sunday. In case that a winner is no longer present 
+at the JKU Games location, we will contact them to convey their victory.<br>
 We look forward to an exciting and competitive chess tournament during the JKU Games!
 
 ### Speed-Puzzle Challenge

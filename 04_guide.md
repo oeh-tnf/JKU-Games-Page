@@ -9,9 +9,9 @@ permalink: /guide/
 
 ## Roomplan
 <figure>
-  <a class="img" href="/assets/images/Roomplan JKU Games 2024S.png">
-    <img src="/assets/images/Roomplan JKU Games 2024S.png" style="width: 95%; max-width: 1000px;"
-      alt="Roomplan JKU Games 2024S" />
+  <a class="img" href="/assets/images/Raumplan_JKU_Games_2024W.png">
+    <img src="/assets/images/Raumplan_JKU_Games_2024W.png" style="width: 95%; max-width: 1000px;"
+      alt="Roomplan JKU Games 2024W" />
   </a>
     <figcaption></figcaption>
 </figure>
@@ -107,7 +107,7 @@ Since our resources are limited, we always have to choose carefully what to offe
 The chances are even higher if you are willing to organize it yourself, so please mention this in your request as well!
 
 Here are some common requests that we will most likely not be able to fulfill:
-* Karaoke / SingStar: Too noisy
+* Karaoke / SingStar / JustDance: Too noisy
 * Drinking Games: Not really in the spirit of the event
 * More free snacks: We understand the desire, but we are working with a limited budget, sorry! 
 

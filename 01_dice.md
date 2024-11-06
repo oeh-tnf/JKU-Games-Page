@@ -40,11 +40,13 @@ During the JKU Games, we want to promote a few games in the DICE section at spec
 | Fr 23:00   | Werwolf              | Group Games Room |
 | Sa 18:00   | Werwolf              | Group Games Room |
 
+<!--
 ### 1000 blank cards
 
 In "1000 blank cards" you come up with your own rules. Ever wanted to play around with random game mechanics? Ever wanted to rip cards to shreds or make a game unplayable? Then this game is for you.<br>
 Each round you play a card, apply its effect and draw a new one. If you draw a blank card, write something on it and shuffle it back into the deck. The game ends if either someone "wins" by the effect of a card or if no player can make a valid move — in that case, the player with the most "points" wins.<br>
 1000 blank cards will be played on Friday at 17:00-21:00 in the DICE Area, new rounds will start each full hour.
+-->
 
 ### Two Rooms and a Boom
 
