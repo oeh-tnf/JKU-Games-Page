@@ -38,6 +38,7 @@ During the JKU Games, we want to promote a few games in the DICE section at spec
 | ---------- | -------------------- | ---------------- |
 | Fr 19:00   | Two Rooms and a Boom | Group Games Room |
 | Fr 23:00   | Werwolf              | Group Games Room |
+| Sa 18:00   | Werwolf              | Group Games Room |
 
 ### 1000 blank cards
 
