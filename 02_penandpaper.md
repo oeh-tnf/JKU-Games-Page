@@ -228,7 +228,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 
 ### 18:00
 
-| Adventure | Goblin Heist - A clever scheme|
+| Adventure | Goblin Heist - A clever scheme [COVER]|
 |---|---|
 | Language | English/Deutsch |
 | Game-Master | Julian [SeWiesa] |
