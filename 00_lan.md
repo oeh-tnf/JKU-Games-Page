@@ -47,7 +47,7 @@ Each game will be promoted for a four-hour timeslot. This is the planned schedul
 * You have to bring your own PC and gaming equipment!
 * Make sure to install large games you plan on playing beforehand to limit the strain on our infrastructure.
 * Your own powerstrip (Verteiler) might come in handy as well.
-* No need to bring anything for our VR- and Console-Area.
+* No need to bring anything for our <!-- VR- and -->Console-Area.
 
 <figure>
   <a class="img" href="/assets/images/lan/consoles.JPG">

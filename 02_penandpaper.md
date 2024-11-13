@@ -18,13 +18,26 @@ permalink: /penandpaper/
 
 ## Welcome, Traveller!
 
-In this year’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
+In this semester’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
 
 <a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
-Please sign up for only one game at this time, remaining spots will be available at the Infopoint on the Event.<br>
+Please **sign up for only one game** at this time, remaining spots will be available at the Infopoint on the Event.<br>
 You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)
 
+### Roomplan
+
+This semester our Pen & Paper games will take place in the following rooms:
+
+<figure>
+  <a class="img" href="/assets/images/PP_Raumplan.png">
+    <img src="/assets/images/PP_Raumplan.png" style="width: 95%; max-width: 1000px;"
+      alt="Pen & Paper Roomplan 2024W" />
+  </a>
+    <figcaption></figcaption>
+</figure>
+
+<!--
 <figure>
   <a class="img" href="/assets/images/dice/pen_and_paper.jpg">
     <img src="/assets/images/dice/pen_and_paper.jpg" style="width: 95%; max-width: 1000px;"
@@ -32,6 +45,7 @@ You can also contact some of the Game-Masters beforehand via <a class="dotted" h
   </a>
     <figcaption></figcaption>
 </figure>
+-->
 
 This is our schedule - check out our Discord server for spontaneous adventures and updates:
 
@@ -96,7 +110,7 @@ This is our schedule - check out our Discord server for spontaneous adventures a
 | Description | There is no fear as your life is fading away. You feel an unexpected comfort in the arms of the being that is taking your life. You experience a surprising calm as it all disappears. Drop by drop, it takes your fears, your worries, your dreams, your joy. - Then, your conscience vanishes, and all that’s left is blackness. - You open your eyes. There is a lingering feeling that something is missing, but something else immediately overrides it. It is an electric purr that stirs your senses awake. Coming back from Death is slow. You feel sluggish as you become aware of the room you are in, the company you share. Above and around you are slow swinging hunks of meat, like the bodies of that deathly migration. Beside you are others, also escaping Death’s shore. As you begin to sit up, you feel it for the first time: Hunger. And you know, somehow, as you experience the terrible pangs of this Hunger, that you are no longer human. -This is an introductory oneshot to Vampire the Masquerade, a system about personal and political horror where you play vampires in the modern world. As such, expect sensitive subject matter.|
 | Players | 2-5 |
 | Duration | 4 h |
-| Characters | bring your own level 5, contact GM for details |
+| Characters | pre generated, you don't need to bring anything |
 
 ### 22:00
 
