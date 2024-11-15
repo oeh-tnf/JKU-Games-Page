@@ -126,7 +126,7 @@ We understand the sudden feeling of dread and despair once the JKU Games are edg
 * **Game and Dine**: If you like good food and games (both the classical and especially the electronic kind), [Game and Dine](https://www.instagram.com/game_and_dine) has got you covered with playing nights, regulars' tables etc.! They are not paying us, we are just fans - say hi from us!
 * **External Partners**: Some of our external partners who provided activities at the JKU Games also have their own events. [Check them out!](/./about/#external-partners)
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
-* **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: We are already planning to have the next Games on 15.-17.11.2024!
+* **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: We are already planning to have the next Games on 02.05.-04.05.2025!
 
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our <a href="{{ site.discord_url }}">Discord Server</a>!
