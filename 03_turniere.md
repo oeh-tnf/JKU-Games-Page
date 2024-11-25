@@ -10,7 +10,7 @@ permalink: /tournaments/
 {% include notice.html %}
 
 ## Event time and Resting Period
-The JKU Games 2024S will take place from **Friday, 17.05. (16:00)** until **Sunday, 19.05. (06:00)**, for 38 hours non-stop.<br>
+The JKU Games 2024W will take place from **Friday, 15.11. (16:00)** until **Sunday, 17.11. (06:00)**, for 38 hours non-stop.<br>
 On Saturday from **04:00 to 10:00**, the JKU Games Orga team will have a **resting period** and operate at limited capacity. We'll use this time to clean up and prepare the next day, and might even catch an hour of sleep or two as well. <br>
 During this time, you can stay at the event and play games but you won't be able to get new ones from our Games Rental section. Our Infopoint will be staffed, but outages in our technical infrastructure might not be fixed as quickly. In other words: This is the perfect time to test our resting area or work on our giant puzzle.
 
