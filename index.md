@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: JKU GAMES 2024W
+landing-title: JKU GAMES 2025S
 description: {{ site.subtitle }}
 image: null
 author: null
