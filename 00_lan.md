@@ -6,9 +6,7 @@ nav-menu: true
 permalink: /lan/
 ---
 
-<!--
 {% include notice.html %}
--->
 
 ## Highlights of the LAN-Area
 * Room for up to 100 PCs
