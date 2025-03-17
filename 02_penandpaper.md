@@ -19,12 +19,15 @@ permalink: /penandpaper/
 
 ## Welcome, Traveller!
 
-In this semester’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be here on time!
+In this semester’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new 
+to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be 
+here on time!
 
-<a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
+<a href="https://pretix.eu/gamesjku/S25/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 Please **sign up for only one game** at this time, remaining spots will be available at the Infopoint on the Event.<br>
-You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}">Discord</a>! (IDs are in brackets after their Names)
+You can also contact some of the Game-Masters beforehand via <a class="dotted" href="{{ site.discord_url }}" target="_blank">Discord</a>! 
+(IDs are in brackets after their Names)
 
 ### Roomplan
 
@@ -48,7 +51,7 @@ This semester our Pen & Paper games will take place in the following rooms:
 </figure>
 -->
 
-This is our schedule - check out our Discord server for spontaneous adventures and updates:
+<br>This is our schedule - check out our Discord server for spontaneous adventures and updates:
 
 ## Friday
 

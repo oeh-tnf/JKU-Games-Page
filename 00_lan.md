@@ -10,13 +10,13 @@ permalink: /lan/
 
 ## Highlights of the LAN-Area
 * Room for up to 100 PCs
-* An ever-growing <!-- VR- and -->Console-Area
+* An ever-growing VR- and Console-Area
 * Try new games in the Game Dev Area
 
 We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely 
 sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have reserved a spot will be prioritized if spots run out.
 
-<a href="https://pretix.eu/gamesjku/W24/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
+<a href="https://pretix.eu/gamesjku/S25/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
 <figure>
   <a class="img" href="/assets/images/lan/lan_new.JPG">
@@ -45,7 +45,7 @@ Each game will be promoted for a four-hour timeslot. This is the planned schedul
 * You have to bring your own PC and gaming equipment!
 * Make sure to install large games you plan on playing beforehand to limit the strain on our infrastructure.
 * Your own powerstrip (Verteiler) might come in handy as well.
-* No need to bring anything for our <!-- VR- and -->Console-Area.
+* No need to bring anything for our VR- and Console-Area.
 
 <figure>
   <a class="img" href="/assets/images/lan/consoles.JPG">
@@ -56,4 +56,4 @@ Each game will be promoted for a four-hour timeslot. This is the planned schedul
 </figure>
 
 ## Discord
-During the Games, talk to your mates using our Discord Server: <a href="{{ site.discord_url }}"> Join us! </a> 
+During the Games, talk to your mates using our Discord Server: <a href="{{ site.discord_url }}" target="_blank"> Join us! </a> 
