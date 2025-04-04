@@ -8,7 +8,7 @@ permalink: /about/
 We are a group of students from the technical faculty branch of the student union (ÖH TNF), who love to play games. 
 In order to share this passion with others at JKU, we are organizing the JKU Games, a free gaming event that takes place 
 almost every semester. We can't take all the credit however, as this event builds on the experience and work of all the 
-organizers before us (after all, this is the 19th edition). Also, such an event would not be possible without so many 
+organizers before us (after all, this is the 21th edition). Also, such an event would not be possible without so many 
 other ÖH TNF members and friends supporting us during the event.
 
 <figure>

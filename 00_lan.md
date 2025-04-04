@@ -9,7 +9,7 @@ permalink: /lan/
 {% include notice.html %}
 
 ## Highlights of the LAN-Area
-* Room for up to 100 PCs
+* Room for up to <!-- 100 --> 75 PCs
 * An ever-growing VR- and Console-Area
 * Try new games in the Game Dev Area
 
