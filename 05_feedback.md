@@ -15,6 +15,12 @@ We are always looking to improve our events and appreciate any feedback we get: 
 These are some of the more recent pieces of advice we received in the past and how we have tried to implement them. 
 The date always indicates when we last changed stuff to address an issue.
 
+### Mistakes in communicated times | 2025 SoSe
+
+In the last JKU Games, we had some inconsistencies in the communicated times for some events.
+We have reworked our internal processes and now have people dedicated to be the "single point of truth",
+ensuring that all information on the Website, Discord and Printouts is consistent and up to date.
+
 ### More chairs in the LAN area | 2024 SoSe
 We have frequently received the feedback that the LAN area could use more chairs. We get the sentiment, sitting on a 
 bench for hours can be quite uncomfortable. We have been in talks with JKU and were able to find some more chairs we 
