@@ -5,12 +5,17 @@ description: Join us
 nav-menu: true
 permalink: /about/
 ---
+
+## Who are we?
 We are a group of students from the technical faculty branch of the student union (ÖH TNF), who love to play games. 
 In order to share this passion with others at JKU, we are organizing the JKU Games, a free gaming event that takes place 
 almost every semester. We can't take all the credit however, as this event builds on the experience and work of all the 
-organizers before us (after all, this is the 21th edition). Also, such an event would not be possible without so many 
+organizers before us (after all, this is the 21st edition). Also, such an event would not be possible without so many 
 other ÖH TNF members and friends supporting us during the event.
 
+{% include team.html %}
+
+<!--
 <figure>
   <a class="img" href="/assets/images/About us JKU Games Orga.png">
     <img src="/assets/images/About us JKU Games Orga.png" style="width: 95%; max-width: 1000px;"
@@ -18,6 +23,7 @@ other ÖH TNF members and friends supporting us during the event.
   </a>
     <figcaption></figcaption>
 </figure>
+-->
 
 You can find out more about the ÖH TNF and the other work we do by checking out 
 <a href="https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften" target="_blank">our website</a>!
