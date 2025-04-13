@@ -13,15 +13,15 @@ almost every semester. We can't take all the credit however, as this event build
 organizers before us (after all, this is the 21st edition). Also, such an event would not be possible without so many 
 other ÖH TNF members and friends supporting us during the event.
 
-<!--{% include team.html %}-->
+{% include team.html %}
 
-<figure>
+<!--<figure>
   <a class="img" href="/assets/images/About us JKU Games Orga.png">
     <img src="/assets/images/About us JKU Games Orga.png" style="width: 95%; max-width: 1000px;"
       alt="JKU Games Orga" />
   </a>
     <figcaption></figcaption>
-</figure>
+</figure>-->
 
 You can find out more about the ÖH TNF and the other work we do by checking out 
 <a href="https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften" target="_blank">our website</a>!
