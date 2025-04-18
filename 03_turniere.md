@@ -63,7 +63,7 @@ A switch console, controllers and the game are provided.
 This Lasertag App was developed at JKU from a Master AI Student. It easily enables you to play Lasertag with only your 
 phone - to see how it works just go on their [website](https://www.beamster.com/), and you will quickly learn to love it. 
 The developer itself will host the tournament which will be held in a Team-Deathmatch like setting.<br>
-You only need to bring your smartphone and install the app 
+You only need to bring your smartphone and install the app:
 - <a href="https://play.google.com/store/apps/details?id=com.beamster.Beamster" target="_blank">PlayStore</a>
 - <a href="https://apps.apple.com/at/app/beamster/id6503617397" target="_blank">AppStore</a>
 
