@@ -7,8 +7,6 @@ nav-menu: true
 permalink: /guide/
 ---
 
-{% include notice.html %}
-
 ## Roomplan
 <figure>
   <a class="img" href="/assets/images/Raumplan_JKU_Games_2024W.png">

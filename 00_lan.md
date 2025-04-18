@@ -6,8 +6,6 @@ nav-menu: true
 permalink: /lan/
 ---
 
-{% include notice.html %}
-
 ## Highlights of the LAN-Area
 * Room for up to <!-- 100 --> 75 PCs
 * An ever-growing VR- and Console-Area
