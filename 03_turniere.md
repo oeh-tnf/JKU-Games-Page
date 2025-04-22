@@ -67,7 +67,7 @@ You only need to bring your smartphone and install the app:
 - <a href="https://play.google.com/store/apps/details?id=com.beamster.Beamster" target="_blank">PlayStore</a>
 - <a href="https://apps.apple.com/at/app/beamster/id6503617397" target="_blank">AppStore</a>
 
-### Blobby Volley (LAN Area) - Saturday, 1am
+### Blobby Volley (Console Area) - Saturday, 1am
 <em>Volleyball, but with green, slimy blobs - i.e. the perfect past-midnight game and all-time classic at the Games.</em><br>
 We will play in a bracket system in an epic battle to the death.<br>
 If you are confused why you have never heard of this game, it was a bit more popular back in the Windows XP days.
