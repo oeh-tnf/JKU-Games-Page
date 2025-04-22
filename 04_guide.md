@@ -9,9 +9,9 @@ permalink: /guide/
 
 ## Roomplan
 <figure>
-  <a class="img" href="/assets/images/Raumplan_JKU_Games_2024W.png">
-    <img src="/assets/images/Raumplan_JKU_Games_2024W.png" style="width: 95%; max-width: 1000px;"
-      alt="Roomplan JKU Games 2024W" />
+  <a class="img" href="/assets/images/Raumplan_JKU_Games_2025S.png">
+    <img src="/assets/images/Raumplan_JKU_Games_2025S.png" style="width: 95%; max-width: 1000px;"
+      alt="Roomplan JKU Games 2025S" />
   </a>
     <figcaption></figcaption>
 </figure>

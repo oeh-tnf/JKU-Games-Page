@@ -34,21 +34,20 @@ You can also contact some of the Game-Masters beforehand via <a class="dotted" h
 (IDs are in brackets after their Names)
 
 
-<!--
 ### Roomplan
 
-This semester our Pen & Paper games will take place in the following rooms:
+This semester our Pen & Paper games will take place in rooms on the second floor of the Unicenter as well as the ground 
+floor of the Kepler Building:
 
 <figure>
-  <a class="img" href="/assets/images/PP_Raumplan.png">
-    <img src="/assets/images/PP_Raumplan.png" style="width: 95%; max-width: 1000px;"
-      alt="Pen & Paper Roomplan 2024W" />
+  <a class="img" href="/assets/images/PP_Raumplan_2025S.png">
+    <img src="/assets/images/PP_Raumplan_2025S.png" style="width: 95%; max-width: 1000px;"
+      alt="Pen & Paper Roomplan 2025S" />
   </a>
     <figcaption></figcaption>
 </figure>
--->
 
-
+<!--
 <figure>
   <a class="img" href="/assets/images/dice/pen_and_paper.jpg">
     <img src="/assets/images/dice/pen_and_paper.jpg" style="width: 95%; max-width: 1000px;"
@@ -56,6 +55,7 @@ This semester our Pen & Paper games will take place in the following rooms:
   </a>
     <figcaption></figcaption>
 </figure>
+-->
 
 <br>This is our schedule - check out our Discord server for spontaneous adventures and updates:
 
