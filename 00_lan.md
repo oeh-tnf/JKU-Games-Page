@@ -27,16 +27,16 @@ sure that you are not transporting your 50kg machine here in vain, you can grab 
 ## Promoted Games
 During the JKU Games, we want to promote a few games in the LAN section at specific timeslots. This should help make it feel more coherent and communal. 
 Furthermore, it makes finding allies and opponents to play with easier.<br>
-Each game will be promoted for a four-hour timeslot. This is the planned schedule:
+Each game will be promoted for a three to four hour timeslot. This is the planned schedule:
 
-| Start time | Game              |
-| ---------- | ----------------- |
-| Fr 17:00   | League of Legends |
-| Fr 21:00   | Valorant          |
-| Fr 23:00   | Among Us          |
-| Sa 17:00   | Counter-Strike    |
-| Sa 21:00   | Overwatch         |
-| Sa 23:00   | Among Us          |
+| Start time | Game                                                          |
+|------------|---------------------------------------------------------------|
+| Fr 17:00   | League of Legends                                             |
+| Fr 20:00   | Valorant                                                      |
+| Fr 23:00   | Unreal Tournament (2004)                                      |
+| Sa 17:00   | Counter-Strike                                                |
+| Sa 20:00   | Rocket League                                                 |
+| Su 00:00   | Star Wars Battlefront II (2005) - May the Fourth be with you! |
 
 ## To Bring
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
