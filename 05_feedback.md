@@ -8,12 +8,17 @@ permalink: /feedback/
 
 We are always looking to improve our events and appreciate any feedback we get: Tell us your thoughts using the button below!
 
-<a href="https://forms.gle/tc55AsELGN5pAWNC7" target="_blank" rel="noopener noreferrer" class="button img">Give Feedback</a>
+<a href="https://forms.gle/9cDe27Nu3Jatgb3h6" target="_blank" rel="noopener noreferrer" class="button img">Give Feedback</a>
 
 
 ## Changelog
 These are some of the more recent pieces of advice we received in the past and how we have tried to implement them. 
 The date always indicates when we last changed stuff to address an issue.
+
+### We would love to have a Just Dance Area | 2025 SoSe
+We have heard your cries and are happy to announce that we will have a Just Dance area this semester! To make sure that 
+the noise doesn't disturb the other areas, it will be places in its own room next to the Console area. In turn, we moved 
+the Resting Area up to the 2nd floor, so you can enjoy your break in peace and maybe even catch some sleep.
 
 ### Mistakes in communicated times | 2025 SoSe
 In the last JKU Games, we had some inconsistencies in the communicated times for some events.

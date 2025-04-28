@@ -34,14 +34,12 @@ special conditions.
 You will be informed about when the next order takes place at the event, we currently plan on placing orders at around 
 these times: <br>
 * FR, 18:00
-* FR, 19:00
-* FR, 20:00
-* FR, 21:00
+* FR, 19:30
+* FR, 20:50
 * SA, 12:00
 * SA, 18:00
-* SA, 19:00
-* SA, 20:00
-* SA, 21:00
+* SA, 19:30
+* SA, 20:50
 
 Please keep in mind that these pizza orders usually take about an hour to arrive.
 Note that this is just an approximate schedule subject to change. Check out the Pizza-Channel on 
@@ -169,7 +167,7 @@ They are not paying us, we are just fans - say hi from us!
 * **External Partners**: Some of our external partners who provided activities at the JKU Games also have their own events. [Check them out!](/./about/#external-partners)
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
 * **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: 
-We are already planning to have the next Games on 02.05.-04.05.2025!
+We are already planning to have the next Games on 05.12.-07.12.2025!
 
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our 

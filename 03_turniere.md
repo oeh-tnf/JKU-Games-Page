@@ -131,8 +131,8 @@ We look forward to an exciting and competitive chess tournament during the JKU G
 <em>You have as many tries as you want, but only one can be the fastest.</em><br>
 The quickest one to solve our 49 pieces JKU GAMES SS25-Puzzle will be awarded the title of "JKU GAMES SS25 Puzzle 
 Champion" as well as this year's jigsaw puzzle itself.<br>
-That's really all there is to say about it. The challenge will be available at the games rental desk from Friday 4pm 
-till Sunday 12am (midnight). After that we will contact the final record time holder and make sure you receive your prize.<br>
+That's really all there is to say about it. The challenge will be available in the puzzle area from Friday 4pm till 
+Sunday 12am (midnight). After that we will contact the final record time holder and make sure you receive your prize.<br>
 During the Event we will keep you updated about the current record time in the "speed-puzzle-challenge" text channel on 
 our discord.
 
