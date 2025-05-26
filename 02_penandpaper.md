@@ -7,7 +7,7 @@ nav-menu: true
 permalink: /penandpaper/
 ---
 
-<!-- {% include notice.html %} -->
+{% include notice.html %}
 
 <figure>
   <a class="img" href="/assets/images/dice/pen_and_paper_people.JPG">

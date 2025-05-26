@@ -7,6 +7,8 @@ nav-menu: true
 permalink: /dice/
 ---
 
+{% include notice.html %}
+
 <figure>
   <a class="img" href="/assets/images/dice/people_new.JPG">
     <img src="/assets/images/dice/people_new.JPG" style="width: 95%; max-width: 1000px;"
