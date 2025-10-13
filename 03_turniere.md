@@ -10,7 +10,7 @@ permalink: /tournaments/
 {% include notice.html %}
 
 ## Event time and Resting Period
-The JKU Games 2025S will take place from **Friday, 02.05. (16:00)** until **Sunday, 04.05. (06:00)**, for 38 hours 
+The JKU Games 2025W will take place from **Friday, 05.12. (16:00)** until **Sunday, 07.12. (06:00)**, for 38 hours 
 non-stop.<br>
 On Saturday from **04:00 to 10:00**, the JKU Games Orga team will have a **resting period** and operate at limited 
 capacity. We'll use this time to clean up and prepare the next day, and might even catch an hour of sleep or two as 
@@ -129,7 +129,7 @@ We look forward to an exciting and competitive chess tournament during the JKU G
 
 ### Speed-Puzzle Challenge
 <em>You have as many tries as you want, but only one can be the fastest.</em><br>
-The quickest one to solve our 49 pieces JKU GAMES SS25-Puzzle will be awarded the title of "JKU GAMES SS25 Puzzle 
+The quickest one to solve our 49 pieces JKU GAMES WS25-Puzzle will be awarded the title of "JKU GAMES WS25 Puzzle 
 Champion" as well as this year's jigsaw puzzle itself.<br>
 That's really all there is to say about it. The challenge will be available in the puzzle area from Friday 4pm till 
 Sunday 12am (midnight). After that we will contact the final record time holder and make sure you receive your prize.<br>

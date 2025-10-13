@@ -22,7 +22,7 @@ the Resting Area up to the 2nd floor, so you can enjoy your break in peace and m
 
 ### Mistakes in communicated times | 2025 SoSe
 In the last JKU Games, we had some inconsistencies in the communicated times for some events.
-We have reworked our internal processes and now have people dedicated to be the "single point of truth",
+We have reworked our internal processes and now have documents and people dedicated to be the "single point of truth",
 ensuring that all information on the Website, Discord and Printouts is consistent and up to date.
 
 ### More chairs in the LAN area | 2024 SoSe
