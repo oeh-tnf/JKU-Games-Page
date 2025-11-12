@@ -7,7 +7,7 @@ nav-menu: true
 permalink: /tournaments/
 ---
 
-{% include notice.html %}
+<!--{% include notice.html %}-->
 
 ## Event time and Resting Period
 The JKU Games 2025W will take place from **Friday, 05.12. (16:00)** until **Sunday, 07.12. (06:00)**, for 38 hours 
@@ -33,20 +33,20 @@ Compete for glory and fame (and little goodies) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and 
 guarantees you to get a spot. Left-over spots can also be booked during the event as well.
 
-<a href="https://pretix.eu/gamesjku/S25/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
+**Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
+
+<a href="https://pretix.eu/gamesjku/W25/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 
-| Start time | Location        | Game                       |
-|------------|-----------------|----------------------------|
-| Fr 18:00   | Console Area    | Mario Kart                 |
-| Fr 21:30   | Kepler Building | Beamster                   |
-| Sa 01:00   | Console Area    | Blobby Volley              |
-| Sa 16:00   | Dice Area       | Uno Flip!                  |
-| Sa 17:30   | Dice Area       | Phase10                    |
-| Sa 18:00   | Console Area    | Super Smash Bros. Ultimate |
-| Sa 20:00   | LAN Area        | Minecraft Hunger Games     |
-| Sa 20:00   | Dice Area       | Poker                      |
-| Su 02:00   | Dice Area       | Staring Contest            |
+| Start time | Location     | Game                       |
+|------------|--------------|----------------------------|
+| Fr 18:00   | Console Area | Mario Kart                 |
+| Fr 19:30   | LAN          | OpenGuessr                 |
+| Fr 21:00   | LAN          | League of Legends          |
+| Sa 16:00   | Dice Area    | Uno Flip!                  |
+| Sa 18:00   | Console Area | Super Smash Bros. Ultimate |
+| Sa 20:00   | LAN Area     | Minecraft Hunger Games     |
+| Su 02:00   | Dice Area    | Staring Contest            |
 
 Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes 
 before, you may be substituted from the tournament.
@@ -58,32 +58,23 @@ announced on Discord, lists are also available at the Info-Point.<br>
 At 20:00, we will have the grand finale of all group winners.<br>
 A switch console, controllers and the game are provided.
 
-### Beamster (Kepler Building) - Friday, 9.30pm
-<em>Gotcha!</em><br>
-This Lasertag App was developed at JKU from a Master AI Student. It easily enables you to play Lasertag with only your 
-phone - to see how it works just go on their [website](https://www.beamster.com/), and you will quickly learn to love it. 
-The developer itself will host the tournament which will be held in a Team-Deathmatch like setting.<br>
-You only need to bring your smartphone and install the app:
-- <a href="https://play.google.com/store/apps/details?id=com.beamster.Beamster" target="_blank">PlayStore</a>
-- <a href="https://apps.apple.com/at/app/beamster/id6503617397" target="_blank">AppStore</a>
+### OpenGuessr (LAN Area) - Friday, 7.30pm
+<em>Do you know where you are? Let's hope the street view car was not having a bad day.</em><br>
+In this tournament, you will be placed in random locations around the world using Street View. Your task is to
+figure out where you are and place a marker on the map as accurately as possible. The player with the lowest total distance
+from the actual locations across all rounds wins the tournament.<br>
 
-### Blobby Volley (Console Area) - Saturday, 1am
-<em>Volleyball, but with green, slimy blobs - i.e. the perfect past-midnight game and all-time classic at the Games.</em><br>
-We will play in a bracket system in an epic battle to the death.<br>
-If you are confused why you have never heard of this game, it was a bit more popular back in the Windows XP days.
-The necessary software will therefore be pre-installed on the tournament computers.
+### League of Legends (LAN Area) - Friday, 9pm
+<em>Welcome to Summoner's Rift!</em><br>
+The mode will be determined based on the number of participants.
+Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load 
+on our network.
 
 ### UNO Flip! (Dice Area) - Saturday, 4pm
 <em>UNO, but they accidentally printed both sides of the cards. It's the classical game, but with a little twist (or 
 dare I say "Flip"?)</em><br>
 We will play in a bracket system consisting of several groups playing each other. First to get rid of their cards 
 advances to the next round.<br>
-We will provide you with the game (and rules).
-
-### Phase10 (Dice Area) - Saturday, 5.30pm
-<em>Prepare for a game of wits, luck, and strategic card play in the Phase 10 Tournament! Will you advance swiftly 
-through the phases, or be left scrambling to catch up?</em><br>
-We will play one round, depending on the amount of players with two decks at once.<br>
 We will provide you with the game (and rules).
 
 ### Super Smash Bros Ultimate (Console Area) - Saturday, 6pm
@@ -102,10 +93,6 @@ Three rounds will be played. In the first two rounds, the top half of players wi
 round will determine the winner of the tournament.<br>
 Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load 
 on our network.
-
-### Poker (Dice Area) - Saturday, 8pm
-<em>Test your luck and your poker face in this classic card game.</em><br>
-It is Poker, is there anything else to say? (Obviously we don't play with real stakes)
 
 ### Staring Contest (Dice Area) - Sunday, 2am
 <em>Especially enticing for all that have stayed up throughout the whole event, this game will force you to stay awake.</em><br>

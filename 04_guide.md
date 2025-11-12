@@ -11,9 +11,9 @@ permalink: /guide/
 
 ## Roomplan
 <figure>
-  <a class="img" href="/OLD/Raumplan_JKU_Games_2025S.png">
-    <img src="/OLD/Raumplan_JKU_Games_2025S.png" style="width: 95%; max-width: 1000px;"
-      alt="Roomplan JKU Games 2025S" />
+  <a class="img" href="/assets/images/Roomplan_JKU_Games_2025W.png">
+    <img src="/assets/images/Roomplan_JKU_Games_2025W.png" style="width: 95%; max-width: 1000px;"
+      alt="Roomplan JKU Games 2025W" />
   </a>
     <figcaption></figcaption>
 </figure>
@@ -169,7 +169,7 @@ They are not paying us, we are just fans - say hi from us!
 * **External Partners**: Some of our external partners who provided activities at the JKU Games also have their own events. [Check them out!](/./about/#external-partners)
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
 * **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: 
-We are already planning to have the next Games on 05.12.-07.12.2025!
+We are already planning to have the next Games on 01.05.-03.05.2026!
 
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our 

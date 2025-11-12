@@ -6,17 +6,19 @@ nav-menu: true
 permalink: /lan/
 ---
 
-{% include notice.html %}
+<!-- {% include notice.html %} -->
 
 ## Highlights of the LAN-Area
-* Room for up to <!-- 100 --> 75 PCs
+* Room for up to <!-- 100 --> 60 PCs
 * An ever-growing VR- and Console-Area
 * Try new games in the Game Dev Area
 
 We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely 
 sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have reserved a spot will be prioritized if spots run out.
 
-<a href="https://pretix.eu/gamesjku/S25/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
+**Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
+
+<a href="https://pretix.eu/gamesjku/W25/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
 <figure>
   <a class="img" href="/assets/images/lan/lan_new.JPG">
@@ -33,12 +35,10 @@ Each game will be promoted for a three to four hour timeslot. This is the planne
 
 | Start time | Game                                                          |
 |------------|---------------------------------------------------------------|
-| Fr 17:00   | League of Legends                                             |
-| Fr 20:00   | Valorant                                                      |
-| Fr 23:00   | Unreal Tournament (2004)                                      |
+| Fr 17:00   | Valorant                                                      |
+| Fr 23:00   | Overwatch                                                     |
 | Sa 17:00   | Counter-Strike                                                |
 | Sa 20:00   | Rocket League                                                 |
-| Su 00:00   | Star Wars Battlefront II (2005) - May the Fourth be with you! |
 
 ## To Bring
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
