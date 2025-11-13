@@ -40,7 +40,7 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 
 | Start time | Location     | Game                       |
 |------------|--------------|----------------------------|
-| Fr 18:00   | Console Area | Mario Kart                 |
+| Fr 17:30   | Console Area | Mario Kart                 |
 | Fr 19:30   | LAN          | OpenGuessr                 |
 | Fr 21:00   | LAN          | League of Legends          |
 | Sa 16:00   | Dice Area    | Uno Flip!                  |
@@ -51,24 +51,20 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes 
 before, you may be substituted from the tournament.
 
-### Mario Kart 8 Deluxe (Console Area) - Friday, 6pm
+### Mario Kart 8 Deluxe (Console Area) - Friday, 5.30pm
 <em>Race around in circles in whimsical vehicles, get all the power-ups and knock your enemies off the track.</em><br>
-A new Grand Prix will take place every 20 Minutes, starting at 18:00 - the timeslots of the individual players will be 
+A new Grand Prix will take place every 20 Minutes, starting at 17:30 - the timeslots of the individual players will be 
 announced on Discord, lists are also available at the Info-Point.<br>
 At 20:00, we will have the grand finale of all group winners.<br>
 A switch console, controllers and the game are provided.
 
-### OpenGuessr (LAN Area) - Friday, 7.30pm
+### GeoGuessr Alternative: OpenGuessr (LAN Area) - Friday, 7.30pm
 <em>Do you know where you are? Let's hope the street view car was not having a bad day.</em><br>
 In this tournament, you will be placed in random locations around the world using Street View. Your task is to
-figure out where you are and place a marker on the map as accurately as possible. The player with the lowest total distance
-from the actual locations across all rounds wins the tournament.<br>
-
-### League of Legends (LAN Area) - Friday, 9pm
-<em>Welcome to Summoner's Rift!</em><br>
-The mode will be determined based on the number of participants.
-Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load 
-on our network.
+figure out where you are, place a marker on the map as accurately as possible and collect points based on the 
+distance to the actual location. The players will be placed in groups and the best two of each group will move on to 
+the next round.<br>
+Please bring a suitable device with internet access to participate.
 
 ### UNO Flip! (Dice Area) - Saturday, 4pm
 <em>UNO, but they accidentally printed both sides of the cards. It's the classical game, but with a little twist (or 
