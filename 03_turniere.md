@@ -42,7 +42,6 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 |------------|--------------|----------------------------|
 | Fr 17:30   | Console Area | Mario Kart                 |
 | Fr 19:30   | LAN          | OpenGuessr                 |
-| Fr 21:00   | LAN          | League of Legends          |
 | Sa 16:00   | Dice Area    | Uno Flip!                  |
 | Sa 18:00   | Console Area | Super Smash Bros. Ultimate |
 | Sa 20:00   | LAN Area     | Minecraft Hunger Games     |
