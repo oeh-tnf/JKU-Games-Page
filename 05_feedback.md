@@ -15,6 +15,11 @@ We are always looking to improve our events and appreciate any feedback we get: 
 These are some of the more recent pieces of advice we received in the past and how we have tried to implement them. 
 The date always indicates when we last changed stuff to address an issue.
 
+### It's hard to find fellow board gamers | 2025 WiSe
+You wished for a way to find other board gamers more easily, so we have created a dedicated LFP - Looking for Players Role
+on our Discord. Simply use the reaction in the Board Games channel to get notified when others are looking for players! 
+Feel free to ping it yourself if you are looking for more players for your game.
+
 ### We would love to have a Just Dance Area | 2025 SoSe
 We have heard your cries and are happy to announce that we will have a Just Dance area this semester! To make sure that 
 the noise doesn't disturb the other areas, it will be places in its own room next to the Console area. In turn, we moved 

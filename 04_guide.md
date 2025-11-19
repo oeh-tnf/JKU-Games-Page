@@ -7,7 +7,7 @@ nav-menu: true
 permalink: /guide/
 ---
 
-{% include notice.html %}
+<!-- {% include notice.html %} -->
 
 ## Roomplan
 <figure>
@@ -163,9 +163,6 @@ we as the organizers also get more time to enjoy the event ourselves!
 ### The Games are over, what do I do now?!
 We understand the sudden feeling of dread and despair once the JKU Games are edging closer towards their last hour. 
 Fortunately, there are some other ways the spirit of the Games can stay with you until the next edition can be celebrated!
-* **Game and Dine**: If you like good food and games (both the classical and especially the electronic kind), 
-[Game and Dine](https://www.instagram.com/game_and_dine) has got you covered with playing nights, regulars' tables etc.! 
-They are not paying us, we are just fans - say hi from us!
 * **External Partners**: Some of our external partners who provided activities at the JKU Games also have their own events. [Check them out!](/./about/#external-partners)
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
 * **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: 
