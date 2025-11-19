@@ -41,9 +41,10 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 | Start time | Location     | Game                       |
 |------------|--------------|----------------------------|
 | Fr 17:30   | Console Area | Mario Kart                 |
-| Fr 19:30   | LAN          | OpenGuessr                 |
+| Fr 19:30   | LAN Area     | OpenGuessr                 |
 | Sa 16:00   | Dice Area    | Uno Flip!                  |
 | Sa 18:00   | Console Area | Super Smash Bros. Ultimate |
+| Sa 18:30   | LAN Area     | Empty Epsilon Fermi 500    |
 | Sa 20:00   | LAN Area     | Minecraft Hunger Games     |
 | Su 02:00   | Dice Area    | Staring Contest            |
 
@@ -76,6 +77,14 @@ We will provide you with the game (and rules).
 <em>Smash your buttons and Brawl your way through Super combos in this Ultimate fighting game between Bros.</em><br>
 Depending on the amount of sign-ups, we will play 1v1s / 2v2s ... in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
+
+### Empty Epsilon Fermi 500 (LAN Area) - Saturday, 6.30pm
+<em>Pilot your spaceship through a dangerous racecourse in this thrilling Empty Epsilon tournament!</em><br>
+Be the fastest to complete the course and win the race in space. Depending on the number of registrations the crews 
+will either be split up for two races where the best ones will compete in a final race or there will be two runs for 
+everyone and the best combined time will win.<br>
+You need to sign up as a two-player crew (pilot + engineer).<br>
+The hardware and the game will be provided.
 
 ### Minecraft Hunger Games (LAN Area) - Saturday, 8pm
 <em>Happy Hunger Games! And may the odds be ever in your favour.</em><br>
