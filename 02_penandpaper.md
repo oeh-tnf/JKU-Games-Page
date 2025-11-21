@@ -26,7 +26,7 @@ to the game, we have got you covered! If you want to join an adventure, get a ti
 here on time! Please **sign up for only one game** at this time, remaining spots will be available at the Infopoint on 
 the Event.<br>
 
-**Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
+<!-- **Note: The ticket shop has not yet opened. Check back regularly to not miss anything.** -->
 
 <a href="https://pretix.eu/gamesjku/W25/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 

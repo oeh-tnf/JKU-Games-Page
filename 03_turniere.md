@@ -33,7 +33,7 @@ Compete for glory and fame (and little goodies) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and 
 guarantees you to get a spot. Left-over spots can also be booked during the event as well.
 
-**Note: The ticket shop has not yet opened. Check back regularly to not miss anything.**
+<!-- **Note: The ticket shop has not yet opened. Check back regularly to not miss anything.** -->
 
 <a href="https://pretix.eu/gamesjku/W25/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
