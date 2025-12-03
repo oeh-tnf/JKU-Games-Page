@@ -49,4 +49,5 @@ of them also host their own events and activities, so please check them out!
 * **JKU Chess Club**: If you are into chess, check out the [JKU Chess Club](https://discord.gg/q2aHA7gPp3) and visit their regular meetups!
 * **Game Dev Linz**: At this JKU Games, some Game Developers gave you a chance to try their current projects - if you are interested in game development, you can join the [Game Dev Linz](https://www.meetup.com/gamedev-linz/) meetups!
 * **Game Store Linz**: If you enjoyed our MTG events, make sure to check out the [Game Store](https://magic-linz.at/) for more regular tournaments!
-* **TCG Steyr**: In the past, our TableTop Games were organized with [TCG Steyr](https://www.icg-steyr.at/) - if you are into Warhammer, MTG, Pen and Paper etc., check them out!
+* **ICG Steyr**: In the past, our TableTop Games were organized with [TCG Steyr](https://www.icg-steyr.at/) - if you are into Warhammer, MTG, Pen and Paper etc., check them out!
+* **JKU Racing Team**: If you are interested in designing, building and racing an electric vehicle, you should join the [JKU Racing Team](https://jkuracing.at/)!

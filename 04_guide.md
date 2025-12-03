@@ -31,7 +31,7 @@ Coffee is not for you, but you could still use a boost?<br>
 -->
 
 #### Pizza
-Periodically, we will also organize a Pizza delivery call to <a href="https://bella-casa.at/" target="_blank">Bella Casa</a> with 
+Periodically, we will also organize a Pizza delivery call to <a href="https://www.instagram.com/pizzamiamore_/" target="_blank">Mi Amore</a> with 
 special conditions.
 You will be informed about when the next order takes place at the event, we currently plan on placing orders at around 
 these times: <br>
