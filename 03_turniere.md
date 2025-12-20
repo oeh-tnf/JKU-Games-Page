@@ -7,7 +7,7 @@ nav-menu: true
 permalink: /tournaments/
 ---
 
-<!--{% include notice.html %}-->
+{% include notice.html %}
 
 ## Event time and Resting Period
 The JKU Games 2025W will take place from **Friday, 05.12. (16:00)** until **Sunday, 07.12. (06:00)**, for 38 hours 

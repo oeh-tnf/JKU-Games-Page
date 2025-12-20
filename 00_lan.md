@@ -6,10 +6,10 @@ nav-menu: true
 permalink: /lan/
 ---
 
-<!-- {% include notice.html %} -->
+{% include notice.html %}
 
 ## Highlights of the LAN-Area
-* Room for up to <!-- 100 --> 60 PCs
+* Room for up to 60 PCs
 * An ever-growing VR- and Console-Area
 * Try new games in the Game Dev Area
 

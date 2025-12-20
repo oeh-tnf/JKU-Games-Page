@@ -7,7 +7,7 @@ nav-menu: true
 permalink: /guide/
 ---
 
-<!-- {% include notice.html %} -->
+{% include notice.html %}
 
 ## Roomplan
 <figure>
