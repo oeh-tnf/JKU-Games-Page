@@ -21,9 +21,9 @@ sure that you are not transporting your 50kg machine here in vain, you can grab 
 <a href="https://pretix.eu/gamesjku/W25/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
 <figure>
-  <a class="img" href="/assets/images/lan/lan_new.JPG">
-    <img src="/assets/images/lan/lan_new.JPG" style="width: 95%; max-width: 1000px;"
-      alt="Panorama of the lan area 2023" />
+  <a class="img" href="/assets/images/lan/Spaceship_Simulator.jpg">
+    <img src="/assets/images/lan/Spaceship_Simulator.jpg" style="width: 95%; max-width: 1000px;"
+      alt="Spaceship Simulator 2025" />
   </a>
     <figcaption></figcaption>
 </figure>
@@ -40,6 +40,14 @@ Each game will be promoted for a three to four hour timeslot. This is the planne
 | Sa 17:00   | Counter-Strike                                                |
 | Sa 20:00   | Rocket League                                                 |
 
+<figure>
+  <a class="img" href="/assets/images/lan/LAN.jpg">
+    <img src="/assets/images/lan/LAN.jpg" style="width: 95%; max-width: 1000px;"
+      alt="Panorama of the lan area 2025" />
+  </a>
+    <figcaption></figcaption>
+</figure>
+
 ## To Bring
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
 * You have to bring your own PC and gaming equipment!
@@ -48,8 +56,8 @@ Each game will be promoted for a three to four hour timeslot. This is the planne
 * No need to bring anything for our VR- and Console-Area.
 
 <figure>
-  <a class="img" href="/assets/images/lan/consoles.JPG">
-    <img src="/assets/images/lan/consoles.JPG" style="width: 95%; max-width: 1000px;"
+  <a class="img" href="/assets/images/lan/Console.jpg">
+    <img src="/assets/images/lan/Console.jpg" style="width: 95%; max-width: 1000px;"
       alt="People playing in the console area" />
   </a>
     <figcaption></figcaption>

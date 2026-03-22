@@ -10,7 +10,7 @@ permalink: /about/
 We are a group of students from the technical faculty branch of the student union (ÖH TNF), who love to play games. 
 In order to share this passion with others at JKU, we are organizing the JKU Games, a free gaming event that takes place 
 almost every semester. We can't take all the credit however, as this event builds on the experience and work of all the 
-organizers before us (after all, this is the 22nd edition). Also, such an event would not be possible without so many 
+organizers before us (after all, this is the 23rd edition). Also, such an event would not be possible without so many 
 other ÖH TNF members and friends supporting us during the event.
 
 {% include team.html %}
@@ -38,8 +38,8 @@ If you can assist us at the event, simply hit us up via [games@oeh.jku.at](mailt
 
 If you are thinking about joining your student union and organizing events like this more regularly (among many other 
 interesting jobs), feel free to hit up your 
-<a class='dotted' href="https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften" target="_blank">student union</a> directly or to 
-contact us via [tnf@oeh.jku.at](mailto:tnf@oeh.jku.at) - we will forward you to the right people!
+<a class='dotted' href="https://oeh.jku.at/abschnitte/technik-und-naturwissenschaften" target="_blank">student union</a> 
+directly or to contact us via [tnf@oeh.jku.at](mailto:tnf@oeh.jku.at) - we will forward you to the right people!
 
 ## External Partners
 We usually have cooperations with external partners at our events who bring their own expertise and gaming spirit. Many 
@@ -49,5 +49,5 @@ of them also host their own events and activities, so please check them out!
 * **JKU Chess Club**: If you are into chess, check out the [JKU Chess Club](https://discord.gg/q2aHA7gPp3) and visit their regular meetups!
 * **Game Dev Linz**: At this JKU Games, some Game Developers gave you a chance to try their current projects - if you are interested in game development, you can join the [Game Dev Linz](https://www.meetup.com/gamedev-linz/) meetups!
 * **Game Store Linz**: If you enjoyed our MTG events, make sure to check out the [Game Store](https://magic-linz.at/) for more regular tournaments!
-* **ICG Steyr**: In the past, our TableTop Games were organized with [TCG Steyr](https://www.icg-steyr.at/) - if you are into Warhammer, MTG, Pen and Paper etc., check them out!
+* **ICG Steyr**: In the past, our TableTop Games were organized with [ICG Steyr](https://www.icg-steyr.at/) - if you are into Warhammer, MTG, Pen and Paper etc., check them out!
 * **JKU Racing Team**: If you are interested in designing, building and racing an electric vehicle, you should join the [JKU Racing Team](https://jkuracing.at/)!

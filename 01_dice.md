@@ -8,8 +8,8 @@ permalink: /dice/
 ---
 
 <figure>
-  <a class="img" href="/assets/images/dice/people_new.JPG">
-    <img src="/assets/images/dice/people_new.JPG" style="width: 95%; max-width: 1000px;"
+  <a class="img" href="/assets/images/dice/Dice.jpg">
+    <img src="/assets/images/dice/Dice.jpg" style="width: 95%; max-width: 1000px;"
       alt="A lot of people playing board games in the Uni Center" />
   </a>
     <figcaption></figcaption>
@@ -24,9 +24,9 @@ permalink: /dice/
 * Compete in exciting [Tournaments](/./tournaments).
 
 <figure>
-  <a class="img" href="/assets/images/dice/games_collection_new.jpg">
-    <img src="/assets/images/dice/games_collection_new.jpg" style="width: 95%; max-width: 1000px;"
-      alt="Some of our games" />
+  <a class="img" href="/assets/images/dice/Dice_Area_Collage.jpg">
+    <img src="/assets/images/dice/Dice_Area_Collage.jpg" style="width: 95%; max-width: 1000px;"
+      alt="Collage of Werwolf group game, decorations, puzzle, Warhammer and chess" />
   </a>
     <figcaption></figcaption>
 </figure>
@@ -76,11 +76,3 @@ New rounds are planned to start every two hours on the hour and will be announce
 * Own games when needed.
 * Fun, Fairness and Friends.
 * Your old Werewolf Bingos if you still have them.
-
-<figure>
-  <a class="img" href="/assets/images/dice/ww_deco_puzzle_chess.jpg">
-    <img src="/assets/images/dice/ww_deco_puzzle_chess.jpg" style="width: 95%; max-width: 1000px;"
-      alt="Collage of Werwolf group game, decorations, puzzle and chess" />
-  </a>
-    <figcaption></figcaption>
-</figure>
