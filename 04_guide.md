@@ -11,9 +11,9 @@ permalink: /guide/
 
 ## Roomplan
 <figure>
-  <a class="img" href="/assets/images/Roomplan_JKU_Games_2025W.png">
-    <img src="/assets/images/Roomplan_JKU_Games_2025W.png" style="width: 95%; max-width: 1000px;"
-      alt="Roomplan JKU Games 2025W" />
+  <a class="img" href="/assets/images/Roomplan_JKU_Games_2026S.png">
+    <img src="/assets/images/Roomplan_JKU_Games_2026S.png" style="width: 95%; max-width: 1000px;"
+      alt="Roomplan JKU Games 2026S" />
   </a>
     <figcaption></figcaption>
 </figure>
@@ -60,9 +60,9 @@ Open on Friday, 17:00-02:00.
 -->
 
 #### More Food
-**NOTE**: The 1st of May is a public holiday, so some places, especially supermarkets, might be closed. Please check the opening hours before you go!
-
 Some selected other food opportunities nearby:
+
+**NOTE**: The 1st of May is a **public holiday**, so some places, especially supermarkets, might be **closed**. Please check the opening hours before you go!
 
 * Supermarkets:
   * Spar JKU Campus: Friday 07:30-18:00
