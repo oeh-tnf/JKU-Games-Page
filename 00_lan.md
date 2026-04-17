@@ -6,28 +6,21 @@ nav-menu: true
 permalink: /lan/
 ---
 
-{% include notice.html %}
-
 ## Highlights of the LAN-Area
 * Room for up to 60 PCs
 * An ever-growing VR- and Console-Area
 * Try new games in the Game Dev Area
 
 We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely 
-sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have reserved a spot will be prioritized if spots run out.
+sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have 
+reserved a spot will be prioritized if spots run out.
 
-<!-- **Note: The ticket shop has not yet opened. Check back regularly to not miss anything.** -->
+**Note: The ticket shop has not yet opened. Check back regularly to not miss anything. We will also announce the start
+of the ticket shop on Discord.**
 
-<a href="https://pretix.eu/gamesjku/W25/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
+<a href="https://pretix.eu/gamesjku/S26/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
-<figure>
-  <a class="img" href="/assets/images/lan/Spaceship_Simulator.jpg">
-    <img src="/assets/images/lan/Spaceship_Simulator.jpg" style="width: 95%; max-width: 1000px;"
-      alt="Spaceship Simulator 2025" />
-  </a>
-    <figcaption></figcaption>
-</figure>
-
+<!--
 ## Promoted Games
 During the JKU Games, we want to promote a few games in the LAN section at specific timeslots. This should help make it feel more coherent and communal. 
 Furthermore, it makes finding allies and opponents to play with easier.<br>
@@ -39,6 +32,7 @@ Each game will be promoted for a three to four hour timeslot. This is the planne
 | Fr 23:00   | Overwatch                                                     |
 | Sa 17:00   | Counter-Strike                                                |
 | Sa 20:00   | Rocket League                                                 |
+-->
 
 <figure>
   <a class="img" href="/assets/images/lan/LAN.jpg">

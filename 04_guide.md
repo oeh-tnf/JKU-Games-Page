@@ -11,9 +11,9 @@ permalink: /guide/
 
 ## Roomplan
 <figure>
-  <a class="img" href="/assets/images/Roomplan_JKU_Games_2025W.png">
-    <img src="/assets/images/Roomplan_JKU_Games_2025W.png" style="width: 95%; max-width: 1000px;"
-      alt="Roomplan JKU Games 2025W" />
+  <a class="img" href="/assets/images/Roomplan_JKU_Games_2026S.png">
+    <img src="/assets/images/Roomplan_JKU_Games_2026S.png" style="width: 95%; max-width: 1000px;"
+      alt="Roomplan JKU Games 2026S" />
   </a>
     <figcaption></figcaption>
 </figure>
@@ -48,6 +48,7 @@ Note that this is just an approximate schedule subject to change. Check out the 
 <a href="{{ site.discord_url }}" target="_blank">Discord</a> to receive live updates.<br>
 You can only pay in cash, but don't worry, there is an ATM nearby.
 
+<!--
 #### LUI
 The Linzer Uni Inn, the Student Union's bar, will be open on Friday. They are conveniently located in the same building: 
 You can get a drink and some snacks there as well, and play Billiards or Darts. Check out their 
@@ -56,9 +57,12 @@ You can get a drink and some snacks there as well, and play Billiards or Darts. 
 for more information.
 
 Open on Friday, 17:00-02:00.
+-->
 
 #### More Food
 Some selected other food opportunities nearby:
+
+**NOTE**: The 1st of May is a **public holiday**, so some places, especially supermarkets, might be **closed**. Please check the opening hours before you go!
 
 * Supermarkets:
   * Spar JKU Campus: Friday 07:30-18:00
@@ -166,7 +170,7 @@ Fortunately, there are some other ways the spirit of the Games can stay with you
 * **External Partners**: Some of our external partners who provided activities at the JKU Games also have their own events. [Check them out!](/./about/#external-partners)
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
 * **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: 
-We are already planning to have the next Games on 01.05.-03.05.2026!
+We are already planning to have the next Games on 11.12.-13.12.2026!
 
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our 
