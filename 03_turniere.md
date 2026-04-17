@@ -43,11 +43,11 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 |------------|--------------|----------------------------|
 | Fr 17:30   | Console Area | Mario Kart                 |
 | Fr 19:30   | LAN Area     | OpenGuessr                 |
-| Fr 20:30   | Dice Area    | Poker                      |
-| Sa 16:00   | Dice Area    | Phase 10                   |
-| Sa 17:00   | Dice Area    | Uno Flip!                  |
+| Fr 20:30   | Boardgame Area    | Poker                      |
+| Sa 16:00   | Boardgame Area    | Phase 10                   |
+| Sa 17:00   | Boardgame Area    | Uno Flip!                  |
 | Sa 18:00   | Console Area | Super Smash Bros. Ultimate |
-| Sa 19:00   | Dice Area    | Anime Music Quiz           |
+| Sa 19:00   | Just Dance Area    | Anime Music Quiz           |
 | Sa 20:00   | LAN Area     | Minecraft Hunger Games     |
 
 Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes 
@@ -68,18 +68,18 @@ distance to the actual location. The players will be placed in groups and the be
 the next round.<br>
 Please bring a suitable device with internet access to participate.
 
-### Poker (Dice Area) - Friday, 8.30pm
+### Poker (Boardgame Area) - Friday, 8.30pm
 <em>Test your luck and your poker face in this classic card game.</em><br>
 It is Poker, is there anything else to say? (Obviously we don't play with real stakes)<br>
 We will provide you with the game.
 
-### Phase10 (Dice Area) - Saturday, 4pm
+### Phase10 (Boardgame Area) - Saturday, 4pm
 <em>Prepare for a game of wits, luck, and strategic card play in the Phase 10 Tournament! Will you advance swiftly 
 through the phases, or be left scrambling to catch up?</em><br>
 We will play one round, depending on the amount of players with two decks at once.<br>
 We will provide you with the game (and rules).
 
-### UNO Flip! (Dice Area) - Saturday, 5pm
+### UNO Flip! (Boardgame Area) - Saturday, 5pm
 <em>UNO, but they accidentally printed both sides of the cards. It's the classical game, but with a little twist (or 
 dare I say "Flip"?)</em><br>
 We will play in a bracket system consisting of several groups playing each other. First to get rid of their cards 
@@ -91,8 +91,9 @@ We will provide you with the game (and rules).
 Depending on the amount of sign-ups, we will play 1v1s / 2v2s ... in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
 
-### Anime Music Quiz (Dice Area) - Saturday, 7pm
-<em>TBA</em>
+### Anime Music Quiz (Just Dance Area) - Saturday, 7pm
+<em>Gotta catch em all!</em>
+Inspired from the website of the same name and multiple Anime sound quizzes on conventions, there will be a tournament to find out who knows most about anime music. The songs are chosen out of all existing music, openings, endings and midroll as well, so be ready for a broad mix from the most popular shounen to niche gems only the most well versed fans will know. After 15 seconds of music, you get around 15 seconds of thinking time to lock in your choice, so let's put your knowledge to the test!
 
 ### Minecraft Hunger Games (LAN Area) - Saturday, 8pm
 <em>Happy Hunger Games! And may the odds be ever in your favour.</em><br>
