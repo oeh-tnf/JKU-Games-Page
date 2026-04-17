@@ -47,7 +47,7 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 | Sa 16:00   | Boardgame Area    | Phase 10                   |
 | Sa 17:00   | Boardgame Area    | Uno Flip!                  |
 | Sa 18:00   | Console Area | Super Smash Bros. Ultimate |
-| Sa 19:00   | Boardgame Area    | Anime Music Quiz           |
+| Sa 19:00   | Just Dance Area    | Anime Music Quiz           |
 | Sa 20:00   | LAN Area     | Minecraft Hunger Games     |
 
 Please ensure that you arrive at least 5 minutes before the tournament starts. If you are not present up until 5 minutes 
@@ -91,8 +91,9 @@ We will provide you with the game (and rules).
 Depending on the amount of sign-ups, we will play 1v1s / 2v2s ... in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
 
-### Anime Music Quiz (Boardgame Area) - Saturday, 7pm
-<em>TBA</em>
+### Anime Music Quiz (Just Dance Area) - Saturday, 7pm
+<em>Gotta catch em all!</em>
+Inspired from the website of the same name and multiple Anime sound quizzes on conventions, there will be a tournament to find out who knows most about anime music. The songs are chosen out of all existing music, openings, endings and midroll as well, so be ready for a broad mix from the most popular shounen to niche gems only the most well versed fans will know. After 15 seconds of music, you get another 15 seconds of thinking time, to lock in your choice, so let's put your knowledge to the test!
 
 ### Minecraft Hunger Games (LAN Area) - Saturday, 8pm
 <em>Happy Hunger Games! And may the odds be ever in your favour.</em><br>
