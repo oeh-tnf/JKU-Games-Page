@@ -37,7 +37,7 @@ floor of the Kepler Building:
 
 <figure>
   <a class="img" href="/assets/images/PP_Raumplan_2026S.png">
-    <img src="/assets/images/PP_Raumplan_2025W.png" style="width: 95%; max-width: 1000px;"
+    <img src="/assets/images/PP_Raumplan_2026S.png" style="width: 95%; max-width: 1000px;"
       alt="Pen & Paper Roomplan 2025W" />
   </a>
     <figcaption></figcaption>
