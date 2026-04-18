@@ -32,8 +32,7 @@ You can also contact some of the Game-Masters beforehand via <a class="dotted" h
 
 ### Roomplan
 
-This semester our Pen & Paper games will take place in rooms on the second floor of the Unicenter as well as the ground and first 
-floor of the Kepler Building:
+This semester our Pen & Paper games will take place in rooms on the second floor of the Unicenter as well as the ground floor of the Kepler Building:
 
 <figure>
   <a class="img" href="/assets/images/PP_Raumplan_2026S.png">
