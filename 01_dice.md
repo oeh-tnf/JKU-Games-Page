@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DICE
+title: Boardgames
 description: All the Board and Cardgames your heart desires
 image: 
 nav-menu: true
@@ -15,7 +15,7 @@ permalink: /dice/
     <figcaption></figcaption>
 </figure>
 
-## Highlights of the DICE-Area
+## Highlights of the Boardgame Area
 * We provide you with hundreds of Board- and Card-Games.
 * Enjoy thrilling [Pen & Paper adventures](/./penandpaper).
 * Play intense Group-games like "Werewolf" or "Two Rooms and a Boom".
@@ -32,7 +32,7 @@ permalink: /dice/
 </figure>
 
 ## Promoted Games
-During the JKU Games, we want to promote a few games in the DICE section at specific timeslots. This makes finding 
+During the JKU Games, we want to promote a few games in the Boardgame section at specific timeslots. This makes finding 
 allies and opponents to play with easier.
 
 | Start time | Game                 | Location         |

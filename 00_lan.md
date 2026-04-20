@@ -8,8 +8,9 @@ permalink: /lan/
 
 ## Highlights of the LAN-Area
 * Room for up to 60 PCs
-* An ever-growing VR- and Console-Area
+* An ever-growing VR and Console Area
 * Try new games in the Game Dev Area
+* Move your body in the Just Dance Area
 
 We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely 
 sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have 
@@ -47,7 +48,7 @@ Each game will be promoted for a three to four hour timeslot. This is the planne
 * You have to bring your own PC and gaming equipment!
 * Make sure to install large games you plan on playing beforehand to limit the strain on our infrastructure.
 * Your own powerstrip (Verteiler) might come in handy as well.
-* No need to bring anything for our VR- and Console-Area.
+* No need to bring anything for our VR and Console Area.
 
 <figure>
   <a class="img" href="/assets/images/lan/Console.jpg">

@@ -19,7 +19,7 @@ permalink: /penandpaper/
 
 In this semester’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new 
 to the game, we have got you covered! If you want to join an adventure, get a ticket using the button below and be 
-here on time! Please **sign up for only one game** at this time, remaining spots will be available at the Infopoint on 
+here on time! Please <b style="color:red;">sign up for only one game</b> at this time, remaining spots will be available at the Infopoint on 
 the Event.<br>
 
 <!-- **Note: The ticket shop has not yet opened. Check back regularly to not miss anything. We will also announce the start
@@ -37,7 +37,7 @@ This semester our Pen & Paper games will take place in rooms on the second floor
 <figure>
   <a class="img" href="/assets/images/PP_Raumplan_2026S.png">
     <img src="/assets/images/PP_Raumplan_2026S.png" style="width: 95%; max-width: 1000px;"
-      alt="Pen & Paper Roomplan 2025W" />
+      alt="Pen & Paper Roomplan 2026S" />
   </a>
     <figcaption></figcaption>
 </figure>

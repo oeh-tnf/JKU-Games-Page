@@ -15,6 +15,26 @@ We are always looking to improve our events and appreciate any feedback we get: 
 These are some of the more recent pieces of advice we received in the past and how we have tried to implement them. 
 The date always indicates when we last changed stuff to address an issue.
 
+### The names of some areas are confusing | 2026 SoSe
+To clarify a few of the names of our areas, we have renamed the "Dice Area" to "Boardgame Area" and added a "Silent" to 
+"Resting Area" to clarify that it is meant to be a quiet space for people to sleep or decompress when feeling overwhelmed 
+by the amount of people and noise at busy times. We hope that this makes it easier for you to find your way around and 
+know what to expect in each area.
+
+### We are hungry! | 2026 SoSe
+This has been a recurring piece of feedback for a while now. While we still operate on a rather limited budget, we 
+are happy to announce that we managed to double the part of it that gets dedicated to free snacks this semester! We are 
+also working on a better distribution of the snacks across the time of the event such that more people present means more 
+snacks available.
+
+### Could you please create an English version of all Werewolf game materials? | 2026 SoSe
+This was a great suggestion to make our games more inclusive for our international guests. We have now translated all of 
+our official Werewolf materials into English and will make them available to you during the event.
+
+### The Group Games need more space | 2025 WiSe
+As the number of players for our group games has been steadily increasing, we have decided to dedicate a second room to 
+them. Additionally, we have moved the Group Games to the 2nd floor to give them a more quiet atmosphere.
+
 ### It's hard to find fellow board gamers | 2025 WiSe
 You wished for a way to find other board gamers more easily, so we have created a dedicated LFP - Looking for Players Role
 on our Discord. Simply use the reaction in the Board Games channel to get notified when others are looking for players! 

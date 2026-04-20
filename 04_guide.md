@@ -7,7 +7,15 @@ nav-menu: true
 permalink: /guide/
 ---
 
-{% include notice.html %}
+## Event time and Resting Period
+The JKU Games 2026S will take place from **Friday, 01.05. (16:00)** until **Sunday, 03.05. (06:00)**, for 38 hours 
+non-stop.<br>
+On Saturday from **04:00 to 10:00**, the JKU Games Orga team will have a **resting period** and operate at limited 
+capacity. We'll use this time to clean up and prepare the next day, and might even catch an hour of sleep or two as 
+well. <br>
+During this time, you can stay at the event and play games, but you won't be able to get new ones from our Games Rental 
+section. Our Infopoint will be staffed, but outages in our technical infrastructure might not be fixed as quickly. In 
+other words: This is the perfect time to test our resting area or work on our giant puzzle.
 
 ## Roomplan
 <figure>
@@ -110,7 +118,7 @@ your PC in the LAN-Area, you can also reserve a spot [there](/./lan).
 ### Do I need to bring anything?
 Depends on what you are up to: If you want to play Computer Games, you will have to bring your own PC and peripherals. 
 We will hook you up with LAN and power - see the [LAN section](/./lan) for more details. If you are only here for the 
-DICE area, you should be good, but you can bring your favorite games of course just in case we missed it.
+boardgame area, you should be good, but you can bring your favorite games of course just in case we missed it.
 If you plan on staying for longer, you might want to bring a bit of money for food orders, and a sleeping bag.
 Most importantly, don't forget to bring your friends :P
 
