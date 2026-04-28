@@ -35,7 +35,6 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 | Fr 20:30   | Boardgame Area  | Poker                      |
 | Sa 16:00   | Boardgame Area  | Phase 10                   |
 | Sa 17:00   | Boardgame Area  | Uno Flip!                  |
-| Sa 18:00   | Console Area    | Super Smash Bros. Ultimate |
 | Sa 19:00   | Just Dance Area | Anime Music Quiz           |
 | Sa 20:00   | LAN Area        | Minecraft Hunger Games     |
 
@@ -75,10 +74,12 @@ We will play in a bracket system consisting of several groups playing each other
 advances to the next round.<br>
 We will provide you with the game (and rules).
 
+<!--
 ### Super Smash Bros Ultimate (Console Area) - Saturday, 6pm
 <em>Smash your buttons and Brawl your way through Super combos in this Ultimate fighting game between Bros.</em><br>
 Depending on the amount of sign-ups, we will play 1v1s / 2v2s ... in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
+-->
 
 ### Anime Music Quiz (Just Dance Area) - Saturday, 7pm
 <em>Gotta catch em all!</em>

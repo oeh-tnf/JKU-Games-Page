@@ -84,9 +84,9 @@ Some selected other food opportunities nearby:
 
 For more inspiration, check out <a href="https://www.jku.at/en/campus/recreation/food-drink/" target="_blank">JKU's food guide</a>!
 
-### Resting-Area
+### Silent Resting Area
 If you need a short break or want to recover from an intense Pen & Paper Adventure or a stressful CS-Match, you can 
-chill in our Resting-Area on the second floor. Please bring your own sleeping bags or mattresses. 
+chill in our Silent Resting Area on the second floor. Please bring your own sleeping bags or mattresses. 
 
 ## Awareness Team
 Like all of our bigger events, the JKU Games makes use of Awareness Teams. Awareness Team members wear magenta high-vis vests.
