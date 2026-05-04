@@ -15,6 +15,8 @@ permalink: /dice/
     <figcaption></figcaption>
 </figure>
 
+{% include notice.html %}
+
 ## Highlights of the Boardgame Area
 * We provide you with hundreds of Board- and Card-Games.
 * Enjoy thrilling [Pen & Paper adventures](/./penandpaper).

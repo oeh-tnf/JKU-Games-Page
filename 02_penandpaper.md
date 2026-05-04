@@ -15,6 +15,8 @@ permalink: /penandpaper/
     <figcaption></figcaption>
 </figure>
 
+{% include notice.html %}
+
 ## Welcome, Traveller!
 
 In this semester’s JKU Games you will get a chance to try out several Pen & Paper games. Old veteran or completely new 

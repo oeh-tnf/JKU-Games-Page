@@ -6,9 +6,8 @@ image:
 nav-menu: true
 permalink: /tournaments/
 ---
-<!--
+
 {% include notice.html %}
--->
 
 Compete for glory and fame (and little goodies) in one of our tournaments.<br>
 

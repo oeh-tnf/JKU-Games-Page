@@ -8,7 +8,7 @@ permalink: /guide/
 ---
 
 ## Event time and Resting Period
-The JKU Games 2026S will take place from **Friday, 01.05. (16:00)** until **Sunday, 03.05. (06:00)**, for 38 hours 
+The JKU Games 2026W will take place from **Friday, 11.12. (16:00)** until **Sunday, 13.12. (06:00)**, for 38 hours 
 non-stop.<br>
 On Saturday from **04:00 to 10:00**, the JKU Games Orga team will have a **resting period** and operate at limited 
 capacity. We'll use this time to clean up and prepare the next day, and might even catch an hour of sleep or two as 
@@ -16,6 +16,8 @@ well. <br>
 During this time, you can stay at the event and play games, but you won't be able to get new ones from our Games Rental 
 section. Our Infopoint will be staffed, but outages in our technical infrastructure might not be fixed as quickly. In 
 other words: This is the perfect time to test our resting area or work on our giant puzzle.
+
+{% include notice.html %}
 
 ## Roomplan
 <figure>
@@ -69,8 +71,6 @@ Open on Friday, 17:00-02:00.
 
 #### More Food
 Some selected other food opportunities nearby:
-
-**NOTE**: The 1st of May is a **public holiday**, so some places, especially supermarkets, might be **closed**. Please check the opening hours before you go!
 
 * Supermarkets:
   * Spar JKU Campus: Friday 07:30-18:00
