@@ -39,7 +39,7 @@ allies and opponents to play with easier.
 
 | Start time | Game                 | Location         |
 | ---------- | -------------------- | ---------------- |
-| Fr 19:00   | Two Rooms and a Boom | Group Games Room |
+| Fr 19:45   | Two Rooms and a Boom | Group Games Room |
 | Fr 23:00   | Werwolf              | Group Games Room |
 | Sa 18:00   | Werwolf              | Group Games Room |
 
@@ -59,9 +59,9 @@ a valid move — in that case, the player with the most "points" wins.<br>
 This group game will have you protect the president, assassinate him, or sow chaos doing an entirely different task. 
 Of course, not knowing the roles of others, being split up into two rooms without means of communication, and having 
 people sent back and forth between them does not make succeeding any simpler. That's why communication is key.<br>
-Two Rooms and a Boom will be played on Friday starting at 19:00 in the Group Games room, where you will get a more 
+Two Rooms and a Boom will be played on Friday starting at 19:45 in the Group Games room, where you will get a more 
 in-depth explanation of the rules and roles.
-After that, new rounds will start approximately every 45 minutes until 22:00 (i.e: 19:00, 19:45, 20:30, 21:15) as 
+After that, new rounds will start approximately every 45 minutes until 22:00 (i.e: 19:45, 20:30, 21:15) as 
 announced via <a href="{{ site.discord_url }}" target="_blank">Discord</a> in the two-rooms-and-a-boom channel.
 
 ### Werewolf
