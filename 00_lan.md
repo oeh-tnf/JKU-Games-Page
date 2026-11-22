@@ -6,10 +6,14 @@ nav-menu: true
 permalink: /lan/
 ---
 
-{% include notice.html %}
+<!-- {% include notice.html %} -->
 
-## Highlights of the LAN-Area
-* Room for up to 60 PCs
+## BYOD
+Our LAN Area is a BYOD (Bring Your Own Device) area. This means that you have to bring your own PC and gaming equipment.
+Don't worry though, if you are just here for the VR and Console Area. Here, everything will be provided as usual.
+
+## Highlights of the LAN Area
+* Room for up to 80 PCs
 * An ever-growing VR and Console Area
 * Try new games in the Game Dev Area
 * Move your body in the Just Dance Area
@@ -18,10 +22,10 @@ We usually have enough space for all PC players, so you do not need to reserve a
 sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have 
 reserved a spot will be prioritized if spots run out.
 
-<!-- **Note: The ticket shop has not yet opened. Check back regularly to not miss anything. We will also announce the start
-of the ticket shop on Discord.** -->
+**Note: The ticket shop has not yet opened. Check back regularly to not miss anything. We will also announce the start
+of the ticket shop on Discord.**
 
-<a href="https://pretix.eu/gamesjku/S26/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
+<a href="https://pretix.eu/gamesjku/W26/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
 <!--
 ## Promoted Games
@@ -49,7 +53,7 @@ Each game will be promoted for a three to four hour timeslot. This is the planne
 * We provide you with all the infrastructure, e.g. LAN cable, tables etc.
 * You have to bring your own PC and gaming equipment!
 * Make sure to install large games you plan on playing beforehand to limit the strain on our infrastructure.
-* Your own powerstrip (Verteiler) might come in handy as well.
+* Your own power strip (Verteiler) might come in handy as well.
 * No need to bring anything for our VR and Console Area.
 
 <figure>

@@ -21,9 +21,9 @@ other words: This is the perfect time to test our resting area or work on our gi
 
 ## Roomplan
 <figure>
-  <a class="img" href="/assets/images/Roomplan_JKU_Games_2026S.png">
-    <img src="/assets/images/Roomplan_JKU_Games_2026S.png" style="width: 95%; max-width: 1000px;"
-      alt="Roomplan JKU Games 2026S" />
+  <a class="img" href="/assets/images/Roomplan_JKU_Games_2026W.png">
+    <img src="/assets/images/Roomplan_JKU_Games_2026W.png" style="width: 95%; max-width: 1000px;"
+      alt="Room plan JKU Games 2026W" />
   </a>
     <figcaption></figcaption>
 </figure>
@@ -58,16 +58,15 @@ Note that this is just an approximate schedule subject to change. Check out the 
 <a href="{{ site.discord_url }}" target="_blank">Discord</a> to receive live updates.<br>
 You can only pay in cash, but don't worry, there is an ATM nearby.
 
-<!--
 #### LUI
 The Linzer Uni Inn, the Student Union's bar, will be open on Friday. They are conveniently located in the same building: 
 You can get a drink and some snacks there as well, and play Billiards or Darts. Check out their 
-<a href="https://oeh.jku.at/en/oeh-jku/departments/lui" target="_blank">website</a> and 
-<a href="https://www.facebook.com/LUI.LinzerUniInn" target="_blank">Facebook page</a> 
+<a href="https://oeh.jku.at/en/oeh-jku/departments/lui" target="_blank">website</a>, 
+<a href="https://www.facebook.com/LUI.LinzerUniInn" target="_blank">Facebook page</a> or 
+<a href="https://www.instagram.com/lui.jku" target="_blank">Instagram</a> 
 for more information.
 
 Open on Friday, 17:00-02:00.
--->
 
 #### More Food
 Some selected other food opportunities nearby:
@@ -108,6 +107,16 @@ No, the JKU Games are a completely free event. We are entirely funded by sponsor
 (ÖH TNF). Naturally, we are always happy about any donations as well. All left-over funding will be re-invested in other 
 events.
 
+### Why are you closed on Sunday Afternoon?
+Throughout the last years, we have continuously extended our opening times and can provide you with almost 40 hours of
+fun. Unfortunately, since we are a team of volunteers, we are simply not able to find the people required to add an
+additional day of shifts (e.g. for our service point, game rental etc.).<br>
+As you can probably imagine, it also takes quite some time to clean up after an event like ours, especially since we
+have expanded the event area quite a bit. As our locations usually need to be ready for regular university events on
+Monday, we run into problems here as well.<br>
+And finally, the main organizers tend to be awake throughout most of the event - we desperately need the sleep by Sunday
+morning, I can tell you as much :P
+
 ### Can I reserve a space?
 There are no general reservations for our event. Given our truly massive location, we usually have enough space for you all.
 
@@ -139,16 +148,6 @@ to the nature of our Games being an over-night event.
 Please do! While the event is primarily targeted at people studying or working at the JKU and at pupils considering a 
 study here, your friends and family are very welcome to join as well.
 
-### Why are you closed on Sunday Afternoon?
-Throughout the last years, we have continuously extended our opening times and can provide you with almost 40 hours of 
-fun. Unfortunately, since we are a team of volunteers, we are simply not able to find the people required to add an 
-additional day of shifts (e.g. for our service point, game rental etc.).<br>
-As you can probably imagine, it also takes quite some time to clean up after an event like ours, especially since we 
-have expanded the event area quite a bit. As our locations usually need to be ready for regular university events on 
-Monday, we run into problems here as well.<br>
-And finally, the main organizers tend to be awake throughout most of the event - we desperately need the sleep by Sunday 
-morning, I can tell you as much :P 
-
 ### Why don't you offer X and Y?
 Since our resources are limited, we always have to choose carefully what to offer. If you have an idea that could fit 
 our event, please don't hesitate to [contact us](/./about) - we'll try our best to implement it!<br>
@@ -178,7 +177,7 @@ Fortunately, there are some other ways the spirit of the Games can stay with you
 * **External Partners**: Some of our external partners who provided activities at the JKU Games also have their own events. [Check them out!](/./about/#external-partners)
 * **JKU Gaming Discord**: If you enjoyed our Discord and are sad to see it get locked down again after the event, you can join the [JKU Gaming Community](https://discord.gg/Wfb2KbnRZV).
 * **Next JKU Games**: If everything else fails, maybe the outlook for the next JKU Games can keep your hopes up: 
-We are already planning to have the next Games on 11.12.-13.12.2026!
+We are already planning to have the next Games on 30.04.-02.05.2027!
 
 ## Ask Us Anything
 If you still have questions, feel free to contact us via [games@oeh.jku.at](mailto:games@oeh.jku.at) or using our 

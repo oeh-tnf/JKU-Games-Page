@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Boardgames
-description: All the Board and Cardgames your heart desires
+description: All the Board and Card games your heart desires
 image: 
 nav-menu: true
 permalink: /dice/
@@ -15,15 +15,20 @@ permalink: /dice/
     <figcaption></figcaption>
 </figure>
 
-{% include notice.html %}
+<!-- {% include notice.html %} -->
 
 ## Highlights of the Boardgame Area
-* We provide you with hundreds of Board- and Card-Games.
+* We provide you with more than a hundred Board- and Card-Games.
 * Enjoy thrilling [Pen & Paper adventures](/./penandpaper).
 * Play intense Group-games like "Werewolf" or "Two Rooms and a Boom".
 * Puzzle to your heart's content or assist us in crafting decoration.
 * Meet external gaming clubs and play-test new games.
 * Compete in exciting [Tournaments](/./tournaments).
+
+## Looking for players
+Came to the Games alone? Need more players for your game? No problem! We have a Discord role just for that. Join our
+<a href="{{ site.discord_url }}" target="_blank"> Discord Server </a> and assign yourself the "Looking for Players" role 
+to be found by other players, or ping the role in the according boardgames channel to find players.
 
 <figure>
   <a class="img" href="/assets/images/dice/Dice_Area_Collage.jpg">
@@ -34,7 +39,7 @@ permalink: /dice/
 </figure>
 
 ## Promoted Games
-During the JKU Games, we want to promote a few games in the Boardgame section at specific timeslots. This makes finding 
+During the JKU Games, we want to promote a few games in the Group Games section at specific timeslots. This makes finding 
 allies and opponents to play with easier.
 
 | Start time | Game                 | Location         |

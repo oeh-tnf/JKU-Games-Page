@@ -24,7 +24,7 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 
 <!-- **Note: The ticket shop has not yet opened. Check back regularly to not miss anything.** -->
 
-<a href="https://pretix.eu/gamesjku/S26/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
+<a href="https://pretix.eu/gamesjku/W26/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 
 | Start time | Location        | Game                       |
@@ -37,8 +37,10 @@ guarantees you to get a spot. Left-over spots can also be booked during the even
 | Sa 19:00   | Just Dance Area | Anime Music Quiz           |
 | Sa 20:00   | LAN Area        | Minecraft Hunger Games     |
 
+
 Please ensure that you **arrive at least 5 minutes before the tournament starts**. If you are not present up until 5 minutes 
 before, you may be substituted from the tournament.
+
 
 ### Mario Kart 8 Deluxe (Console Area) - Friday, 5.30pm
 <em>Race around in circles in whimsical vehicles, get all the power-ups and knock your enemies off the track.</em><br>
@@ -114,7 +116,7 @@ We look forward to an exciting and competitive chess tournament during the JKU G
 
 ### Speed-Puzzle Challenge
 <em>You have as many tries as you want, but only one can be the fastest.</em><br>
-The quickest one to solve our 49 pieces JKU GAMES SS26-Puzzle will be awarded the title of "JKU GAMES SS26 Puzzle 
+The quickest one to solve our 49 pieces JKU GAMES WS26-Puzzle will be awarded the title of "JKU GAMES WS26 Puzzle 
 Champion" as well as this year's jigsaw puzzle itself.<br>
 That's really all there is to say about it. The challenge will be available in the puzzle area from Friday 4pm till 
 Sunday 12am (midnight). After that we will contact the final record time holder and make sure you receive your prize.<br>
