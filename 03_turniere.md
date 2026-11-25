@@ -7,7 +7,7 @@ nav-menu: true
 permalink: /tournaments/
 ---
 
-{% include notice.html %}
+<!-- {% include notice.html %} -->
 
 Compete for glory and fame (and little goodies) in one of our tournaments.<br>
 
@@ -22,82 +22,57 @@ Compete for glory and fame (and little goodies) in one of our tournaments.<br>
 To participate in a tournament, simply get yourself a free ticket using the button below! This helps us plan ahead and 
 guarantees you to get a spot. Left-over spots can also be booked during the event as well.
 
-<!-- **Note: <b style="color:red;">The ticket shop has not yet opened.</b> Check back regularly to not miss anything. 
-We will also announce the start of the ticket shop on Discord.** -->
+**Note: <b style="color:red;">The ticket shop has not yet opened.</b> Check back regularly to not miss anything. 
+We will also announce the start of the ticket shop on Discord.**
 
 <a href="https://pretix.eu/gamesjku/W26/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 
 
-| Start time | Location        | Game                       |
-|------------|-----------------|----------------------------|
-| Fr 17:30   | Console Area    | Mario Kart                 |
-| Fr 19:30   | LAN Area        | OpenGuessr                 |
-| Fr 20:30   | Boardgame Area  | Poker                      |
-| Sa 16:00   | Boardgame Area  | Phase 10                   |
-| Sa 17:00   | Boardgame Area  | Uno Flip!                  |
+| Start time | Location        | Game                    |
+|------------|---------------------------|----------------------------|
+| Fr 18:00   | Just Dance Area | Rhythm Heaven Groove     |
+| Fr 19:00   | LAN Area        | OpenGuessr                 |
+| Fr 20:00   | Console Area    | Mario Kart                |
+| Sa 18:00   | Console Area  | Super Smash Bros Ultimate  |
 | Sa 19:00   | Just Dance Area | Anime Music Quiz           |
-| Sa 20:00   | LAN Area        | Minecraft Hunger Games     |
+| Sa 20:00   | Boardgame Area, 2nd Floor | Poker     |
 
 
 Please ensure that you **arrive at least 5 minutes before the tournament starts**. If you are not present up until 5 minutes 
 before, you may be substituted from the tournament.
 
 
-### Mario Kart 8 Deluxe (Console Area) - Friday, 5.30pm
-<em>Race around in circles in whimsical vehicles, get all the power-ups and knock your enemies off the track.</em><br>
-A new Grand Prix will take place every 20 Minutes, starting at 17:30 - the timeslots of the individual players will be 
-announced on Discord, lists are also available at the Info-Point.<br>
-At 20:00, we will have the grand finale of all group winners.<br>
-A switch console, controllers and the game are provided.
+### Rhythm Heaven Groove (Just Dance Area) - Friday, 6pm
+More Info coming soon.
 
-### GeoGuessr Alternative: OpenGuessr (LAN Area) - Friday, 7.30pm
+### OpenGuessr (LAN Area) - Friday, 7pm
 <em>Do you know where you are? Let's hope the street view car was not having a bad day.</em><br>
 In this tournament, you will be placed in random locations around the world using Street View. Your task is to
-figure out where you are, place a marker on the map as accurately as possible and collect points based on the 
-distance to the actual location. The players will be placed in groups and the best two of each group will move on to 
+figure out where you are, place a marker on the map as accurately as possible and collect points based on the
+distance to the actual location. The players will be placed in groups and the best two of each group will move on to
 the next round.<br>
 Please bring a suitable device with internet access to participate.
 
-### Poker (Boardgame Area) - Friday, 8.30pm
-<em>Test your luck and your poker face in this classic card game.</em><br>
-It is Poker, is there anything else to say? (Obviously we don't play with real stakes)<br>
-We will provide you with the game.
+### Mario Kart 8 Deluxe (Console Area) - Friday, 8pm
+<em>Race around in circles in whimsical vehicles, get all the power-ups and knock your enemies off the track.</em><br>
+A new Grand Prix will take place every 20 Minutes, starting at 20:00 - the timeslots of the individual players will be 
+announced on Discord, lists are also available at the Info-Point.<br>
+At 22:00, we will have the grand finale of all group winners.<br>
+A switch console, controllers and the game are provided.
 
-### Phase10 (Boardgame Area) - Saturday, 4pm
-<em>Prepare for a game of wits, luck, and strategic card play in the Phase 10 Tournament! Will you advance swiftly 
-through the phases, or be left scrambling to catch up?</em><br>
-We will play one round, depending on the amount of players with two decks at once.<br>
-We will provide you with the game (and rules).
-
-### UNO Flip! (Boardgame Area) - Saturday, 5pm
-<em>UNO, but they accidentally printed both sides of the cards. It's the classical game, but with a little twist (or 
-dare I say "Flip"?)</em><br>
-We will play in a bracket system consisting of several groups playing each other. First to get rid of their cards 
-advances to the next round.<br>
-We will provide you with the game (and rules).
-
-<!--
 ### Super Smash Bros Ultimate (Console Area) - Saturday, 6pm
 <em>Smash your buttons and Brawl your way through Super combos in this Ultimate fighting game between Bros.</em><br>
 Depending on the amount of sign-ups, we will play 1v1s / 2v2s ... in a bracket system.<br>
 A Nintendo Switch console, controllers, and the game will be provided.
--->
 
 ### Anime Music Quiz (Just Dance Area) - Saturday, 7pm
 <em>Gotta catch em all!</em>
 Inspired from the website of the same name and multiple Anime sound quizzes on conventions, there will be a tournament to find out who knows most about anime music. The songs are chosen out of all existing music, openings, endings and midroll as well, so be ready for a broad mix from the most popular shounen to niche gems only the most well versed fans will know. After 15 seconds of music, you get around 15 seconds of thinking time to lock in your choice, so let's put your knowledge to the test!
 
-### Minecraft Hunger Games (LAN Area) - Saturday, 8pm
-<em>Happy Hunger Games! And may the odds be ever in your favour.</em><br>
-In the world of Minecraft Hunger Games, there’s only one rule: survive. Gather resources, set traps, and fight for your 
-life as you 
-go up against other players with the same goal. But beware — the arena is unforgiving, and only the best will emerge 
-victorious! 
-Do you have what it takes to be the last one standing?<br>
-Three rounds will be played. In the first two rounds, the top half of players will advance to the next round. The final 
-round will determine the winner of the tournament.<br>
-Bring your computer with the installed game to the tournament. Please install the game before the event to reduce load 
-on our network.
+### Poker (Boardgame Area, 2nd Floor) - Friday, 8pm
+<em>Test your luck and your poker face in this classic card game.</em><br>
+It is Poker, is there anything else to say? (Obviously we don't play with real stakes)<br>
+We will provide you with the game.
 
 
 ## Async Tournaments
@@ -111,8 +86,10 @@ time during the event. Upon the conclusion of a match, the defeated player will 
 victor. The tournament concludes for a player when they have no buttons remaining. Alternatively, if a participant 
 wishes to conclude their challenge period before running out of buttons, they can return their remaining buttons to the 
 Games Rental section and only then the score will be recorded for evaluation at the conclusion of the tournament.<br>
-The announcement of the tournament winner is scheduled for 12am (midnight) on Sunday. In case that a winner is no longer
-present at the JKU Games location, we will contact them to convey their victory.<br>
+To make finding opponents easier, and to make sure participants won't miss any important announcements, we created a 
+<em>Chess-Role</em> on our <a href="{{ site.discord_url }}" target="_blank">Discord server</a>.
+The announcement of the tournament winner is scheduled for 11pm on Saturday at the Infopoint. In case that a winner is 
+no longer present at the JKU Games location, we will contact them to convey their victory.<br>
 We look forward to an exciting and competitive chess tournament during the JKU Games!
 
 ### Speed-Puzzle Challenge
