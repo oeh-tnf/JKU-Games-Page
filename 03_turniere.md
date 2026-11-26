@@ -43,7 +43,13 @@ before, you may be substituted from the tournament.
 
 
 ### Rhythm Heaven Groove (Just Dance Area) - Friday, 6pm
-More Info coming soon.
+<em>Race from start to finish line while keeping the rhythm, the more precise, the faster you are! But watch out for 
+obstacles, they will slow you down if you don’t react in time. Who will keep the beat and cross the line first?</em><br>
+Rhythm Heaven Groove mostly revolves around keeping the beat and reacting to signals in the music. The game is very 
+beginner-friendly but nevertheless competitive, everyone should be able to join easily, as long as they bring a sense of 
+rhythm!<br>
+The tournament will be organized in brackets with 4 players playing at a time. The difficulty will increase each round, 
+so there is always something new to learn.
 
 ### OpenGuessr (LAN Area) - Friday, 7pm
 <em>Do you know where you are? Let's hope the street view car was not having a bad day.</em><br>

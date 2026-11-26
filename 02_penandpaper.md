@@ -169,7 +169,7 @@ first and second floor of the Kepler Building:
 | Adventure        | Der Fluch von Tannhall|
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Language         | Deutsch|
-| Game-Master      | Oliver [stormcomp]|
+| Game-Master      | Oliver [stormcorp]|
 | Rules            | DnD 5e|
 | Suitable for     | Neulinge willkommen! Regeln werden am Tisch erklärt.|
 | Description      | Eine Gruppe von Abenteurern, angeheuert, um einen Wagen über einen Gebirgspass zu eskortieren, gerät unerwartet in einen heftigen Schneesturm.<br>Schutz kann nur noch das nahe Dorf Tannhall bieten, welches gerade mitten in den Vorbereitungen für das nahende Lichterfest steckt. Doch schnell ist klar: Hier stimmt etwas ganz und gar nicht.<br>Als sich in der eisigen Kälte unheimliche Gestalten erheben, liegt es an den Abenteurern, das Dorf zu retten. |
