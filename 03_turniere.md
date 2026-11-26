@@ -69,7 +69,7 @@ A Nintendo Switch console, controllers, and the game will be provided.
 <em>Gotta catch em all!</em>
 Inspired from the website of the same name and multiple Anime sound quizzes on conventions, there will be a tournament to find out who knows most about anime music. The songs are chosen out of all existing music, openings, endings and midroll as well, so be ready for a broad mix from the most popular shounen to niche gems only the most well versed fans will know. After 15 seconds of music, you get around 15 seconds of thinking time to lock in your choice, so let's put your knowledge to the test!
 
-### Poker (Boardgame Area, 2nd Floor) - Friday, 8pm
+### Poker (Boardgame Area, 2nd Floor) - Saturday, 8pm
 <em>Test your luck and your poker face in this classic card game.</em><br>
 It is Poker, is there anything else to say? (Obviously we don't play with real stakes)<br>
 We will provide you with the game.
