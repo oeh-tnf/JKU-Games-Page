@@ -30,6 +30,11 @@ Came to the Games alone? Need more players for your game? No problem! We have a 
 <a href="{{ site.discord_url }}" target="_blank"> Discord Server </a> and assign yourself the "Looking for Players" role 
 to be found by other players, or ping the role in the according boardgames channel to find players.
 
+## Wood Block Pixel Art
+Since it was received well, you will get the chance again to craft your own pixel art out of small wooden blocks. Glue 
+them together and paint them to make your creative ideas come to life. The crafting station, that can be found in the 
+Deko & Puzzle Area, will be open at the following times: Friday 20:00 - 22:00, Saturday 14:00 - 16:00 and 20:00 - 22:00<br><br>
+
 <figure>
   <a class="img" href="/assets/images/dice/Dice_Area_Collage.jpg">
     <img src="/assets/images/dice/Dice_Area_Collage.jpg" style="width: 95%; max-width: 1000px;"

@@ -17,7 +17,7 @@ During this time, you can stay at the event and play games, but you won't be abl
 section. Our Infopoint will be staffed, but outages in our technical infrastructure might not be fixed as quickly. In 
 other words: This is the perfect time to test our resting area or work on our giant puzzle.
 
-{% include notice.html %}
+<!-- {% include notice.html %} -->
 
 ## Roomplan
 <figure>
@@ -41,8 +41,8 @@ Coffee is not for you, but you could still use a boost?<br>
 -->
 
 #### Pizza
-Periodically, we will also organize a Pizza delivery call to <a href="https://www.instagram.com/pizzamiamore_/" target="_blank">Mi Amore</a> with 
-special conditions.
+Periodically, we will also organize a Pizza delivery call to <a href="https://www.pizzeriaaustro.at/" target="_blank">Pizzeria Austro</a> 
+with special conditions.
 You will be informed about when the next order takes place at the event, we currently plan on placing orders at around 
 these times: <br>
 * FR, 18:00
@@ -123,6 +123,11 @@ There are no general reservations for our event. Given our truly massive locatio
 Some of our activities (such as [Tournaments](/./tournaments) and [Pen and Papers](/./penandpaper)) require reservation, however. Get a free 
 ticket to reserve a slot, see the respective sections for more. If you want to make sure that you will get a place for 
 your PC in the LAN-Area, you can also reserve a spot [there](/./lan).
+
+### Is there free parking available?
+Not generally, no. While there is street parking around the university campus, these spots are quite limited and tend to 
+fill up quickly. If you plan on using the university's parking spaces, we sell exit tickets for 7€ at the Infopoint valid 
+through Sunday of the JKU Games weekend.
 
 ### Do I need to bring anything?
 Depends on what you are up to: If you want to play Computer Games, you will have to bring your own PC and peripherals. 

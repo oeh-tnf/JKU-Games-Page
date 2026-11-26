@@ -24,8 +24,8 @@ to the game, we have got you covered! If you want to join an adventure, get a ti
 here on time! Please <b style="color:red;">sign up for only one game</b> at this time, remaining spots will be available at the Infopoint on 
 the Event.<br>
 
-**Note: <b style="color:red;">The ticket shop has not yet opened.</b> Check back regularly to not miss anything. 
-We will also announce the start of the ticket shop on Discord.**
+<!-- **Note: <b style="color:red;">The ticket shop has not yet opened.</b> Check back regularly to not miss anything. 
+We will also announce the start of the ticket shop on Discord.** -->
 
 <a href="https://pretix.eu/gamesjku/W26/" target="_blank" rel="noopener noreferrer" class="button img">Get a free ticket!</a>
 

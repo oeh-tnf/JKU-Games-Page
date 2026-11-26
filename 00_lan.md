@@ -17,13 +17,14 @@ Don't worry though, if you are just here for the VR and Console Area. Here, ever
 * An ever-growing VR and Console Area
 * Try new games in the Game Dev Area
 * Move your body in the Just Dance Area
+* Compete in exciting [Tournaments](/./tournaments)
 
 We usually have enough space for all PC players, so you do not need to reserve a place. Still, if you want to make absolutely 
 sure that you are not transporting your 50kg machine here in vain, you can grab a free reservation below. People that have 
 reserved a spot will be prioritized if spots run out.
 
-**Note: <b style="color:red;">The ticket shop has not yet opened.</b> Check back regularly to not miss anything. 
-We will also announce the start of the ticket shop on Discord.**
+<!-- **Note: <b style="color:red;">The ticket shop has not yet opened.</b> Check back regularly to not miss anything. 
+We will also announce the start of the ticket shop on Discord.** -->
 
 <a href="https://pretix.eu/gamesjku/W26/" target="_blank" rel="noopener noreferrer" class="button img">Reserve a spot!</a>
 
